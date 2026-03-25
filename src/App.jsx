@@ -6,7 +6,7 @@ import './App.css';
 
 function App() {
   const [activeTab, setActiveTab] = useState('preview');
-  const [selectedDay, setSelectedDay] = useState(2); // Default to Day 2 for demonstration
+  const [selectedDay, setSelectedDay] = useState(1); // Default to Day 1
 
   const navItems = [
     { id: 'preview', label: 'Preview' },

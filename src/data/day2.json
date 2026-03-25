@@ -40,63 +40,99 @@
         "type": "Noun",
         "definition": "An activity that you do for pleasure when you are not working.",
         "translation": "爱好",
-        "example": "My favorite hobby is playing the guitar."
+        "example": "\"My favorite hobby is playing the guitar.\""
       },
       {
         "word": "Free time / Spare time",
         "type": "Noun",
         "definition": "Time when you do not have to work or study.",
         "translation": "空闲时间/业余时间",
-        "example": "In my free time, I like to read."
+        "example": "\"In my free time, I like to read.\""
       },
       {
         "word": "Interest",
         "type": "Noun",
         "definition": "Something that you enjoy learning about or doing.",
         "translation": "兴趣",
-        "example": "I have a strong interest in history."
+        "example": "\"I have a strong interest in history.\""
       },
       {
         "word": "Relax",
         "type": "Verb",
         "definition": "To rest and feel calm.",
         "translation": "放松",
-        "example": "Listening to music helps me relax."
+        "example": "\"Listening to music helps me relax.\""
       },
       {
         "word": "Indoor / Outdoor",
         "type": "Adjectives",
         "definition": "Happening inside a building / happening outside in nature.",
         "translation": "室内的/户外的",
-        "example": "I prefer outdoor sports like soccer."
+        "example": "\"I prefer outdoor sports like soccer.\""
       },
       {
         "word": "Talent",
         "type": "Noun",
         "definition": "A natural ability to do something well.",
         "translation": "天赋/才华",
-        "example": "She has a talent for painting."
+        "example": "\"She has a talent for painting.\""
       },
       {
         "word": "Practice",
         "type": "Verb",
         "definition": "To do something again and again to get better at it.",
         "translation": "练习",
-        "example": "I practice English every day."
+        "example": "\"I practice English every day.\""
       },
       {
         "word": "Collect",
         "type": "Verb",
         "definition": "To buy or find things of a certain type and keep them.",
         "translation": "收集/收藏",
-        "example": "When I was young, I used to collect stamps."
+        "example": "\"When I was young, I used to collect stamps.\""
       },
       {
         "word": "Give up",
         "type": "Phrasal verb",
         "definition": "To stop doing something.",
         "translation": "放弃",
-        "example": "I tried to learn the piano, but I gave up."
+        "example": "\"I tried to learn the piano, but I gave up.\""
+      }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "<strong>Today's Topic:</strong> We discussed daily routines, household chores, and what everyone likes to do in their free time.",
+      "<strong>Highlights:</strong> We talked about playing mobile games (like Candy Crush and Link-Link), watching TV series, and future hobbies to try, such as knitting sweaters, visiting ancient towns, and even skydiving!"
+    ],
+    "keyVocabulary": [
+      { "word": "Spare time / Free time", "spellOut": "Spare time, Free time", "translation": "空闲时间", "example": "\"I have a lot of spare time on the weekends.\"" },
+      { "word": "Do the laundry", "spellOut": "Do the laundry", "translation": "洗衣服", "example": "\"I need to do the laundry today.\" (More natural than saying 'wash clothes')" },
+      { "word": "Washer & Dryer", "spellOut": "Washer and Dryer", "translation": "洗衣机 / 烘干机", "example": "\"I put my clothes in the washer, and then the dryer.\"" },
+      { "word": "Tile-matching game", "spellOut": "Tile matching game", "translation": "消除类游戏", "example": "\"Candy Crush is a very popular tile-matching game.\"" },
+      { "word": "TV series / Drama", "spellOut": "TV series, Drama", "translation": "电视剧 / 剧集", "example": "\"I like to watch TV series. Each show has many episodes (集).\"" },
+      { "word": "Knit sweaters", "spellOut": "Knit sweaters", "translation": "织毛衣", "example": "\"I want to learn how to knit sweaters in the future.\"" },
+      { "word": "Ancient town", "spellOut": "Ancient town", "translation": "古镇", "example": "\"I love traveling to see beautiful ancient towns.\"" },
+      { "word": "Skydiving", "spellOut": "Skydiving", "translation": "跳伞", "example": "\"If I had unlimited money, I would go skydiving!\"" }
+    ],
+    "grammarTips": [
+      {
+        "title": "Time is Uncountable",
+        "description": "When talking about having free time, we don't add an \"s\" to the end of time.",
+        "incorrect": "\"I have a lot of spare times.\"",
+        "correct": "\"I have a lot of spare time.\""
+      },
+      {
+        "title": "Playing Games",
+        "description": "We don't \"play\" the phone itself, we play games *on* the phone.",
+        "incorrect": "\"I play phone.\"",
+        "correct": "\"I play games on my phone.\""
+      },
+      {
+        "title": "Talking About Locations",
+        "description": "It sounds more natural to name the country rather than use the adjective form when describing where a house is.",
+        "incorrect": "\"My Chinese home has a real television.\"",
+        "correct": "\"My home in China has a real television.\""
       }
     ]
   },

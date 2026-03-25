@@ -1,0 +1,172 @@
+{
+  "day": 1,
+  "title": "Hometowns & Childhood Memories",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 1! 🎉",
+        "zh": "欢迎来到第一天！🎉"
+      },
+      {
+        "en": "Today is all about getting comfortable.",
+        "zh": "今天的主题是让你感到放松自在。"
+      },
+      {
+        "en": "Don't worry about making mistakes—the goal today is just to get used to speaking English out loud.",
+        "zh": "不要担心犯错——今天的目标只是让你习惯大声说英语。"
+      },
+      {
+        "en": "We are going to talk about where you grew up and your favorite childhood memories.",
+        "zh": "我们将谈论你长大的地方和你最喜欢的童年回忆。"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "How would you describe the place where you grew up to someone who has never been there?",
+        "zh": "你会如何向从未去过那里的人描述你长大的地方？"
+      },
+      {
+        "en": "What was your absolute favorite thing to do when you were 10 years old?",
+        "zh": "当你10岁的时候，你最喜欢做的事情是什么？"
+      },
+      {
+        "en": "Who was your childhood best friend, and what did you do together?",
+        "zh": "你童年最好的朋友是谁，你们一起做过什么？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Hometown",
+        "translation": "家乡/故乡",
+        "example": ""
+      },
+      {
+        "word": "Childhood",
+        "translation": "童年",
+        "example": "\"I had a happy childhood.\""
+      },
+      {
+        "word": "Grow up",
+        "translation": "长大",
+        "example": "\"I grew up in Beijing.\""
+      },
+      {
+        "word": "Memory",
+        "translation": "记忆/回忆",
+        "example": "\"I have many good memories.\""
+      },
+      {
+        "word": "Neighborhood",
+        "translation": "街区/社区",
+        "example": ""
+      },
+      {
+        "word": "Used to",
+        "translation": "过去常常",
+        "example": "\"I used to play outside every day.\""
+      },
+      {
+        "word": "Primary school / Elementary school",
+        "translation": "小学",
+        "example": ""
+      },
+      {
+        "word": "Local",
+        "translation": "当地的/本地的",
+        "example": "\"I love the local food.\""
+      },
+      {
+        "word": "Friendly",
+        "translation": "友好的",
+        "example": "\"The people in my hometown are very friendly.\""
+      },
+      {
+        "word": "Miss",
+        "translation": "想念/怀念",
+        "example": "\"I miss my old friends.\""
+      }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "<strong>Kiki</strong> shared what it is like living in Nanchang, discussing the hot summers, mildly spicy rice noodles, and local landmarks like the Tengwang Pavilion and the 303 skyscraper.",
+      "<strong>Yating</strong> talked about Fuzhou, the beautiful \"Blue Tears\" natural phenomenon in Pingtan, and local sweet and sour seafood dishes like lychee pork."
+    ],
+    "keyVocabulary": [
+      {
+        "word": "Mussel",
+        "spellOut": "Mussel",
+        "translation": "青口 / 贻贝",
+        "example": "\"Pronounced exactly like 'muscle' (肌肉), but spelled differently!\""
+      },
+      {
+        "word": "Freshwater lobster / Crayfish / Crawfish",
+        "spellOut": "Freshwater lobster, Crayfish, Crawfish",
+        "translation": "小龙虾",
+        "example": "\"We use these terms instead of saying 'little lobster'.\""
+      },
+      {
+        "word": "Natural phenomenon",
+        "spellOut": "Natural phenomenon",
+        "translation": "自然现象",
+        "example": "\"The Blue Tears in Pingtan are a beautiful natural phenomenon.\""
+      },
+      {
+        "word": "Skyscraper",
+        "spellOut": "Skyscraper",
+        "translation": "摩天大楼",
+        "example": "\"The 303 building in Nanchang is a skyscraper.\""
+      },
+      {
+        "word": "Recite",
+        "spellOut": "Recite",
+        "translation": "背诵",
+        "example": "\"You can get a free ticket if you recite the Tengwang Pavilion poem.\""
+      },
+      {
+        "word": "Peel",
+        "spellOut": "Peel",
+        "translation": "剥 (皮/壳)",
+        "example": "\"I like to eat crayfish, but I don't like peeling them.\""
+      },
+      {
+        "word": "Give someone a ride",
+        "spellOut": "Give someone a ride",
+        "translation": "载某人一程",
+        "example": "\"My dad gave me a ride to school.\""
+      },
+      {
+        "word": "Underground parking lot",
+        "spellOut": "Underground parking lot",
+        "translation": "地下停车场",
+        "example": "\"We park the car in the underground parking lot.\""
+      }
+    ],
+    "grammarTips": [
+      {
+        "title": "Talking About the Past",
+        "description": "When sharing childhood memories, always remember to switch your verbs to the past tense.",
+        "incorrect": "\"I go fishing with my friends.\"",
+        "correct": "\"I went fishing with my friends.\""
+      },
+      {
+        "title": "\"When I was a child...\"",
+        "description": "Make sure not to drop the \"a\".",
+        "incorrect": "\"When I was child...\"",
+        "correct": "\"When I was a child...\""
+      },
+      {
+        "title": "Describing Food Spiciness",
+        "description": "",
+        "incorrect": "\"Mild spicy\"",
+        "correct": "\"Mildly spicy\" or just \"Mild\""
+      },
+      {
+        "title": "Getting to School",
+        "description": "",
+        "incorrect": "\"My friend carry me by bike.\"",
+        "correct": "\"My friend gave me a ride on their bike.\""
+      }
+    ]
+  }
+}
