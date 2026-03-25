@@ -8,30 +8,42 @@
         "zh": "欢迎来到第三天！🌅"
       },
       {
-        "en": "Today, we are focusing on our daily routines and how we manage our time.",
-        "zh": "今天，我们将重点讨论我们的日常生活习惯以及如何管理时间。"
+        "en": "Today, we are focusing deeply on our daily routines and how we manage our precious time.",
+        "zh": "今天，我们将深入探讨我们的日常生活习惯以及如何管理宝贵的时间。"
       },
       {
-        "en": "Whether you are a night owl or an early bird, exploring how we structure our day is a great way to practice active verbs.",
-        "zh": "无论你是夜猫子还是早起的人，探讨我们如何安排一天是练习动词的一个好方法。"
+        "en": "Time management is one of the most common topics in both casual conversations and professional settings.",
+        "zh": "时间管理是日常交流和职场中最常见的话题之一。"
       },
       {
-        "en": "Let's reflect on the habits that make us feel most productive!",
-        "zh": "让我们反思一下哪些习惯能让我们感到最高效！"
+        "en": "Whether you are a night owl or an early bird, exploring how we structure our day is a great way to practice active verbs and sequencing adverbs (like 'first', 'then', and 'finally').",
+        "zh": "无论你是夜猫子还是早起的人，探讨我们如何安排一天是练习动词和顺序副词的好方法。"
+      },
+      {
+        "en": "Take a moment before class to mentally walk through your typical day. Let's reflect on the habits that make us feel most productive!",
+        "zh": "课前花点时间在脑海中回顾一下你典型的一天。让我们反思一下哪些习惯能让我们感到最高效！"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What does a typical morning look like for you?",
-        "zh": "你典型的早晨日常是怎样的？"
+        "en": "What does a typical morning look like for you, step by step?",
+        "zh": "一步步来说，你典型的早晨日常是怎样的？"
       },
       {
-        "en": "Are you more productive in the morning or late at night?",
-        "zh": "你在早上还是深夜的工作效率更高？"
+        "en": "Are you more productive in the morning or late at night, and why do you think that is?",
+        "zh": "你在早上还是深夜的工作效率更高？你觉得为什么？"
       },
       {
-        "en": "How do you organize your schedule to make sure you get everything done?",
-        "zh": "你如何安排你的日程表以确保完成所有任务？"
+        "en": "How do you organize your schedule to make sure you get everything done? Do you use apps, calendars, or a paper to-do list?",
+        "zh": "你如何安排你的日程表以确保完成所有任务？你会使用应用程序、日历还是纸质待办事项清单？"
+      },
+      {
+        "en": "What is your biggest distraction when you are trying to work or study?",
+        "zh": "当你在工作或学习时，最大的干扰是什么？"
+      },
+      {
+        "en": "If you could add one healthy habit to your daily routine, what would it be?",
+        "zh": "如果你能在日常生活中增加一个健康的习惯，那会是什么？"
       }
     ],
     "vocabulary": [
@@ -40,56 +52,97 @@
         "type": "Noun",
         "definition": "A sequence of actions regularly followed.",
         "translation": "常规/习惯",
-        "example": "My morning routine always includes stretching and drinking coffee."
+        "example": "\"My morning routine always includes stretching and drinking coffee.\""
       },
       {
         "word": "Productivity",
         "type": "Noun",
         "definition": "The state or quality of producing something effectively.",
         "translation": "生产力/效率",
-        "example": "Turning off my phone greatly improves my productivity."
+        "example": "\"Turning off my phone greatly improves my productivity.\""
       },
       {
         "word": "Early bird",
         "type": "Noun phrase",
-        "definition": "A person who rises, arrives, or acts before the usual or expected time.",
+        "definition": "A person who rises, arrives, or acts before the usual expected time.",
         "translation": "早起的人",
-        "example": "My mom is an early bird; she wakes up at 5 AM every day!"
+        "example": "\"My mom is an early bird; she wakes up at 5 AM every day!\""
       },
       {
         "word": "Night owl",
         "type": "Noun phrase",
         "definition": "A person who is active late at night.",
         "translation": "夜猫子",
-        "example": "As a night owl, I find it easiest to focus on my writing after midnight."
+        "example": "\"As a night owl, I find it easiest to focus on my writing after midnight.\""
       },
       {
         "word": "Organize",
         "type": "Verb",
         "definition": "To arrange into a structured whole; order.",
         "translation": "组织/安排",
-        "example": "I like to organize my desk before starting work."
+        "example": "\"I like to organize my desk before starting work.\""
       },
       {
         "word": "Habit",
         "type": "Noun",
         "definition": "A settled or regular tendency or practice.",
         "translation": "习惯",
-        "example": "Reading before bed is a very healthy habit."
+        "example": "\"Reading before bed is a very healthy habit.\""
       },
       {
         "word": "Procrastinate",
         "type": "Verb",
         "definition": "To delay or postpone action; put off doing something.",
         "translation": "拖延",
-        "example": "I tend to procrastinate when I am faced with a difficult task."
+        "example": "\"I tend to procrastinate when I am faced with a difficult task.\""
       },
       {
         "word": "Time management",
         "type": "Noun phrase",
         "definition": "The ability to use one's time effectively or productively.",
         "translation": "时间管理",
-        "example": "Good time management is essential for balancing work and family."
+        "example": "\"Good time management is essential for balancing work and family.\""
+      },
+      {
+        "word": "Prioritize",
+        "type": "Verb",
+        "definition": "To determine the order for dealing with a series of items according to their relative importance.",
+        "translation": "优先考虑 / 按轻重缓急安排",
+        "example": "\"When I am busy, I have to prioritize my most important tasks first.\""
+      },
+      {
+        "word": "Overwhelmed",
+        "type": "Adjective",
+        "definition": "To have too much to deal with.",
+        "translation": "不知所措 / 不堪重负",
+        "example": "\"I feel overwhelmed when I have three exams in one week.\""
+      },
+      {
+        "word": "Multitask",
+        "type": "Verb",
+        "definition": "To deal with more than one task at the same time.",
+        "translation": "同时处理多项任务",
+        "example": "\"Some people are good at multitasking, but I prefer to focus on one thing.\""
+      }
+    ],
+    "commonPhrases": [
+      {
+        "phrase": "Burn the midnight oil",
+        "translation": "熬夜 (工作或学习)",
+        "meaning": { "en": "To stay awake late at night to work or study.", "zh": "为了工作或学习而熬夜。" },
+        "example": "\"I have a big presentation tomorrow, so I need to burn the midnight oil tonight.\""
+      },
+      {
+        "phrase": "Beat the clock",
+        "translation": "赶时间 / 抢时间",
+        "meaning": { "en": "To finish something before the time is up.", "zh": "在时间用完之前完成某事。" },
+        "example": "\"We managed to beat the clock and submit the project just in time!\""
+      },
+      {
+        "phrase": "On the go",
+        "translation": "忙碌中 / 随时随地",
+        "meaning": { "en": "Very active or busy; moving about.", "zh": "非常活跃或忙碌；在路上。" },
+        "example": "\"I don't have time for a proper breakfast, so I just eat on the go.\""
       }
     ]
   },

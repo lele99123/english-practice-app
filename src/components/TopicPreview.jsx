@@ -109,6 +109,41 @@ const TopicPreview = ({ day, topic }) => {
                 })}
               </div>
             </section>
+
+            {/* Common Phrases Preview */}
+            {data.commonPhrases && data.commonPhrases.length > 0 && (
+              <section className="card">
+                <h2 className="flex items-center mb-5" style={{ fontSize: '1.25rem' }}>
+                  <span className="section-icon-bg" style={{ backgroundColor: 'rgba(236, 72, 153, 0.1)', color: 'rgb(236, 72, 153)' }}>
+                    <svg style={{ width: '1.25rem', height: '1.25rem' }} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 10h.01M12 10h.01M16 10h.01M9 16H5a2 2 0 01-2-2V6a2 2 0 012-2h14a2 2 0 012 2v8a2 2 0 01-2 2h-5l-5 5v-5z"></path></svg>
+                  </span>
+                  Phrases & Idioms
+                </h2>
+                <div className="space-y-4">
+                  {data.commonPhrases.map((item, id) => {
+                    const spellOut = item.phrase.replace(/ \/ | & /g, ", ");
+                    return (
+                      <div key={id} className="vocab-item" style={{ borderLeft: '4px solid rgb(236, 72, 153)' }}>
+                        <div className="flex justify-between items-center mb-2" style={{ flexWrap: 'wrap', gap: '0.5rem' }}>
+                          <div className="flex items-center space-x-2">
+                            <span className="vocab-word" style={{ color: 'rgb(219, 39, 119)' }}>{item.phrase}</span>
+                            <button onClick={() => speakText(spellOut)} className="speech-btn" title="Listen to pronunciation">
+                              <svg style={{ width: '1.25rem', height: '1.25rem', color: 'rgb(219, 39, 119)' }} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15.536 8.464a5 5 0 010 7.072m2.828-9.9a9 9 0 010 12.728M11 5L6 9H2v6h4l5 4V5z"></path></svg>
+                            </button>
+                          </div>
+                          <span className="vocab-translation" style={{ backgroundColor: 'rgb(253, 242, 248)', color: 'rgb(190, 24, 93)' }}>{item.translation}</span>
+                        </div>
+                        <div style={{ marginBottom: '0.75rem' }}>
+                          <p style={{ color: 'var(--text-main)', fontWeight: 500, fontSize: '0.875rem' }}>{item.meaning.en}</p>
+                          <p style={{ color: 'var(--text-muted)', fontSize: '0.875rem', marginTop: '0.125rem' }}>{item.meaning.zh}</p>
+                        </div>
+                        {item.example && <p style={{ fontSize: '0.875rem', color: 'var(--text-muted)', fontStyle: 'italic', backgroundColor: 'rgba(236, 72, 153, 0.05)', padding: '0.5rem', borderRadius: '0.5rem' }}>{item.example}</p>}
+                      </div>
+                    );
+                  })}
+                </div>
+              </section>
+            )}
           </>
         ) : (
           <section className="card" style={{ textAlign: 'center', padding: '4rem 1rem' }}>
