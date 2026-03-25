@@ -1,0 +1,130 @@
+{
+  "day": 3,
+  "title": "Daily Routines & Productivity",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 3! 🌅",
+        "zh": "欢迎来到第三天！🌅"
+      },
+      {
+        "en": "Today, we are focusing on our daily routines and how we manage our time.",
+        "zh": "今天，我们将重点讨论我们的日常生活习惯以及如何管理时间。"
+      },
+      {
+        "en": "Whether you are a night owl or an early bird, exploring how we structure our day is a great way to practice active verbs.",
+        "zh": "无论你是夜猫子还是早起的人，探讨我们如何安排一天是练习动词的一个好方法。"
+      },
+      {
+        "en": "Let's reflect on the habits that make us feel most productive!",
+        "zh": "让我们反思一下哪些习惯能让我们感到最高效！"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "What does a typical morning look like for you?",
+        "zh": "你典型的早晨日常是怎样的？"
+      },
+      {
+        "en": "Are you more productive in the morning or late at night?",
+        "zh": "你在早上还是深夜的工作效率更高？"
+      },
+      {
+        "en": "How do you organize your schedule to make sure you get everything done?",
+        "zh": "你如何安排你的日程表以确保完成所有任务？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Routine",
+        "type": "Noun",
+        "definition": "A sequence of actions regularly followed.",
+        "translation": "常规/习惯",
+        "example": "My morning routine always includes stretching and drinking coffee."
+      },
+      {
+        "word": "Productivity",
+        "type": "Noun",
+        "definition": "The state or quality of producing something effectively.",
+        "translation": "生产力/效率",
+        "example": "Turning off my phone greatly improves my productivity."
+      },
+      {
+        "word": "Early bird",
+        "type": "Noun phrase",
+        "definition": "A person who rises, arrives, or acts before the usual or expected time.",
+        "translation": "早起的人",
+        "example": "My mom is an early bird; she wakes up at 5 AM every day!"
+      },
+      {
+        "word": "Night owl",
+        "type": "Noun phrase",
+        "definition": "A person who is active late at night.",
+        "translation": "夜猫子",
+        "example": "As a night owl, I find it easiest to focus on my writing after midnight."
+      },
+      {
+        "word": "Organize",
+        "type": "Verb",
+        "definition": "To arrange into a structured whole; order.",
+        "translation": "组织/安排",
+        "example": "I like to organize my desk before starting work."
+      },
+      {
+        "word": "Habit",
+        "type": "Noun",
+        "definition": "A settled or regular tendency or practice.",
+        "translation": "习惯",
+        "example": "Reading before bed is a very healthy habit."
+      },
+      {
+        "word": "Procrastinate",
+        "type": "Verb",
+        "definition": "To delay or postpone action; put off doing something.",
+        "translation": "拖延",
+        "example": "I tend to procrastinate when I am faced with a difficult task."
+      },
+      {
+        "word": "Time management",
+        "type": "Noun phrase",
+        "definition": "The ability to use one's time effectively or productively.",
+        "translation": "时间管理",
+        "example": "Good time management is essential for balancing work and family."
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Encourage flow: Focus heavily on transition words (then, after that, finally) when they describe their routine.",
+      "Grammar focus (mental note): Watch out for the correct usage of Present Simple for habits and routines.",
+      "Expand vocabulary: If they say 'I wake up, I eat, I work', encourage them to use stronger verbs and adverbs!"
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Warm-Up Questions (10-15 Minutes)",
+        "description": "Start with easy, factual questions.",
+        "questions": [
+          "How is your day going so far?",
+          "What is the very first thing you do when you wake up in the morning?",
+          "Do you ever hit the 'snooze' button on your alarm?"
+        ]
+      },
+      {
+        "title": "Phase 2: Deep Dive Questions (30-40 Minutes)",
+        "description": "Encourage detailed storytelling about their lifestyle.",
+        "questions": [
+          "Walk me through your perfect morning routine on a weekend.",
+          "Do you consider yourself a night owl or an early bird? Why do you think that is?",
+          "What is your biggest distraction when you are trying to be productive?",
+          "How do you organize your tasks? Do you use a written planner, an app, or just keep it in your head?",
+          "If you could add one extra healthy habit to your daily routine, what would it be?"
+        ]
+      },
+      {
+        "title": "Phase 3: Fun Roleplay (5-10 Minutes)",
+        "description": "If you have extra time or want to make them laugh, try this scenario.",
+        "scenario": "Tell your friend: 'Imagine I am your new life coach. I am deeply unorganized and chaotic. I drink 10 coffees a day and sleep for 2 hours. Your job is to give me a strict, healthy routine to fix my life!'"
+      }
+    ]
+  }
+}

@@ -1,5 +1,11 @@
 import React from 'react';
 import day2Data from '../data/day2.json';
+import day3Data from '../data/day3.json';
+
+const daysData = {
+  2: day2Data,
+  3: day3Data
+};
 
 const speakText = (text) => {
   if ('speechSynthesis' in window) {
@@ -14,8 +20,8 @@ const speakText = (text) => {
 };
 
 const TopicPreview = ({ day, topic }) => {
-  const isDay2 = day === 2;
-  const data = isDay2 ? day2Data.studentGuide : null;
+  const dayData = daysData[day];
+  const data = dayData ? dayData.studentGuide : null;
 
   return (
     <div style={{ animation: 'fadeIn 0.3s ease-in-out' }}>
