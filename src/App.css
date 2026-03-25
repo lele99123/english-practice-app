@@ -1,0 +1,120 @@
+/* App specific styles */
+
+.header {
+  color: var(--white);
+  padding: 3rem 1.5rem 2rem;
+  border-bottom-left-radius: var(--radius-3xl);
+  border-bottom-right-radius: var(--radius-3xl);
+  box-shadow: var(--shadow-lg);
+}
+
+.header-content {
+  max-width: 42rem;
+  margin: 0 auto;
+}
+
+.header-tag {
+  color: var(--blue-100);
+  font-size: 0.875rem;
+  font-weight: 500;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+}
+
+.header h1 {
+  font-size: 1.875rem;
+  color: var(--white);
+  line-height: 1.25;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.header p {
+  color: var(--blue-100);
+  opacity: 0.9;
+}
+
+.section-icon-bg {
+  padding: 0.5rem;
+  border-radius: var(--radius-lg);
+  margin-right: 0.75rem;
+  display: inline-flex;
+}
+.icon-blue-bg { background-color: var(--blue-100); color: var(--blue-600); }
+.icon-indigo-bg { background-color: var(--indigo-100); color: var(--indigo-600); }
+.icon-green-bg { background-color: var(--green-100); color: var(--green-600); }
+
+.vocab-item {
+  background-color: var(--gray-50);
+  border-radius: var(--radius-xl);
+  padding: 1rem;
+  border: 1px solid var(--gray-100);
+}
+
+.vocab-word {
+  font-weight: 700;
+  font-size: 1.125rem;
+  color: var(--indigo-700);
+}
+
+.vocab-translation {
+  background-color: var(--white);
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--radius-md);
+  font-size: 0.875rem;
+  color: var(--text-muted);
+  box-shadow: var(--shadow-sm);
+  border: 1px solid var(--gray-200);
+}
+
+.speech-btn {
+  color: var(--indigo-400);
+  transition: color 0.2s ease;
+}
+.speech-btn:hover {
+  color: var(--indigo-600);
+}
+
+.grammar-tip {
+  position: relative;
+  padding-left: 1.5rem;
+  border-left: 2px solid var(--green-200);
+}
+
+.grammar-tip::before {
+  content: '';
+  position: absolute;
+  width: 0.75rem;
+  height: 0.75rem;
+  background-color: var(--green-400);
+  border-radius: 50%;
+  left: -7px;
+  top: 0.375rem;
+  box-shadow: 0 0 0 4px var(--white);
+}
+
+.grammar-box-incorrect, .grammar-box-correct {
+  padding: 0.5rem;
+  font-size: 0.875rem;
+  border: 1px solid;
+}
+
+.grammar-box-incorrect {
+  background-color: var(--red-50);
+  color: var(--red-700);
+  border-color: var(--red-100);
+  border-top-left-radius: var(--radius-md);
+  border-top-right-radius: var(--radius-md);
+}
+
+.grammar-box-correct {
+  background-color: var(--green-50);
+  color: var(--green-700);
+  border-color: var(--green-100);
+  border-top: none;
+  border-bottom-left-radius: var(--radius-md);
+  border-bottom-right-radius: var(--radius-md);
+  font-weight: 500;
+  display: flex;
+  align-items: center;
+}

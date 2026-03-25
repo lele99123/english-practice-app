@@ -1,0 +1,140 @@
+{
+  "day": 2,
+  "title": "Hobbies & Passions",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 2! 🎉",
+        "zh": "欢迎来到第二天！🎉"
+      },
+      {
+        "en": "You did a great job yesterday!",
+        "zh": "你昨天做得非常棒！"
+      },
+      {
+        "en": "Today, we are going to talk about the things you love doing in your free time.",
+        "zh": "今天，我们将谈论你在空闲时间喜欢做的事情。"
+      },
+      {
+        "en": "Hobbies are a great way to relax, and it is always fun to talk about the things we enjoy.",
+        "zh": "爱好是放松的好方法，谈论我们喜欢的事情总是很有趣的。"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "What is your favorite way to relax after a long, busy day?",
+        "zh": "在漫长而忙碌的一天之后，你最喜欢的放松方式是什么？"
+      },
+      {
+        "en": "Do you prefer indoor activities (like reading) or outdoor activities (like hiking)?",
+        "zh": "你更喜欢室内活动（比如阅读）还是户外活动（比如远足）？"
+      },
+      {
+        "en": "Is there a new hobby or skill you want to try in the future?",
+        "zh": "未来有没有你想尝试的新爱好或技能？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Hobby",
+        "type": "Noun",
+        "definition": "An activity that you do for pleasure when you are not working.",
+        "translation": "爱好",
+        "example": "My favorite hobby is playing the guitar."
+      },
+      {
+        "word": "Free time / Spare time",
+        "type": "Noun",
+        "definition": "Time when you do not have to work or study.",
+        "translation": "空闲时间/业余时间",
+        "example": "In my free time, I like to read."
+      },
+      {
+        "word": "Interest",
+        "type": "Noun",
+        "definition": "Something that you enjoy learning about or doing.",
+        "translation": "兴趣",
+        "example": "I have a strong interest in history."
+      },
+      {
+        "word": "Relax",
+        "type": "Verb",
+        "definition": "To rest and feel calm.",
+        "translation": "放松",
+        "example": "Listening to music helps me relax."
+      },
+      {
+        "word": "Indoor / Outdoor",
+        "type": "Adjectives",
+        "definition": "Happening inside a building / happening outside in nature.",
+        "translation": "室内的/户外的",
+        "example": "I prefer outdoor sports like soccer."
+      },
+      {
+        "word": "Talent",
+        "type": "Noun",
+        "definition": "A natural ability to do something well.",
+        "translation": "天赋/才华",
+        "example": "She has a talent for painting."
+      },
+      {
+        "word": "Practice",
+        "type": "Verb",
+        "definition": "To do something again and again to get better at it.",
+        "translation": "练习",
+        "example": "I practice English every day."
+      },
+      {
+        "word": "Collect",
+        "type": "Verb",
+        "definition": "To buy or find things of a certain type and keep them.",
+        "translation": "收集/收藏",
+        "example": "When I was young, I used to collect stamps."
+      },
+      {
+        "word": "Give up",
+        "type": "Phrasal verb",
+        "definition": "To stop doing something.",
+        "translation": "放弃",
+        "example": "I tried to learn the piano, but I gave up."
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Encourage details: When people talk about things they love, they usually have a lot to say! If they give a short answer, ask 'Why?' or 'How exactly do you do that?'",
+      "Praise their effort: Remind them that they are doing a great job speaking for a second day in a row.",
+      "Grammar focus (mental note): Pay attention to the Present Simple tense since hobbies are usually habits (e.g., 'I play tennis', 'She reads books'). Watch out for the missing 's' on third-person verbs if they talk about someone else's hobbies!"
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Warm-Up Questions (10-15 Minutes)",
+        "description": "Start with easy, factual questions to break the ice.",
+        "questions": [
+          "How was your day today? Did you have any free time?",
+          "What do you usually do on a typical Sunday afternoon?",
+          "What are your main hobbies right now?",
+          "Did you have different hobbies when you were a child compared to now?",
+          "Do you prefer doing your hobbies alone, or with other people?"
+        ]
+      },
+      {
+        "title": "Phase 2: Deep Dive Questions (30-40 Minutes)",
+        "description": "These require longer, more thoughtful answers. Ask follow-up questions based on what they say.",
+        "questions": [
+          "The Origin: Think about your absolute favorite hobby. How did you first get interested in it? Who introduced you to it?",
+          "The Feeling: How does doing your hobby make you feel? (For example, does it make you feel energetic, peaceful, or focused?)",
+          "Dream Hobbies: If you had unlimited money and unlimited free time, what is one brand new hobby you would want to start? (e.g., Flying planes, deep-sea diving?)",
+          "Boring to You: Are there any popular hobbies that a lot of people love, but you think are completely boring? Why?",
+          "Hidden Talents: Do you have any 'hidden talents' or useless skills that most people don't know about?",
+          "Time Management: In modern life, many people say they are 'too busy' for hobbies. Do you think it is important to make time for hobbies? Why?"
+        ]
+      },
+      {
+        "title": "Phase 3: Fun Roleplay (5-10 Minutes)",
+        "description": "If you have extra time or want to make them laugh, try this scenario.",
+        "scenario": "Tell your friend: 'Imagine I am someone who is very stressed from work, and I have zero hobbies. I just sit on the couch and stare at the wall. Your job is to persuade me to try YOUR favorite hobby. Tell me why it is so great, what I need to buy to get started, and convince me to join you this weekend!'"
+      }
+    ]
+  }
+}
