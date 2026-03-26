@@ -1,0 +1,174 @@
+{
+  "day": 4,
+  "title": "Food, Cooking, & Dining Out",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 4! 👩‍🍳👨‍🍳",
+        "zh": "欢迎来到第四天！👩‍🍳👨‍🍳"
+      },
+      {
+        "en": "Today is undoubtedly everyone's favorite topic: Food!",
+        "zh": "毫无疑问，今天是我们每个人最喜欢的话题：美食！"
+      },
+      {
+        "en": "Food is a universal language, but describing tastes, textures, and cooking methods in another language can be a bit tricky.",
+        "zh": "美食是一种通用语言，但是用另一种语言来描述味道、口感和烹饪方法可能会有些棘手。"
+      },
+      {
+        "en": "We will share our favorite dishes, our worst cooking mistakes, and the strangest things we have ever eaten!",
+        "zh": "我们将分享我们最喜欢的菜肴，我们犯过的最糟糕的烹饪错误，以及我们吃过的最奇怪的东西！"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "What is your absolute favorite comfort food, and why do you love it?",
+        "zh": "你绝对最喜欢的治愈系美食是什么，为什么喜欢它？"
+      },
+      {
+        "en": "Do you prefer cooking at home or dining out at a restaurant? Why?",
+        "zh": "你更喜欢在家做饭还是去餐厅就餐？为什么？"
+      },
+      {
+        "en": "Can you describe a funny or terrible cooking disaster you've experienced?",
+        "zh": "你能描述一次你经历过的有趣或糟糕的“厨房灾难”吗？"
+      },
+      {
+        "en": "What is the most bizarre or unusual thing you have ever tasted?",
+        "zh": "你尝过的最古怪或最不同寻常的东西是什么？"
+      },
+      {
+        "en": "If you had to eat only one type of cuisine for the rest of your life, what would it be?",
+        "zh": "如果你余生只能吃一种菜系，你会选哪一种？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Cuisine",
+        "type": "Noun",
+        "definition": "A style or method of cooking, especially characteristic of a particular country or region.",
+        "translation": "菜系 / 烹饪风格",
+        "example": "\"Italian cuisine is famous for its pasta and pizza.\""
+      },
+      {
+        "word": "Comfort food",
+        "type": "Noun phrase",
+        "definition": "Food that provides nostalgic or sentimental value, often high in carbs.",
+        "translation": "安慰食品 / 治愈系美食",
+        "example": "\"After a long, stressful day, mac and cheese is my ultimate comfort food.\""
+      },
+      {
+        "word": "Dine out",
+        "type": "Phrasal verb",
+        "definition": "To eat at a restaurant.",
+        "translation": "外出就餐",
+        "example": "\"We decided to dine out tonight instead of cooking.\""
+      },
+      {
+        "word": "Starving",
+        "type": "Adjective",
+        "definition": "Suffering severely from hunger (often used casually).",
+        "translation": "饿坏了 / 极度饥饿",
+        "example": "\"Let's order dinner now, I am absolutely starving!\""
+      },
+      {
+        "word": "Bizarre",
+        "type": "Adjective",
+        "definition": "Very strange or unusual.",
+        "translation": "古怪的 / 罕见的",
+        "example": "\"Fried insects are considered a bizarre snack in some countries.\""
+      },
+      {
+        "word": "Texture",
+        "type": "Noun",
+        "definition": "The feel, appearance, or consistency of a substance, especially food in the mouth.",
+        "translation": "口感 / 质地",
+        "example": "\"I love the crunchy texture of fresh apples.\""
+      },
+      {
+        "word": "Bland",
+        "type": "Adjective",
+        "definition": "Lacking strong flavor, uninteresting.",
+        "translation": "淡而无味的",
+        "example": "\"This soup is a bit bland; it needs more salt and spices.\""
+      },
+      {
+        "word": "Savory",
+        "type": "Adjective",
+        "definition": "Salty or spicy rather than sweet.",
+        "translation": "咸鲜味的",
+        "example": "\"I prefer savory snacks like potato chips over sweet candies.\""
+      },
+      {
+        "word": "Recipe",
+        "type": "Noun",
+        "definition": "A set of instructions for preparing a particular dish.",
+        "translation": "食谱 / 菜谱",
+        "example": "\"My grandmother gave me her secret recipe for chicken soup.\""
+      },
+      {
+        "word": "Ingredients",
+        "type": "Noun",
+        "definition": "The foods or substances combined to make a particular dish.",
+        "translation": "成分 / 原料 / 食材",
+        "example": "\"Do we have all the ingredients we need to bake a cake?\""
+      }
+    ],
+    "commonPhrases": [
+      {
+        "phrase": "A piece of cake",
+        "translation": "小菜一碟",
+        "meaning": { "en": "Something that is very easy to do.", "zh": "非常容易做的事情。" },
+        "example": "\"Don't worry about the English test tomorrow, it will be a piece of cake!\""
+      },
+      {
+        "phrase": "Not my cup of tea",
+        "translation": "不是我的菜 / 不合我胃口",
+        "meaning": { "en": "Not what one likes or is interested in.", "zh": "不是某人喜欢或感兴趣的事物。" },
+        "example": "\"Horror movies are just not my cup of tea. I prefer comedies.\""
+      },
+      {
+        "phrase": "Spill the beans",
+        "translation": "泄露秘密",
+        "meaning": { "en": "To reveal a secret unintentionally.", "zh": "无意中泄露秘密。" },
+        "example": "\"Come on, spill the beans! What did you get Mom for her birthday?\""
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Expand adjectives: Help the student move beyond saying food is just 'good' or 'delicious'. Encourage words like savory, tender, crispy, bland, and mouth-watering.",
+      "Storytelling: When they talk about cooking disasters, pay attention to their use of past continuous vs. past simple (e.g., 'I was boiling the water when the pot cracked.')."
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Warm-Up Questions (10 Minutes)",
+        "description": "Easy food-related questions to get them talking.",
+        "questions": [
+          "What did you have for breakfast today?",
+          "Are you a picky eater, or do you eat almost anything?",
+          "How often do you cook your own meals?"
+        ]
+      },
+      {
+        "title": "Phase 2: Deep Dive (30-40 Minutes)",
+        "description": "More complex reflections on diet, culture, and experiences.",
+        "questions": [
+          "What is your 'comfort food'? The food you immediately crave when you are feeling sad or tired.",
+          "Tell me about a time you tried a completely new cuisine. Did you like it?",
+          "Have you ever had a 'cooking disaster'? What went wrong?",
+          "In your culture, what is the most important meal of the day, and why?",
+          "If you were opening your own restaurant tomorrow, what kind of food would you serve?"
+        ]
+      },
+      {
+        "title": "Phase 3: The 'Gross' Factor (10 Minutes)",
+        "description": "A fun discussion about weird foods.",
+        "questions": [
+          "What is the strangest or most bizarre thing you have ever eaten?",
+          "Is there a local dish in your hometown that foreigners usually find disgusting or weird, but you think is delicious?"
+        ]
+      }
+    ]
+  }
+}

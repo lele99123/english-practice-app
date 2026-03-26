@@ -2,11 +2,13 @@ import React from 'react';
 import day1Data from '../data/day1.json';
 import day2Data from '../data/day2.json';
 import day3Data from '../data/day3.json';
+import day4Data from '../data/day4.json';
 
 const reviewDataMap = {
   1: day1Data,
   2: day2Data,
-  3: day3Data
+  3: day3Data,
+  4: day4Data
 };
 
 const speakText = (text) => {
