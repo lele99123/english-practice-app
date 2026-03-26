@@ -4,179 +4,184 @@
   "studentGuide": {
     "welcomeMessage": [
       {
-        "en": "Welcome to Day 3! 🌅",
-        "zh": "欢迎来到第三天！🌅"
+        "en": "Welcome to Day 3! 🎉",
+        "zh": "欢迎来到第三天！🎉"
       },
       {
-        "en": "Today, we are focusing deeply on our daily routines and how we manage our precious time.",
-        "zh": "今天，我们将深入探讨我们的日常生活习惯以及如何管理宝贵的时间。"
+        "en": "It was great having Kiki, Yating, and Peter practicing together today.",
+        "zh": "今天很高兴有Kiki、Yating和Peter一起练习。"
       },
       {
-        "en": "Time management is one of the most common topics in both casual conversations and professional settings.",
-        "zh": "时间管理是日常交流和职场中最常见的话题之一。"
+        "en": "Today, we talked about our Daily Routines, morning habits, and how we organize our day.",
+        "zh": "今天，我们谈论了日常作息、早晨习惯以及我们如何安排一天的时间。"
       },
       {
-        "en": "Whether you are a night owl or an early bird, exploring how we structure our day is a great way to practice active verbs and sequencing adverbs (like 'first', 'then', and 'finally').",
-        "zh": "无论你是夜猫子还是早起的人，探讨我们如何安排一天是练习动词和顺序副词的好方法。"
-      },
-      {
-        "en": "Take a moment before class to mentally walk through your typical day. Let's reflect on the habits that make us feel most productive!",
-        "zh": "课前花点时间在脑海中回顾一下你典型的一天。让我们反思一下哪些习惯能让我们感到最高效！"
+        "en": "Keep practicing! You are all doing wonderful.",
+        "zh": "继续练习！你们都做得很棒。"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What does a typical morning look like for you, step by step?",
-        "zh": "一步步来说，你典型的早晨日常是怎样的？"
+        "en": "Are you an early bird or a night owl? Why?",
+        "zh": "你是早起的人还是夜猫子？为什么？"
       },
       {
-        "en": "Are you more productive in the morning or late at night, and why do you think that is?",
-        "zh": "你在早上还是深夜的工作效率更高？你觉得为什么？"
+        "en": "What is the first thing you do when you open your eyes in the morning?",
+        "zh": "早上睁开眼睛后你做的第一件事是什么？"
       },
       {
-        "en": "How do you organize your schedule to make sure you get everything done? Do you use apps, calendars, or a paper to-do list?",
-        "zh": "你如何安排你的日程表以确保完成所有任务？你会使用应用程序、日历还是纸质待办事项清单？"
+        "en": "What time do you usually wake up on a normal work day versus the weekend?",
+        "zh": "在正常工作日和周末，你通常什么时候起床？"
       },
       {
-        "en": "What is your biggest distraction when you are trying to work or study?",
-        "zh": "当你在工作或学习时，最大的干扰是什么？"
+        "en": "What do you usually eat for breakfast?",
+        "zh": "你早餐通常吃什么？"
       },
       {
-        "en": "If you could add one healthy habit to your daily routine, what would it be?",
-        "zh": "如果你能在日常生活中增加一个健康的习惯，那会是什么？"
+        "en": "If you were a strict life manager, what daily routine would you create for a very lazy person?",
+        "zh": "如果你是一个严格的生活管理者，你会为一个非常懒惰的人制定什么样的日常作息？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Routine",
+        "word": "Daily Routine",
         "type": "Noun",
-        "definition": "A sequence of actions regularly followed.",
-        "translation": "常规/习惯",
-        "example": "\"My morning routine always includes stretching and drinking coffee.\""
-      },
-      {
-        "word": "Productivity",
-        "type": "Noun",
-        "definition": "The state or quality of producing something effectively.",
-        "translation": "生产力/效率",
-        "example": "\"Turning off my phone greatly improves my productivity.\""
+        "definition": "The usual series of things that you do at a particular time.",
+        "translation": "日常作息 / 日常流程",
+        "example": "Having a healthy daily routine makes you more productive at work."
       },
       {
         "word": "Early bird",
         "type": "Noun phrase",
-        "definition": "A person who rises, arrives, or acts before the usual expected time.",
+        "definition": "A person who gets up or arrives early.",
         "translation": "早起的人",
-        "example": "\"My mom is an early bird; she wakes up at 5 AM every day!\""
+        "example": "Kiki wakes up at 6:40 AM; she is definitely an early bird."
       },
       {
         "word": "Night owl",
         "type": "Noun phrase",
-        "definition": "A person who is active late at night.",
-        "translation": "夜猫子",
-        "example": "\"As a night owl, I find it easiest to focus on my writing after midnight.\""
+        "definition": "A person who naturally stays up until late at night.",
+        "translation": "夜猫子 / 熬夜的人",
+        "example": "If you go to sleep at 12:00 AM or later, you are a night owl."
       },
       {
-        "word": "Organize",
-        "type": "Verb",
-        "definition": "To arrange into a structured whole; order.",
-        "translation": "组织/安排",
-        "example": "\"I like to organize my desk before starting work.\""
+        "word": "Get out of bed",
+        "type": "Phrase",
+        "definition": "To wake up and leave your bed.",
+        "translation": "起床 / 下床",
+        "example": "It is so hard to get out of bed on cold winter mornings."
       },
       {
-        "word": "Habit",
+        "word": "Wash my face",
+        "type": "Phrase",
+        "definition": "To clean one's face with water.",
+        "translation": "洗脸",
+        "example": "The first thing I do is wash my face to help me wake up."
+      },
+      {
+        "word": "Notification",
         "type": "Noun",
-        "definition": "A settled or regular tendency or practice.",
-        "translation": "习惯",
-        "example": "\"Reading before bed is a very healthy habit.\""
+        "definition": "A message that is automatically sent to you to tell you there is something new to look at.",
+        "translation": "通知 (手机或智能手表上的)",
+        "example": "I check my smartwatch for new messages and notifications."
       },
       {
-        "word": "Procrastinate",
-        "type": "Verb",
-        "definition": "To delay or postpone action; put off doing something.",
-        "translation": "拖延",
-        "example": "\"I tend to procrastinate when I am faced with a difficult task.\""
+        "word": "Steamed bun",
+        "type": "Noun",
+        "definition": "A type of bread made with yeast and flour, cooked by steaming.",
+        "translation": "馒头 / 包子",
+        "example": "For breakfast, I usually eat a steamed bun and an egg."
       },
       {
-        "word": "Time management",
-        "type": "Noun phrase",
-        "definition": "The ability to use one's time effectively or productively.",
-        "translation": "时间管理",
-        "example": "\"Good time management is essential for balancing work and family.\""
+        "word": "Cereal",
+        "type": "Noun",
+        "definition": "A breakfast food made from roasted grain, typically eaten with milk.",
+        "translation": "麦片",
+        "example": "Eating cereal with cold milk is a very fast and easy breakfast."
       },
       {
-        "word": "Prioritize",
-        "type": "Verb",
-        "definition": "To determine the order for dealing with a series of items according to their relative importance.",
-        "translation": "优先考虑 / 按轻重缓急安排",
-        "example": "\"When I am busy, I have to prioritize my most important tasks first.\""
-      },
-      {
-        "word": "Overwhelmed",
+        "word": "Strict",
         "type": "Adjective",
-        "definition": "To have too much to deal with.",
-        "translation": "不知所措 / 不堪重负",
-        "example": "\"I feel overwhelmed when I have three exams in one week.\""
-      },
-      {
-        "word": "Multitask",
-        "type": "Verb",
-        "definition": "To deal with more than one task at the same time.",
-        "translation": "同时处理多项任务",
-        "example": "\"Some people are good at multitasking, but I prefer to focus on one thing.\""
+        "definition": "Demanding that rules concerning behavior are obeyed and observed.",
+        "translation": "严格的",
+        "example": "My new life manager is very strict about my sleep schedule."
       }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Welcome to Peter for joining the class today! It was great having all three of you (Kiki, Yating, and Peter) practicing together.",
+      "We started with a big review of our last lesson, going over hobbies, free time, and chores like doing the laundry.",
+      "Then, we moved on to today's main topic: <strong>Daily Routines!</strong> We discussed normal wake-up times during the week versus how late we sleep in on the weekends.",
+      "We learned fun idioms like 'Early Bird' and 'Night Owl', and talked about our morning habits—like checking notifications on our phones or smartwatches.",
+      "Finally, we practiced organizing a healthy schedule through a fun 'Life Manager' roleplay!"
     ],
-    "commonPhrases": [
+    "keyVocabulary": [
+      { "word": "Daily Routine", "spellOut": "Daily Routine", "translation": "日常作息 / 日常流程", "example": "\"Having a healthy daily routine makes you more productive at work.\"" },
+      { "word": "Early bird", "spellOut": "Early bird", "translation": "早起的人", "example": "\"Kiki wakes up at 6:40 AM; she is definitely an early bird.\"" },
+      { "word": "Night owl", "spellOut": "Night owl", "translation": "夜猫子 / 熬夜的人", "example": "\"If you go to sleep at 12:00 AM or later, you are a night owl.\"" },
+      { "word": "Get out of bed", "spellOut": "Get out of bed", "translation": "起床 / 下床", "example": "\"It is so hard to get out of bed on cold winter mornings.\"" },
+      { "word": "Wash my face", "spellOut": "Wash my face", "translation": "洗脸", "example": "\"The first thing I do is wash my face to help me wake up.\"" },
+      { "word": "Notification", "spellOut": "Notification", "translation": "通知", "example": "\"I check my smartwatch for new messages and notifications.\"" }
+    ],
+    "grammarTips": [
       {
-        "phrase": "Burn the midnight oil",
-        "translation": "熬夜 (工作或学习)",
-        "meaning": { "en": "To stay awake late at night to work or study.", "zh": "为了工作或学习而熬夜。" },
-        "example": "\"I have a big presentation tomorrow, so I need to burn the midnight oil tonight.\""
+        "title": "Talking About Your Phone",
+        "description": "In English, we do not say 'play phone'. The phone is the tool, not the game.",
+        "incorrect": "\"I wake up and play my phone.\"",
+        "correct": "\"I wake up and look at my phone.\" or \"I play games on my phone.\""
       },
       {
-        "phrase": "Beat the clock",
-        "translation": "赶时间 / 抢时间",
-        "meaning": { "en": "To finish something before the time is up.", "zh": "在时间用完之前完成某事。" },
-        "example": "\"We managed to beat the clock and submit the project just in time!\""
+        "title": "Present Tense vs. Past Tense for Time",
+        "description": "Use the Present Tense for your daily habits. Use the Past Tense for what happened today.",
+        "incorrect": "\"Today I wake up at 7:30 AM.\"",
+        "correct": "\"Today I woke up at 7:30 AM. (But I usually wake up at 7:00 AM).\""
       },
       {
-        "phrase": "On the go",
-        "translation": "忙碌中 / 随时随地",
-        "meaning": { "en": "Very active or busy; moving about.", "zh": "非常活跃或忙碌；在路上。" },
-        "example": "\"I don't have time for a proper breakfast, so I just eat on the go.\""
+        "title": "Pronunciation: Notification vs. Vacation",
+        "description": "These two words sound a bit similar but mean very different things! Make sure to clearly pronounce the 'N' sound in Notification.",
+        "incorrect": "\"I got a vacation on my phone.\"",
+        "correct": "\"I got a notification on my phone.\""
+      },
+      {
+        "title": "Useful Native Phrase: First thing in the morning",
+        "description": "Use this phrase to talk about the very first action of your day. It sounds much more natural than saying 'The number one thing I do'.",
+        "incorrect": "\"The first do in morning I wash my face.\"",
+        "correct": "\"First thing in the morning, I wash my face.\""
       }
     ]
   },
   "teacherGuide": {
     "goals": [
-      "Encourage flow: Focus heavily on transition words (then, after that, finally) when they describe their routine.",
-      "Grammar focus (mental note): Watch out for the correct usage of Present Simple for habits and routines.",
-      "Expand vocabulary: If they say 'I wake up, I eat, I work', encourage them to use stronger verbs and adverbs!"
+      "Encourage students to use specific times when describing their daily routines (e.g., 'at 7:00 AM').",
+      "Help them distinguish between habits (Present Simple) and specific past events (Past Simple).",
+      "Reinforce the correct pronunciation of new vocabulary like 'notification' and phase out direct translations like 'play phone'."
     ],
     "phases": [
       {
-        "title": "Phase 1: Warm-Up Questions (10-15 Minutes)",
-        "description": "Start with easy, factual questions.",
+        "title": "Phase 1: Warm-Up & Review (15-20 Minutes)",
+        "description": "Review the previous lesson's topics (hobbies, chores). Welcome Peter to the class.",
         "questions": [
-          "How is your day going so far?",
-          "What is the very first thing you do when you wake up in the morning?",
-          "Do you ever hit the 'snooze' button on your alarm?"
+          "Did anyone do any chores like doing the laundry this week?",
+          "Did you have any spare time to practice your hobbies?"
         ]
       },
       {
-        "title": "Phase 2: Deep Dive Questions (30-40 Minutes)",
-        "description": "Encourage detailed storytelling about their lifestyle.",
+        "title": "Phase 2: Introducing Daily Routines (20-30 Minutes)",
+        "description": "Dive into morning and evening routines. Introduce idioms like Early Bird and Night Owl.",
         "questions": [
-          "Walk me through your perfect morning routine on a weekend.",
-          "Do you consider yourself a night owl or an early bird? Why do you think that is?",
-          "What is your biggest distraction when you are trying to be productive?",
-          "How do you organize your tasks? Do you use a written planner, an app, or just keep it in your head?",
-          "If you could add one extra healthy habit to your daily routine, what would it be?"
+          "Are you an early bird or a night owl? What time do you naturally wake up?",
+          "What is the first thing you do in the morning? (Prompt: check notifications, wash face)",
+          "What do you typically have for breakfast? (e.g., steamed bun, cereal)"
         ]
       },
       {
-        "title": "Phase 3: Fun Roleplay (5-10 Minutes)",
-        "description": "If you have extra time or want to make them laugh, try this scenario.",
-        "scenario": "Tell your friend: 'Imagine I am your new life coach. I am deeply unorganized and chaotic. I drink 10 coffees a day and sleep for 2 hours. Your job is to give me a strict, healthy routine to fix my life!'"
+        "title": "Phase 3: The 'Life Manager' Roleplay (10-15 Minutes)",
+        "description": "Put students in pairs. One is the 'Strict Life Manager' and the other is a 'Lazy Person'. The manager must create a new, strict daily routine for them.",
+        "questions": [
+          "Manager: What time should they wake up? What must they do first thing in the morning?",
+          "Lazy Person: Try to negotiate or complain about the new routine!"
+        ]
       }
     ]
   }
