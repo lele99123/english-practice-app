@@ -3,12 +3,14 @@ import day1Data from '../data/day1.json';
 import day2Data from '../data/day2.json';
 import day3Data from '../data/day3.json';
 import day4Data from '../data/day4.json';
+import day5Data from '../data/day5.json';
 
 const reviewDataMap = {
   1: day1Data,
   2: day2Data,
   3: day3Data,
-  4: day4Data
+  4: day4Data,
+  5: day5Data
 };
 
 const speakText = (text) => {
@@ -137,8 +139,29 @@ const ClassReview = ({ day, topic }) => {
           </section>
         )}
 
+        {/* Conversation Practice */}
+        {data.conversationPractice && data.conversationPractice.questions && (
+          <section className="card">
+            <h2 className="flex items-center mb-4" style={{ fontSize: '1.25rem' }}>
+              <span className="section-icon-bg" style={{ backgroundColor: 'rgba(245, 158, 11, 0.1)', color: 'rgb(245, 158, 11)' }}>
+                <svg style={{ width: '1.25rem', height: '1.25rem' }} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M17 8h2a2 2 0 012 2v6a2 2 0 01-2 2h-2v4l-4-4H9a1.994 1.994 0 01-1.414-.586m0 0L11 14h4a2 2 0 002-2V6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2v4l.586-.586z"></path></svg>
+              </span>
+              {data.conversationPractice.title || "Discussion Practice"}
+            </h2>
+            {data.conversationPractice.description && <p style={{ color: 'var(--text-muted)', marginBottom: '1rem' }}>{data.conversationPractice.description}</p>}
+            <ul className="space-y-3" style={{ color: 'var(--text-muted)' }}>
+              {data.conversationPractice.questions.map((q, i) => (
+                <li key={i} className="flex" style={{ alignItems: 'flex-start' }}>
+                  <span style={{ color: 'var(--blue-500)', marginRight: '0.5rem', marginTop: '0.25rem' }}>•</span>
+                  <span style={{ color: 'var(--text-main)', fontWeight: 500 }}>{q}</span>
+                </li>
+              ))}
+            </ul>
+          </section>
+        )}
+
         <div style={{ textAlign: 'center', paddingTop: '2rem' }}>
-          <p style={{ color: 'var(--text-light)', fontSize: '0.875rem' }}>Great job today! Keep practicing! 🎉</p>
+          <p style={{ color: 'var(--text-muted)', fontSize: '0.875rem' }}>{data.encouragement || "Great job today! Keep practicing! 🎉"}</p>
         </div>
       </main>
     </div>

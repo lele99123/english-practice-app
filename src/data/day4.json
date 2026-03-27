@@ -165,10 +165,159 @@
         "title": "Phase 3: The 'Gross' Factor (10 Minutes)",
         "description": "A fun discussion about weird foods.",
         "questions": [
-          "What is the strangest or most bizarre thing you have ever eaten?",
-          "Is there a local dish in your hometown that foreigners usually find disgusting or weird, but you think is delicious?"
         ]
       }
     ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Today's class was incredibly fun and delicious! We focused all of our discussions around food, cooking habits, and eating out at restaurants.",
+      "We started by talking about our absolute favorite foods. Yating mentioned she has so many favorites it's hard to choose, but hot pot and sweet and sour dishes are at the top of the list. Peter shared that his favorite things are simple and healthy, like beef and milk.",
+      "Next, we debated whether it is better to cook at home or eat out. Yating made a great point that eating out is better because you don't have to clean the kitchen afterwards! Peter, on the other hand, prefers cooking at home because he finds it more convenient and comforting.",
+      "The conversation got very interesting when we talked about bizarre and strange foods. We discussed eating things like bugs and snakes, which led to a great pronunciation practice session distinguishing between the words 'snack', 'snake', and 'sneak'.",
+      "We finished the class with a fantastic and funny roleplay set in a restaurant. We practiced how to complain politely (and maybe a little angrily!) to a waiter when there is a bug in the soup or when the steak is completely cold."
+    ],
+    "keyVocabulary": [
+      {
+        "word": "Absolute",
+        "spellOut": "Absolute",
+        "translation": "绝对的 / 完全的",
+        "example": "\"Hot pot is my absolute favorite food in the whole world.\""
+      },
+      {
+        "word": "Aromatic / Fragrant",
+        "spellOut": "Aromatic, Fragrant",
+        "translation": "芳香的 / 香气扑鼻的",
+        "example": "\"The soup smells so aromatic with all those fresh herbs.\""
+      },
+      {
+        "word": "Convenient",
+        "spellOut": "Convenient",
+        "translation": "方便的 / 便捷的",
+        "example": "\"Peter thinks cooking at home is actually very convenient.\""
+      },
+      {
+        "word": "Overcome",
+        "spellOut": "Overcome",
+        "translation": "克服 / 战胜",
+        "example": "\"I need to overcome my fear of trying strange and bizarre foods.\""
+      },
+      {
+        "word": "Dumpling wrappers / skins",
+        "spellOut": "Dumpling wrappers, skins",
+        "translation": "饺子皮",
+        "example": "\"When we make dumplings, rolling the dumpling wrappers is the hardest part.\""
+      },
+      {
+        "word": "Picky (Picky eater)",
+        "spellOut": "Picky, Picky eater",
+        "translation": "挑食的 (挑食的人)",
+        "example": "\"I am not a picky eater; I am willing to try almost anything.\""
+      },
+      {
+        "word": "Sneak",
+        "spellOut": "Sneak",
+        "translation": "偷偷地做 / 溜进",
+        "example": "\"I sometimes sneak into the kitchen at midnight to eat a snack.\""
+      },
+      {
+        "word": "Snake",
+        "spellOut": "Snake",
+        "translation": "蛇",
+        "example": "\"Some people eat snake meat, but I am terrified of them.\""
+      },
+      {
+        "word": "Snack",
+        "spellOut": "Snack",
+        "translation": "零食 / 点心",
+        "example": "\"Potato chips are my absolute favorite afternoon snack.\""
+      },
+      {
+        "word": "Afraid of",
+        "spellOut": "Afraid of",
+        "translation": "害怕...",
+        "example": "\"I am afraid of eating bugs; they look too scary!\""
+      },
+      {
+        "word": "Willing",
+        "spellOut": "Willing",
+        "translation": "愿意的 / 乐意的",
+        "example": "\"Are you willing to try eating a century egg?\""
+      },
+      {
+        "word": "Have never",
+        "spellOut": "Have never",
+        "translation": "从未 / 从没做过",
+        "example": "\"I have never eaten a snake in my entire life.\""
+      },
+      {
+        "word": "Crave",
+        "spellOut": "Crave",
+        "translation": "渴望 / 馋",
+        "example": "\"Late at night, I always crave spicy hot pot or barbecue.\""
+      },
+      {
+        "word": "Century egg",
+        "spellOut": "Century egg",
+        "translation": "皮蛋",
+        "example": "\"Foreigners often think century egg is weird, but it is delicious in porridge.\""
+      },
+      {
+        "word": "Steamed",
+        "spellOut": "Steamed",
+        "translation": "蒸的",
+        "example": "\"I prefer steamed dumplings over fried dumplings because they are healthier.\""
+      },
+      {
+        "word": "Get used to",
+        "spellOut": "Get used to",
+        "translation": "习惯于...",
+        "example": "\"If you eat spicy food every day, your stomach will get used to it.\""
+      },
+      {
+        "word": "Bug",
+        "spellOut": "Bug",
+        "translation": "虫子",
+        "example": "\"Excuse me, waiter! There is a bug swimming in my soup!\""
+      }
+    ],
+    "grammarTips": [
+      {
+        "title": "Pronunciation Practice: Snack vs. Snake vs. Sneak",
+        "description": "These three words look similar but have very different vowel sounds! Be careful not to mix them up when talking about food.",
+        "incorrect": "\"I like to eat snakes in the afternoon.\"",
+        "correct": "\"Snack (零食 - short 'a' sound like in 'cat'). Snake (蛇 - long 'a' sound like in 'cake'). Sneak (偷偷摸摸 - long 'e' sound like in 'week').\""
+      },
+      {
+        "title": "Using 'Afraid of'",
+        "description": "When you use the phrase 'afraid of', it must be followed by a noun (a thing) OR an '-ing' verb (a gerund).",
+        "incorrect": "\"I am afraid of eat bugs.\"",
+        "correct": "\"I am afraid of bugs. (Noun) OR I am afraid of EATING bugs. (Verb-ing)\""
+      },
+      {
+        "title": "Using 'Have never' for Life Experiences",
+        "description": "When talking about things you have not done in your life up to this point, use 'have never' + the past participle (V3) of the verb.",
+        "incorrect": "\"I have never eat century egg.\"",
+        "correct": "\"I have never EATEN century egg.\""
+      },
+      {
+        "title": "At the Restaurant: How to complain politely",
+        "description": "If there is a problem with your food, it is polite to start with 'Excuse me' before stating the problem.",
+        "incorrect": "\"Waiter, my soup has bug!\"",
+        "correct": "\"Excuse me, could you come here? There seems to be a bug in my soup.\""
+      }
+    ],
+    "conversationPractice": {
+      "title": "Dining & Cooking Discussion Questions",
+      "description": "Use these questions to practice speaking with each other during your next review session:",
+      "questions": [
+        "If you could only eat one country's cuisine (Chinese, Italian, Mexican, etc.) for the rest of your life, what would you choose and why?",
+        "Are you a picky eater? What is one food you absolutely refuse to eat?",
+        "Can you describe how to make your favorite dish? Do you need to fry, boil, or steam it?",
+        "What is the strangest thing you have ever eaten? Did you like it?",
+        "Roleplay: Imagine you ordered a steak medium-rare, but it arrived burnt and completely black. How would you tell the waiter?"
+      ]
+    },
+    "encouragement": "Amazing effort today! Your vocabulary is expanding so quickly. Keep reading these examples out loud to practice your pronunciation—especially 'snack' and 'snake'. See you next time!"
   }
 }

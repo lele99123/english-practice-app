@@ -1,0 +1,172 @@
+{
+  "day": 5,
+  "title": "Travel & Dream Destinations",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 5! ✈️🌍",
+        "zh": "欢迎来到第五天！✈️🌍"
+      },
+      {
+        "en": "Today we are getting ready to explore the world as we talk all about travel!",
+        "zh": "今天我们要一起探索世界，聊一聊关于旅行的话题！"
+      },
+      {
+        "en": "Traveling is one of those subjects everyone loves talking about because it is full of amazing memories, and sometimes, funny disasters.",
+        "zh": "旅行是每个人都喜欢谈论的话题之一，因为它充满了美好的回忆，有时还有有趣的意外和灾难。"
+      },
+      {
+        "en": "We will share our dream destinations, the best trips we've ever taken, and the things that drive us crazy when we travel.",
+        "zh": "我们将分享我们梦想中的目的地，我们经历过的最棒的旅行，以及旅行中让我们抓狂的事情。"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "What is the most beautiful or memorable place you have ever visited?",
+        "zh": "你去过的最美丽或最难忘的地方是哪里？"
+      },
+      {
+        "en": "If money and time were not an issue, where would you travel to right now?",
+        "zh": "如果金钱和时间都不是问题，你现在最想去哪里旅行？"
+      },
+      {
+        "en": "Do you prefer an active vacation (like hiking and exploring) or a relaxing vacation (like lying on a beach)?",
+        "zh": "你更喜欢充满活力地度假（比如远足和探索），还是放松的度假（比如躺在海滩上）？"
+      },
+      {
+        "en": "Have you ever had a terrible or funny travel disaster? What happened?",
+        "zh": "你有没有经历过可怕或有趣的旅行灾难？发生了什么？"
+      },
+      {
+        "en": "When you travel, what is the one thing you absolutely must pack in your suitcase?",
+        "zh": "旅行时，什么是你行李箱里绝对不可缺少的东西？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Destination",
+        "type": "Noun",
+        "definition": "The place to which someone or something is going or being sent.",
+        "translation": "目的地 / 终点",
+        "example": "\"Paris is a very popular tourist destination.\""
+      },
+      {
+        "word": "Itinerary",
+        "type": "Noun",
+        "definition": "A planned route or journey; a schedule of activities.",
+        "translation": "行程 / 行程表",
+        "example": "\"Our travel itinerary is packed with museum visits.\""
+      },
+      {
+        "word": "Sightseeing",
+        "type": "Noun / Verb-ing",
+        "definition": "The activity of visiting places of interest in a particular location.",
+        "translation": "观光 / 游览",
+        "example": "\"We spent the whole day sightseeing in London.\""
+      },
+      {
+        "word": "Souvenir",
+        "type": "Noun",
+        "definition": "A thing that is kept as a reminder of a person, place, or event.",
+        "translation": "纪念品",
+        "example": "\"I bought this keychain as a souvenir from my trip.\""
+      },
+      {
+        "word": "Luggage / Baggage",
+        "type": "Noun",
+        "definition": "Suitcases or other bags in which to pack personal belongings for traveling.",
+        "translation": "行李",
+        "example": "\"We waited for an hour to get our luggage at the airport.\""
+      },
+      {
+        "word": "Wander",
+        "type": "Verb",
+        "definition": "To walk or move in a leisurely, casual, or aimless way.",
+        "translation": "漫游 / 闲逛",
+        "example": "\"I love to just wander around a new city and get lost.\""
+      },
+      {
+        "word": "Exhausted",
+        "type": "Adjective",
+        "definition": "Drained of one's physical or mental resources; very tired.",
+        "translation": "筋疲力尽的",
+        "example": "\"After a twelve-hour flight, we were completely exhausted.\""
+      },
+      {
+        "word": "Breathtaking",
+        "type": "Adjective",
+        "definition": "Astonishing or awe-inspiring in quality, so as to take one's breath away.",
+        "translation": "激动人心的 / 美得令人惊叹的",
+        "example": "\"The view from the top of the mountain was absolutely breathtaking.\""
+      },
+      {
+        "word": "Culture shock",
+        "type": "Noun phrase",
+        "definition": "The feeling of disorientation experienced by someone suddenly subjected to an unfamiliar culture.",
+        "translation": "文化冲击",
+        "example": "\"When I first moved to a new country, I experienced a lot of culture shock.\""
+      },
+      {
+        "word": "Local",
+        "type": "Noun / Adjective",
+        "definition": "An inhabitant of a particular area or neighborhood.",
+        "translation": "当地人 / 当地的",
+        "example": "\"We decided to ask a local for restaurant recommendations.\""
+      }
+    ],
+    "commonPhrases": [
+      {
+        "phrase": "Hit the road",
+        "translation": "上路 / 出发",
+        "meaning": { "en": "To set out on a journey or leave.", "zh": "启程开始一段旅程或离开。" },
+        "example": "\"It's getting late, we should probably hit the road.\""
+      },
+      {
+        "phrase": "Travel light",
+        "translation": "轻装旅行",
+        "meaning": { "en": "To travel with a minimum of luggage.", "zh": "尽量少带行李旅行。" },
+        "example": "\"I always travel light so I don't have to carry a heavy suitcase everywhere.\""
+      },
+      {
+        "phrase": "Off the beaten path",
+        "translation": "人迹罕至的地方 / 冷门景点",
+        "meaning": { "en": "A place where few people go, far from any main roads and towns.", "zh": "很少有人去的地方，远离主要道路和城镇；冷门景点。" },
+        "example": "\"We found a beautiful restaurant completely off the beaten path.\""
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Encourage storytelling: Keep them talking about the details of their favorite or worst trips. If they say 'it was good', ask 'Who did you go with?' or 'What did you eat there?'",
+      "Grammar focus: Listen closely to their past tense verbs as they describe past vacations."
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Warm-Up Questions (10 Minutes)",
+        "description": "General questions to enter the topic easily.",
+        "questions": [
+          "Do you prefer traveling by plane, train, or car?",
+          "Are you someone who likes to plan an exact itinerary, or do you prefer to be spontaneous?",
+          "Do you usually buy souvenirs when you travel?"
+        ]
+      },
+      {
+        "title": "Phase 2: Deep Dive (30 Minutes)",
+        "description": "Reflecting on big memories.",
+        "questions": [
+          "What is the most beautiful destination you've ever seen with your own eyes?",
+          "Tell me a story about a time when something went totally wrong on a trip (e.g., getting lost, missing a flight, bad weather).",
+          "What is the absolute best food you've ever eaten while traveling?",
+          "Have you ever experienced 'culture shock'? What was it like?"
+        ]
+      },
+      {
+        "title": "Phase 3: Fun Roleplay (10 Minutes)",
+        "description": "An imaginative and funny scenario.",
+        "questions": [
+          "Roleplay Challenge: Imagine we are at the airport, and I am the rude worker checking your bags. Your bag is 5 kilograms overweight, but you absolutely refuse to pay the extra fee. Convince me to let you go!"
+        ]
+      }
+    ]
+  }
+}
