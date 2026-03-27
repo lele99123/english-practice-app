@@ -59,6 +59,8 @@ const VocabApp = ({ onClose, selectedDay }) => {
   const [isCorrect, setIsCorrect] = useState(false);
   const [isFinished, setIsFinished] = useState(false);
   const [mistakesInSession, setMistakesInSession] = useState([]);
+  
+  const testedInSessionRef = useRef(new Set());
 
   // Settings State
   const [settings, setSettings] = useState(() => {
@@ -104,17 +106,28 @@ const VocabApp = ({ onClose, selectedDay }) => {
 
     // 1. Identify "Today's" words that need practice (mastery < 2)
     const todaysUnmastered = allVocabItems.filter(v => v.dayId === selectedDay && (masteryData[v.word] || 0) < 2);
-    
     // 2. Identify weak words across all days (mastery <= 0)
     const allWeakWords = allVocabItems.filter(v => (masteryData[v.word] || 0) <= 0);
 
+    let availableUnmastered = todaysUnmastered.filter(v => !testedInSessionRef.current.has(v.word));
+    let availableWeak = allWeakWords.filter(v => !testedInSessionRef.current.has(v.word));
+    let availableFallback = allVocabItems.filter(v => !testedInSessionRef.current.has(v.word));
+    
+    // If we exhaust the vocab pool in a single session, reset the tracking
+    if (availableFallback.length === 0) {
+      testedInSessionRef.current.clear();
+      availableFallback = allVocabItems;
+      availableUnmastered = todaysUnmastered;
+      availableWeak = allWeakWords;
+    }
+
     let targetPool = [];
-    if (todaysUnmastered.length > 0) {
-      targetPool = todaysUnmastered;
-    } else if (allWeakWords.length > 0) {
-      targetPool = allWeakWords;
+    if (availableUnmastered.length > 0) {
+      targetPool = availableUnmastered;
+    } else if (availableWeak.length > 0) {
+      targetPool = availableWeak;
     } else {
-      targetPool = allVocabItems; // Fallback
+      targetPool = availableFallback; 
     }
 
     // Sort by lowest mastery first, with some randomness
@@ -125,6 +138,7 @@ const VocabApp = ({ onClose, selectedDay }) => {
     });
 
     const target = targetPool[0];
+    testedInSessionRef.current.add(target.word);
     
     // Pick 3 distractors
     const distractors = [...allVocabItems]
@@ -160,6 +174,17 @@ const VocabApp = ({ onClose, selectedDay }) => {
       // For zh-en and fill-in, options are English words
       correctAnswer = target.word;
       formattedOptions = [target, ...distractors].map(v => v.word);
+    }
+
+    // Add artificial slashes if target has a slash
+    if (correctAnswer.includes('/')) {
+      formattedOptions = formattedOptions.map(opt => {
+        if (opt === correctAnswer || opt.includes('/')) return opt;
+        // Grab a random translation/word to append
+        const randomExtra = allVocabItems[Math.floor(Math.random() * allVocabItems.length)];
+        const extraText = (type === 'en-zh') ? randomExtra.translation : randomExtra.word;
+        return `${opt} / ${extraText.split('/')[0].trim()}`;
+      });
     }
 
     formattedOptions.sort(() => Math.random() - 0.5);
@@ -217,6 +242,7 @@ const VocabApp = ({ onClose, selectedDay }) => {
   };
 
   const resetSession = () => {
+    testedInSessionRef.current.clear();
     setSessionProgress(0);
     setIsFinished(false);
     setMistakesInSession([]);
