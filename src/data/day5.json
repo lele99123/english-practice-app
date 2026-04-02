@@ -4,167 +4,205 @@
   "studentGuide": {
     "welcomeMessage": [
       {
-        "en": "Welcome to Day 5! ✈️🌍",
-        "zh": "欢迎来到第五天！✈️🌍"
+        "en": "Welcome to Day 5! 🎉",
+        "zh": "欢迎来到第五天！🎉"
       },
       {
-        "en": "Today we are getting ready to explore the world as we talk all about travel!",
-        "zh": "今天我们要一起探索世界，聊一聊关于旅行的话题！"
+        "en": "Today's class takes us on an adventure! We are going to talk about travel preferences, packing habits, and how we like to get from place to place.",
+        "zh": "今天的课程将带我们去冒险！我们将谈论旅行偏好、打包习惯以及我们喜欢如何往返各地。"
       },
       {
-        "en": "Traveling is one of those subjects everyone loves talking about because it is full of amazing memories, and sometimes, funny disasters.",
-        "zh": "旅行是每个人都喜欢谈论的话题之一，因为它充满了美好的回忆，有时还有有趣的意外和灾难。"
-      },
-      {
-        "en": "We will share our dream destinations, the best trips we've ever taken, and the things that drive us crazy when we travel.",
-        "zh": "我们将分享我们梦想中的目的地，我们经历过的最棒的旅行，以及旅行中让我们抓狂的事情。"
+        "en": "Get ready to share your dream destinations and travel stories!",
+        "zh": "准备好分享你梦想的旅行目的地和旅行故事！"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What is the most beautiful or memorable place you have ever visited?",
-        "zh": "你去过的最美丽或最难忘的地方是哪里？"
+        "en": "What are the pros and cons of traveling alone versus traveling with a large group of friends?",
+        "zh": "独自旅行与和一大群朋友一起旅行的利弊是什么？"
       },
       {
-        "en": "If money and time were not an issue, where would you travel to right now?",
-        "zh": "如果金钱和时间都不是问题，你现在最想去哪里旅行？"
+        "en": "If you had a totally flexible schedule and an unlimited budget, where would you go right now?",
+        "zh": "如果你有完全灵活的时间表和无限的预算，你现在会去哪里？"
       },
       {
-        "en": "Do you prefer an active vacation (like hiking and exploring) or a relaxing vacation (like lying on a beach)?",
-        "zh": "你更喜欢充满活力地度假（比如远足和探索），还是放松的度假（比如躺在海滩上）？"
+        "en": "Have you ever had to compromise with a friend while on a trip? What happened?",
+        "zh": "你在旅行中是否有过对朋友妥协的经历？发生了什么事？"
       },
       {
-        "en": "Have you ever had a terrible or funny travel disaster? What happened?",
-        "zh": "你有没有经历过可怕或有趣的旅行灾难？发生了什么？"
+        "en": "Do you prefer an active vacation (like climbing mountains) or a relaxing vacation (like a beach picnic)?",
+        "zh": "你更喜欢活跃的假期（比如爬山）还是放松的假期（比如海滩野餐）？"
       },
       {
-        "en": "When you travel, what is the one thing you absolutely must pack in your suitcase?",
-        "zh": "旅行时，什么是你行李箱里绝对不可缺少的东西？"
+        "en": "How do you handle unexpected problems when traveling?",
+        "zh": "旅行中你如何处理突发问题？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Destination",
+        "word": "Mountains",
         "type": "Noun",
-        "definition": "The place to which someone or something is going or being sent.",
-        "translation": "目的地 / 终点",
-        "example": "\"Paris is a very popular tourist destination.\""
+        "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+        "translation": "山脉 / 群山",
+        "example": "Peter sees mountains every day, so he prefers traveling to the beach."
       },
       {
-        "word": "Itinerary",
+        "word": "Tired of (sth / doing sth)",
+        "type": "Phrase",
+        "definition": "Bored or impatient with something.",
+        "translation": "厌倦了... / 对...感到疲倦",
+        "example": "I am tired of looking at the same scenery all the time."
+      },
+      {
+        "word": "Inland / Coastal",
+        "type": "Adjectives",
+        "definition": "Located in the interior of a country / located near the sea.",
+        "translation": "内陆的 / 沿海的",
+        "example": "Because my hometown is an inland city, I always want to visit coastal towns."
+      },
+      {
+        "word": "Backpack",
         "type": "Noun",
-        "definition": "A planned route or journey; a schedule of activities.",
-        "translation": "行程 / 行程表",
-        "example": "\"Our travel itinerary is packed with museum visits.\""
+        "definition": "A bag with shoulder straps that allow it to be carried on one's back.",
+        "translation": "双肩背包",
+        "example": "I am a light traveler, so I only bring one small backpack."
       },
       {
-        "word": "Sightseeing",
-        "type": "Noun / Verb-ing",
-        "definition": "The activity of visiting places of interest in a particular location.",
-        "translation": "观光 / 游览",
-        "example": "\"We spent the whole day sightseeing in London.\""
-      },
-      {
-        "word": "Souvenir",
+        "word": "Preference",
         "type": "Noun",
-        "definition": "A thing that is kept as a reminder of a person, place, or event.",
-        "translation": "纪念品",
-        "example": "\"I bought this keychain as a souvenir from my trip.\""
+        "definition": "A greater liking for one alternative over another or others.",
+        "translation": "偏好 / 倾向",
+        "example": "Do you have a preference between traveling by train or by plane?"
       },
       {
-        "word": "Luggage / Baggage",
-        "type": "Noun",
-        "definition": "Suitcases or other bags in which to pack personal belongings for traveling.",
-        "translation": "行李",
-        "example": "\"We waited for an hour to get our luggage at the airport.\""
-      },
-      {
-        "word": "Wander",
-        "type": "Verb",
-        "definition": "To walk or move in a leisurely, casual, or aimless way.",
-        "translation": "漫游 / 闲逛",
-        "example": "\"I love to just wander around a new city and get lost.\""
-      },
-      {
-        "word": "Exhausted",
+        "word": "Flexible",
         "type": "Adjective",
-        "definition": "Drained of one's physical or mental resources; very tired.",
-        "translation": "筋疲力尽的",
-        "example": "\"After a twelve-hour flight, we were completely exhausted.\""
+        "definition": "Able to be easily modified to respond to altered circumstances.",
+        "translation": "灵活的 / 可变通的",
+        "example": "My vacation time is very flexible, so I can travel any day next week."
       },
       {
-        "word": "Breathtaking",
-        "type": "Adjective",
-        "definition": "Astonishing or awe-inspiring in quality, so as to take one's breath away.",
-        "translation": "激动人心的 / 美得令人惊叹的",
-        "example": "\"The view from the top of the mountain was absolutely breathtaking.\""
+        "word": "Steady / Smooth",
+        "type": "Adjectives",
+        "definition": "Firmly fixed, not shaking or moving / moving evenly without jerks.",
+        "translation": "平稳的 / 顺畅的",
+        "example": "I like taking the high-speed train because the ride is incredibly steady and smooth."
       },
       {
-        "word": "Culture shock",
+        "word": "Car accident",
         "type": "Noun phrase",
-        "definition": "The feeling of disorientation experienced by someone suddenly subjected to an unfamiliar culture.",
-        "translation": "文化冲击",
-        "example": "\"When I first moved to a new country, I experienced a lot of culture shock.\""
+        "definition": "A collision involving automobiles.",
+        "translation": "车祸 / 交通事故",
+        "example": "Peter prefers trains over driving because he is afraid of car accidents."
       },
       {
-        "word": "Local",
-        "type": "Noun / Adjective",
-        "definition": "An inhabitant of a particular area or neighborhood.",
-        "translation": "当地人 / 当地的",
-        "example": "\"We decided to ask a local for restaurant recommendations.\""
+        "word": "Budget",
+        "type": "Noun",
+        "definition": "An estimate of income and expenditure for a set period of time.",
+        "translation": "预算",
+        "example": "If you want to travel for a month, you need to plan a careful budget."
+      },
+      {
+        "word": "Picnic",
+        "type": "Noun",
+        "definition": "An outing or occasion that involves taking a packed meal to be eaten outdoors.",
+        "translation": "野餐",
+        "example": "When we get to the mountain, let's have a picnic on the grass."
+      },
+      {
+        "word": "Pros and cons",
+        "type": "Phrase",
+        "definition": "The advantages and disadvantages of something.",
+        "translation": "利弊 / 优缺点",
+        "example": "Before booking the flight, let's discuss the pros and cons of this airline."
+      },
+      {
+        "word": "Compromise",
+        "type": "Noun/Verb",
+        "definition": "An agreement reached by each side making concessions.",
+        "translation": "妥协 / 让步",
+        "example": "When traveling with a large group of friends, you often have to compromise on where to eat."
+      },
+      {
+        "word": "Laptop",
+        "type": "Noun",
+        "definition": "A computer that is portable and suitable for use while traveling.",
+        "translation": "笔记本电脑",
+        "example": "I was panicking at the airport because my expensive laptop was in my lost backpack!"
       }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Today's class took us on an adventure! We had a fantastic conversation about travel preferences, packing habits, and how we like to get from place to place.",
+      "We started by comparing different destinations. Yating mentioned she loves visiting big cities. Kiki and Peter both chose the beach! Kiki explained that because her hometown is inland, she really loves coastal areas. Peter noted that since he lives around so many mountains, he is quite tired of seeing them.",
+      "When discussing packing, everyone agreed that traveling light is the best way to go. Instead of pulling heavy suitcases, Kiki and Peter prefer to just carry a backpack. We also talked about transportation; Kiki prefers flying because it is fast, while Peter favors the train because it is steady, smooth, and avoids the risk of car accidents.",
+      "We wrapped up the session with an airport baggage claim roleplay! Kiki did a great job explaining to the airport staff (Peter) that she had lost her black backpack, which importantly contained her laptop."
     ],
-    "commonPhrases": [
+    "keyVocabulary": [
+      { "word": "Mountains", "spellOut": "Mountains", "translation": "山脉 / 群山", "example": "\"Peter sees mountains every day, so he prefers traveling to the beach.\"" },
+      { "word": "Tired of (sth / doing sth)", "spellOut": "Tired of", "translation": "厌倦了... / 对...感到疲倦", "example": "\"I am tired of looking at the same scenery all the time.\"" },
+      { "word": "Inland / Coastal", "spellOut": "Inland, Coastal", "translation": "内陆的 / 沿海的", "example": "\"Because my hometown is an inland city, I always want to visit coastal towns.\"" },
+      { "word": "Backpack", "spellOut": "Backpack", "translation": "双肩背包", "example": "\"I am a light traveler, so I only bring one small backpack.\"" },
+      { "word": "Preference", "spellOut": "Preference", "translation": "偏好 / 倾向", "example": "\"Do you have a preference between traveling by train or by plane?\"" },
+      { "word": "Flexible", "spellOut": "Flexible", "translation": "灵活的 / 可变通的", "example": "\"My vacation time is very flexible, so I can travel any day next week.\"" },
+      { "word": "Steady / Smooth", "spellOut": "Steady, Smooth", "translation": "平稳的 / 顺畅的", "example": "\"I like taking the high-speed train because the ride is incredibly steady and smooth.\"" },
+      { "word": "Car accident", "spellOut": "Car accident", "translation": "车祸 / 交通事故", "example": "\"Peter prefers trains over driving because he is afraid of car accidents.\"" },
+      { "word": "Budget", "spellOut": "Budget", "translation": "预算", "example": "\"If you want to travel for a month, you need to plan a careful budget.\"" },
+      { "word": "Picnic", "spellOut": "Picnic", "translation": "野餐", "example": "\"When we get to the mountain, let's have a picnic on the grass.\"" },
+      { "word": "Pros and cons", "spellOut": "Pros and cons", "translation": "利弊 / 优缺点", "example": "\"Before booking the flight, let's discuss the pros and cons of this airline.\"" },
+      { "word": "Compromise", "spellOut": "Compromise", "translation": "妥协 / 让步", "example": "\"When traveling with a large group of friends, you often have to compromise on where to eat.\"" },
+      { "word": "Laptop", "spellOut": "Laptop", "translation": "笔记本电脑", "example": "\"I was panicking at the airport because my expensive laptop was in my lost backpack!\"" }
+    ],
+    "grammarTips": [
       {
-        "phrase": "Hit the road",
-        "translation": "上路 / 出发",
-        "meaning": { "en": "To set out on a journey or leave.", "zh": "启程开始一段旅程或离开。" },
-        "example": "\"It's getting late, we should probably hit the road.\""
+        "title": "Using 'Tired of'",
+        "description": "When you use the phrase 'tired of', it must be followed by a noun (a thing) OR an '-ing' verb (a gerund).",
+        "incorrect": "\"I am tired of see the mountains.\"",
+        "correct": "\"I am tired of SEEING the mountains. (Verb-ing) OR I am tired of the mountains. (Noun)\""
       },
       {
-        "phrase": "Travel light",
-        "translation": "轻装旅行",
-        "meaning": { "en": "To travel with a minimum of luggage.", "zh": "尽量少带行李旅行。" },
-        "example": "\"I always travel light so I don't have to carry a heavy suitcase everywhere.\""
+        "title": "Discussing Preferences: Prefer A to B",
+        "description": "When comparing two things you like, use 'prefer [Noun/Verb-ing] to [Noun/Verb-ing]'. Do not use 'than'.",
+        "incorrect": "\"I prefer taking the train than taking a car.\"",
+        "correct": "\"I prefer taking the train TO taking a car. / I prefer the beach TO the city.\""
       },
       {
-        "phrase": "Off the beaten path",
-        "translation": "人迹罕至的地方 / 冷门景点",
-        "meaning": { "en": "A place where few people go, far from any main roads and towns.", "zh": "很少有人去的地方，远离主要道路和城镇；冷门景点。" },
-        "example": "\"We found a beautiful restaurant completely off the beaten path.\""
+        "title": "Pronunciation: Luggage vs. Baggage vs. Backpack",
+        "description": "Remember that 'Luggage' and 'Baggage' mean the same thing (all of your bags together) and are uncountable (no 's'). 'Backpack' is just one specific type of bag and is countable.",
+        "incorrect": "\"I have three luggages.\"",
+        "correct": "\"I have three backpacks. OR I have a lot of luggage.\""
       }
     ]
   },
   "teacherGuide": {
     "goals": [
-      "Encourage storytelling: Keep them talking about the details of their favorite or worst trips. If they say 'it was good', ask 'Who did you go with?' or 'What did you eat there?'",
-      "Grammar focus: Listen closely to their past tense verbs as they describe past vacations."
+      "Encourage full sentences when comparing modes of travel (e.g., 'I prefer taking the train to flying.').",
+      "Ensure students correctly use '-ing' verbs or nouns following phrases like 'tired of'.",
+      "Guide students to elaborate in roleplay scenarios by giving specific details, such as contents of a lost bag."
     ],
     "phases": [
       {
-        "title": "Phase 1: Warm-Up Questions (10 Minutes)",
-        "description": "General questions to enter the topic easily.",
+        "title": "Phase 1: General Travel Talk (15-20 Minutes)",
+        "description": "Warm-up with questions about preferences, budget, and styles of traveling.",
         "questions": [
-          "Do you prefer traveling by plane, train, or car?",
-          "Are you someone who likes to plan an exact itinerary, or do you prefer to be spontaneous?",
-          "Do you usually buy souvenirs when you travel?"
+          "Do you prefer an active vacation or a relaxing vacation?",
+          "Are you someone who packs heavy luggage or just a small backpack? Why?"
         ]
       },
       {
-        "title": "Phase 2: Deep Dive (30 Minutes)",
-        "description": "Reflecting on big memories.",
+        "title": "Phase 2: Destinations and Compromise (20-30 Minutes)",
+        "description": "Examine inland vs coastal preferences and the challenges of group travel.",
         "questions": [
-          "What is the most beautiful destination you've ever seen with your own eyes?",
-          "Tell me a story about a time when something went totally wrong on a trip (e.g., getting lost, missing a flight, bad weather).",
-          "What is the absolute best food you've ever eaten while traveling?",
-          "Have you ever experienced 'culture shock'? What was it like?"
+          "What are the pros and cons of traveling alone versus with friends?",
+          "Have you ever had to compromise with a friend while on a trip? What happened?"
         ]
       },
       {
-        "title": "Phase 3: Fun Roleplay (10 Minutes)",
-        "description": "An imaginative and funny scenario.",
+        "title": "Phase 3: Airport Baggage Claim Roleplay (10-15 Minutes)",
+        "description": "Place students in a lost baggage scenario to practice descriptive language.",
         "questions": [
-          "Roleplay Challenge: Imagine we are at the airport, and I am the rude worker checking your bags. Your bag is 5 kilograms overweight, but you absolutely refuse to pay the extra fee. Convince me to let you go!"
+          "Roleplay: One student lost their bag and must explain to the airport staff what it looks like and what's inside (e.g., a laptop)."
         ]
       }
     ]

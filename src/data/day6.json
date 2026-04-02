@@ -1,0 +1,104 @@
+{
+  "day": 6,
+  "title": "Movies, TV Shows, & Entertainment",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 6! 🍿",
+        "zh": "欢迎来到第六天！🍿"
+      },
+      {
+        "en": "Today, we are diving into the world of entertainment!",
+        "zh": "今天，我们将深入探讨娱乐世界！"
+      },
+      {
+        "en": "We will talk about our favorite movies, TV shows, and binge-watching habits.",
+        "zh": "我们将谈论我们最喜欢的电影、电视节目和刷剧习惯。"
+      },
+      {
+        "en": "Grab your popcorn and get ready to share your cinematic masterpieces.",
+        "zh": "拿好你的爆米花，准备分享你心中的电影杰作。"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "What is your all-time favorite movie or TV show, and why?",
+        "zh": "你一直以来最喜欢的电影或电视节目是什么，为什么？"
+      },
+      {
+        "en": "Do you prefer watching movies at home or going to the movie theater?",
+        "zh": "你更喜欢在家看电影还是去电影院看？"
+      },
+      {
+        "en": "Have you ever binge-watched a TV series? How many episodes did you watch in one day?",
+        "zh": "你曾经连续刷过一部剧吗？你一天看了多少集？"
+      },
+      {
+        "en": "Which genre of movies do you like the most? (e.g., action, comedy, horror, sci-fi)",
+        "zh": "你最喜欢哪种类型的电影？（比如动作、喜剧、恐怖、科幻）"
+      },
+      {
+        "en": "If you could be any character from a movie, who would you be?",
+        "zh": "如果你能成为电影里的任何一个角色，你想成为谁？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Genre",
+        "type": "Noun",
+        "definition": "A category of artistic composition, characterized by similarities in form, style, or subject matter.",
+        "translation": "流派 / 类型",
+        "example": "My favorite movie genre is science fiction."
+      },
+      {
+        "word": "Binge-watch",
+        "type": "Verb",
+        "definition": "To watch multiple episodes of a television program in rapid succession.",
+        "translation": "刷剧 / 连续看",
+        "example": "I binge-watched the entire new season of Stranger Things in one weekend."
+      },
+      {
+        "word": "Masterpiece",
+        "type": "Noun",
+        "definition": "A work of outstanding artistry, skill, or workmanship.",
+        "translation": "杰作 / 名作",
+        "example": "Many critics consider The Godfather to be a cinematic masterpiece."
+      },
+      {
+        "word": "Spoiler",
+        "type": "Noun",
+        "definition": "Information about the plot of a motion picture or TV program that can ruin a viewer's sense of surprise or suspense.",
+        "translation": "剧透",
+        "example": "Don't tell me what happens at the end! I hate spoilers."
+      },
+      {
+        "word": "Episode",
+        "type": "Noun",
+        "definition": "Each of the separate installments into which a serialized story or radio or television program is divided.",
+        "translation": "集 / 一集",
+        "example": "I usually watch one episode of Friends before I go to bed."
+      },
+      {
+        "word": "Protagonist",
+        "type": "Noun",
+        "definition": "The leading character or one of the major characters in a drama, movie, novel, or other fictional text.",
+        "translation": "主角",
+        "example": "The protagonist of the story has to overcome many challenges to save the world."
+      },
+      {
+        "word": "Cinematic",
+        "type": "Adjective",
+        "definition": "Relating to motion pictures.",
+        "translation": "电影的",
+        "example": "The cinematic effects in that movie were absolutely stunning."
+      },
+      {
+        "word": "Subtitles",
+        "type": "Noun",
+        "definition": "Captions displayed at the bottom of a movie or television screen that translate or transcribe the dialogue or narrative.",
+        "translation": "字幕",
+        "example": "I prefer to watch foreign movies with English subtitles."
+      }
+    ]
+  }
+}
