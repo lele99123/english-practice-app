@@ -12,8 +12,8 @@
         "zh": "今天，我们将深入探讨娱乐世界！"
       },
       {
-        "en": "We will talk about our favorite movies, TV shows, and binge-watching habits.",
-        "zh": "我们将谈论我们最喜欢的电影、电视节目和刷剧习惯。"
+        "en": "We will talk about our favorite movies, TV shows, and how to describe a great story.",
+        "zh": "我们将谈论我们最喜欢的电影、电视节目以及如何描述一个好故事。"
       },
       {
         "en": "Grab your popcorn and get ready to share your cinematic masterpieces.",
@@ -22,82 +22,222 @@
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What is your all-time favorite movie or TV show, and why?",
-        "zh": "你一直以来最喜欢的电影或电视节目是什么，为什么？"
+        "en": "What is the most addictive TV show you have ever binge-watched?",
+        "zh": "你曾经疯狂刷过的最让人上瘾的电视剧是什么？"
       },
       {
-        "en": "Do you prefer watching movies at home or going to the movie theater?",
-        "zh": "你更喜欢在家看电影还是去电影院看？"
+        "en": "If you could pitch an original movie plot to a famous director, what would the story be about?",
+        "zh": "如果你能向著名导演推销一个原创电影情节，故事会是关于什么的？"
       },
       {
-        "en": "Have you ever binge-watched a TV series? How many episodes did you watch in one day?",
-        "zh": "你曾经连续刷过一部剧吗？你一天看了多少集？"
+        "en": "Would you rather take a relaxing vacation on a cruise ship, or an exciting trip on a sci-fi star ship?",
+        "zh": "你宁愿在游轮上度过一个轻松的假期，还是在科幻星际飞船上来一次刺激的旅行？"
       },
       {
-        "en": "Which genre of movies do you like the most? (e.g., action, comedy, horror, sci-fi)",
-        "zh": "你最喜欢哪种类型的电影？（比如动作、喜剧、恐怖、科幻）"
+        "en": "How do you feel when someone gives you a spoiler for a movie you really wanted to see?",
+        "zh": "当有人给你非常想看的电影剧透时，你有什么感觉？"
       },
       {
-        "en": "If you could be any character from a movie, who would you be?",
-        "zh": "如果你能成为电影里的任何一个角色，你想成为谁？"
+        "en": "If you were immortal, how would you spend your unlimited free time?",
+        "zh": "如果你是长生不老的，你会如何度过你无限的空闲时间？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Genre",
+        "word": "Plot",
         "type": "Noun",
-        "definition": "A category of artistic composition, characterized by similarities in form, style, or subject matter.",
-        "translation": "流派 / 类型",
-        "example": "My favorite movie genre is science fiction."
+        "definition": "The main events of a play, novel, movie, or similar work.",
+        "translation": "剧情 / 故事情节",
+        "example": "The movie's special effects were great, but the plot was a little bit boring."
       },
       {
-        "word": "Binge-watch",
+        "word": "Immersive",
+        "type": "Adjective",
+        "definition": "Providing, involving, or characterized by deep absorption or immersion in something.",
+        "translation": "沉浸式的",
+        "example": "Watching an action movie in an IMAX theater is a very immersive experience."
+      },
+      {
+        "word": "Experience",
+        "type": "Noun",
+        "definition": "An event or occurrence which leaves an impression on someone.",
+        "translation": "体验 / 经历",
+        "example": "Traveling to a new country is always an unforgettable experience."
+      },
+      {
+        "word": "Emotion",
+        "type": "Noun",
+        "definition": "A strong feeling deriving from one's circumstances, mood, or relationships with others.",
+        "translation": "情感 / 情绪",
+        "example": "The actors showed so much emotion during the sad scenes."
+      },
+      {
+        "word": "Original",
+        "type": "Adjective",
+        "definition": "Present or existing from the beginning; first or earliest.",
+        "translation": "原创的 / 最初的",
+        "example": "I prefer to watch movies with the original English audio rather than dubbed versions."
+      },
+      {
+        "word": "Audio",
+        "type": "Noun",
+        "definition": "Sound, especially when recorded, transmitted, or reproduced.",
+        "translation": "音频 / 音效",
+        "example": "The theater has a great surround sound audio system."
+      },
+      {
+        "word": "Binge / Binge-watch",
         "type": "Verb",
-        "definition": "To watch multiple episodes of a television program in rapid succession.",
-        "translation": "刷剧 / 连续看",
-        "example": "I binge-watched the entire new season of Stranger Things in one weekend."
+        "definition": "Watch multiple episodes of a television program in rapid succession.",
+        "translation": "疯狂刷剧 / 连续看",
+        "example": "On rainy weekends, I love to stay home and binge-watch my favorite TV series."
       },
       {
-        "word": "Masterpiece",
+        "word": "Addictive",
+        "type": "Adjective",
+        "definition": "Causing or likely to cause someone to become addicted to it.",
+        "translation": "令人上瘾的",
+        "example": "That new puzzle game on my phone is so addictive; I can't stop playing it."
+      },
+      {
+        "word": "Cruise ship",
         "type": "Noun",
-        "definition": "A work of outstanding artistry, skill, or workmanship.",
-        "translation": "杰作 / 名作",
-        "example": "Many critics consider The Godfather to be a cinematic masterpiece."
+        "definition": "A large ship like a hotel, that people travel on for pleasure.",
+        "translation": "游轮",
+        "example": "Taking a vacation on a luxury cruise ship is very relaxing."
+      },
+      {
+        "word": "Iceberg",
+        "type": "Noun",
+        "definition": "A large floating mass of ice detached from a glacier or ice sheet.",
+        "translation": "冰山",
+        "example": "The Titanic sank because it hit a giant iceberg in the dark."
       },
       {
         "word": "Spoiler",
         "type": "Noun",
-        "definition": "Information about the plot of a motion picture or TV program that can ruin a viewer's sense of surprise or suspense.",
+        "definition": "A description of an important plot development which may reduce surprise for a viewer.",
         "translation": "剧透",
-        "example": "Don't tell me what happens at the end! I hate spoilers."
+        "example": "Please don't tell me the ending! I hate spoilers!"
       },
       {
-        "word": "Episode",
+        "word": "Escape",
+        "type": "Verb",
+        "definition": "Break free from confinement or control.",
+        "translation": "逃跑 / 逃脱",
+        "example": "In the movie, the hero has to escape from the bad guys."
+      },
+      {
+        "word": "Explode",
+        "type": "Verb",
+        "definition": "Burst or shatter violently and noisily as a result of rapid combustion.",
+        "translation": "爆炸",
+        "example": "Action movies always have scenes where cars or buildings explode."
+      },
+      {
+        "word": "Star ship",
         "type": "Noun",
-        "definition": "Each of the separate installments into which a serialized story or radio or television program is divided.",
-        "translation": "集 / 一集",
-        "example": "I usually watch one episode of Friends before I go to bed."
+        "definition": "A spacecraft designed for interstellar travel.",
+        "translation": "星际飞船",
+        "example": "The captain steered the star ship to another galaxy."
       },
       {
-        "word": "Protagonist",
-        "type": "Noun",
-        "definition": "The leading character or one of the major characters in a drama, movie, novel, or other fictional text.",
-        "translation": "主角",
-        "example": "The protagonist of the story has to overcome many challenges to save the world."
-      },
-      {
-        "word": "Cinematic",
+        "word": "Immortal",
         "type": "Adjective",
-        "definition": "Relating to motion pictures.",
-        "translation": "电影的",
-        "example": "The cinematic effects in that movie were absolutely stunning."
+        "definition": "Living forever; never dying or decaying.",
+        "translation": "长生不老的 / 不朽的",
+        "example": "Vampires are immortal; they can live for thousands of years."
       },
       {
-        "word": "Subtitles",
-        "type": "Noun",
-        "definition": "Captions displayed at the bottom of a movie or television screen that translate or transcribe the dialogue or narrative.",
-        "translation": "字幕",
-        "example": "I prefer to watch foreign movies with English subtitles."
+        "word": "Pitch",
+        "type": "Verb",
+        "definition": "Make a bid to obtain a contract or other business by presenting a proposal.",
+        "translation": "推销 (创意) / 提案",
+        "example": "The director had to pitch his movie idea to the studio to get money."
+      }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Today's class was a blockbuster! We dove into the world of entertainment, discussing our favorite movies, addictive TV series, and how to describe a great story.",
+      "We talked about classic films like Titanic, discussing the tragic plot involving the massive cruise ship and the iceberg. We also explored exciting sci-fi movies, picturing giant star ships exploding as the heroes try to escape.",
+      "Yating and Kiki shared how easy it is to binge-watch a really addictive show, especially when the original plot is so good and the audio makes it an immersive experience that brings out real emotion.",
+      "Peter had some great ideas and even learned how to 'pitch' an original movie concept about an immortal character. Most importantly, we all agreed on the golden rule of discussing movies: never give away a spoiler!"
+    ],
+    "keyVocabulary": [
+      { "word": "Plot", "spellOut": "Plot", "translation": "剧情 / 故事情节", "example": "\"The movie's special effects were great, but the plot was a little bit boring.\"" },
+      { "word": "Immersive", "spellOut": "Immersive", "translation": "沉浸式的", "example": "\"Watching an action movie in an IMAX theater is a very immersive experience.\"" },
+      { "word": "Experience", "spellOut": "Experience", "translation": "体验 / 经历", "example": "\"Traveling to a new country is always an unforgettable experience.\"" },
+      { "word": "Emotion", "spellOut": "Emotion", "translation": "情感 / 情绪", "example": "\"The actors showed so much emotion during the sad scenes.\"" },
+      { "word": "Original", "spellOut": "Original", "translation": "原创的 / 最初的", "example": "\"I prefer to watch movies with the original English audio rather than dubbed versions.\"" },
+      { "word": "Audio", "spellOut": "Audio", "translation": "音频 / 音效", "example": "\"The theater has a great surround sound audio system.\"" },
+      { "word": "Binge / Binge-watch", "spellOut": "Binge, Binge watch", "translation": "疯狂刷剧 / 连续看", "example": "\"On rainy weekends, I love to stay home and binge-watch my favorite TV series.\"" },
+      { "word": "Addictive", "spellOut": "Addictive", "translation": "令人上瘾的", "example": "\"That new puzzle game on my phone is so addictive; I can't stop playing it.\"" },
+      { "word": "Cruise ship", "spellOut": "Cruise ship", "translation": "游轮", "example": "\"Taking a vacation on a luxury cruise ship is very relaxing.\"" },
+      { "word": "Iceberg", "spellOut": "Iceberg", "translation": "冰山", "example": "\"The Titanic sank because it hit a giant iceberg in the dark.\"" },
+      { "word": "Spoiler", "spellOut": "Spoiler", "translation": "剧透", "example": "\"Please don't tell me the ending! I hate spoilers!\"" },
+      { "word": "Escape", "spellOut": "Escape", "translation": "逃跑 / 逃脱", "example": "\"In the movie, the hero has to escape from the bad guys.\"" },
+      { "word": "Explode", "spellOut": "Explode", "translation": "爆炸", "example": "\"Action movies always have scenes where cars or buildings explode.\"" },
+      { "word": "Star ship", "spellOut": "Star ship", "translation": "星际飞船", "example": "\"The captain steered the star ship to another galaxy.\"" },
+      { "word": "Immortal", "spellOut": "Immortal", "translation": "长生不老的 / 不朽的", "example": "\"Vampires are immortal; they can live for thousands of years.\"" },
+      { "word": "Pitch", "spellOut": "Pitch", "translation": "推销 (创意) / 提案", "example": "\"The director had to pitch his movie idea to the studio to get money.\"" }
+    ],
+    "grammarTips": [
+      {
+        "title": "Using 'Bored' vs. 'Boring'",
+        "description": "When talking about movies, remember the 'ED/ING' rule. Use '-ed' for how YOU feel. Use '-ing' for the THING that causes the feeling.",
+        "incorrect": "\"I am boring because the movie is bored.\"",
+        "correct": "\"I am BORED because the movie is BORING.\""
+      },
+      {
+        "title": "How to use 'Spoiler'",
+        "description": "In everyday conversation, if someone is about to talk about a movie you haven't seen, you can politely stop them with a common phrase.",
+        "incorrect": "\"Don't speak the movie secret!\"",
+        "correct": "\"No spoilers, please! / Don't give me any spoilers!\""
+      },
+      {
+        "title": "Binge-watching",
+        "description": "The word 'binge' means to do something excessively in a short period. It is most commonly used with TV shows now.",
+        "incorrect": "\"I watched the TV series for 10 hours non-stop.\"",
+        "correct": "\"I binge-watched the entire TV series in one day.\""
+      },
+      {
+        "title": "Pitching an idea",
+        "description": "The word 'pitch' has many meanings (like a baseball pitch), but in business or storytelling, it means to quickly and excitedly explain an idea to persuade someone.",
+        "incorrect": "\"Let me say my idea to you.\"",
+        "correct": "\"Let me pitch my idea to you.\""
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Ensure students understand the difference between -ed and -ing adjectives (bored vs. boring, excited vs. exciting).",
+      "Encourage students to use vocabulary like 'plot' and 'spoiler' naturally when talking about storytelling.",
+      "Help students construct a narrative when 'pitching' a story, ensuring events follow a logical sequence."
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: General Movie Talk (15-20 Minutes)",
+        "description": "Warm-up with questions about favorite genres, binge-watching habits, and recent movies.",
+        "questions": [
+          "What's a movie or show you found extremely addictive? Did you binge-watch it?",
+          "Are you someone who likes spoilers before seeing a movie?"
+        ]
+      },
+      {
+        "title": "Phase 2: Explaining a Plot (20-30 Minutes)",
+        "description": "Have students describe the plot of a favorite movie without giving away the ending.",
+        "questions": [
+          "Describe a scene that was very immersive or emotional.",
+          "Who was the main character, and what were they trying to escape from or accomplish?"
+        ]
+      },
+      {
+        "title": "Phase 3: Pitch Your Movie (15-20 Minutes)",
+        "description": "Students take turns pitching an original movie idea using new vocabulary like 'pitch', 'immortal', 'star ship', etc.",
+        "questions": [
+          "Tell me your elevator pitch: What is the movie about, and why will people want to watch it?"
+        ]
       }
     ]
   }

@@ -1,0 +1,104 @@
+{
+  "day": 7,
+  "title": "Music & Concerts",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 7! 🎵",
+        "zh": "欢迎来到第七天！🎵"
+      },
+      {
+        "en": "Today, we're going to talk about music and live concerts.",
+        "zh": "今天，我们将谈论音乐和现场演唱会。"
+      },
+      {
+        "en": "We'll discuss our favorite artists, how music affects our mood, and our first concert experiences.",
+        "zh": "我们将讨论我们最喜欢的歌手、音乐如何影响我们的情绪，以及我们第一次看演唱会的经历。"
+      },
+      {
+        "en": "Get ready to share the soundtrack of your life!",
+        "zh": "准备好分享你生活的主题曲吧！"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "Who are your favorite musical artists or bands right now?",
+        "zh": "你现在最喜欢的歌手或乐队是谁？"
+      },
+      {
+        "en": "How does music affect your mood when you are working, studying, or exercising?",
+        "zh": "当你在工作、学习或锻炼时，音乐如何影响你的情绪？"
+      },
+      {
+        "en": "Have you ever been to a live concert? What was the experience like?",
+        "zh": "你去过现场演唱会吗？那是一种怎样的体验？"
+      },
+      {
+        "en": "If you could learn to play any musical instrument perfectly, what would it be?",
+        "zh": "如果你能完美地学会演奏任何一种乐器，你会选择什么？"
+      },
+      {
+        "en": "Do you prefer listening to upbeat pop music or relaxing classical music?",
+        "zh": "你更喜欢听节奏欢快的流行音乐还是令人放松的古典音乐？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Concert",
+        "type": "Noun",
+        "definition": "A musical performance given in public, typically by several performers or of several separate compositions.",
+        "translation": "音乐会 / 演唱会",
+        "example": "I bought tickets to see my favorite band in concert next month."
+      },
+      {
+        "word": "Artist",
+        "type": "Noun",
+        "definition": "A person who creates music or art.",
+        "translation": "艺术家 / 歌手",
+        "example": "She is a very talented musical artist who writes her own songs."
+      },
+      {
+        "word": "Mood",
+        "type": "Noun",
+        "definition": "A temporary state of mind or feeling.",
+        "translation": "情绪 / 心情",
+        "example": "Listening to cheerful music always puts me in a good mood."
+      },
+      {
+        "word": "Upbeat",
+        "type": "Adjective",
+        "definition": "Cheerful, optimistic, or fast-paced.",
+        "translation": "节奏快的 / 令人愉快的",
+        "example": "They played an upbeat song that made everyone want to dance."
+      },
+      {
+        "word": "Instrument",
+        "type": "Noun",
+        "definition": "An object or device for producing musical sounds.",
+        "translation": "乐器",
+        "example": "The piano and the guitar are very popular musical instruments."
+      },
+      {
+        "word": "Lyrics",
+        "type": "Noun",
+        "definition": "The words of a song.",
+        "translation": "歌词",
+        "example": "I love this song because the lyrics are very touching and meaningful."
+      },
+      {
+        "word": "Acoustic",
+        "type": "Adjective",
+        "definition": "Not having electrical amplification.",
+        "translation": "原声的 / 未经电声放大的",
+        "example": "The singer performed a beautiful acoustic version of the song using only a guitar."
+      },
+      {
+        "word": "Headline",
+        "type": "Verb / Noun",
+        "definition": "To be the main performer at a concert or festival.",
+        "translation": "作为主要演员演出 / 头牌",
+        "example": "Coldplay will headline the main stage at the music festival this weekend."
+      }
+    ]
+  }
+}
