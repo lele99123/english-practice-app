@@ -1,6 +1,6 @@
 {
   "day": 7,
-  "title": "Music & Concerts",
+  "title": "Music, Concerts, and Nostalgia",
   "studentGuide": {
     "welcomeMessage": [
       {
@@ -8,12 +8,12 @@
         "zh": "欢迎来到第七天！🎵"
       },
       {
-        "en": "Today, we're going to talk about music and live concerts.",
-        "zh": "今天，我们将谈论音乐和现场演唱会。"
+        "en": "Today's class is all about the rhythm and vibes!",
+        "zh": "今天的课程完全是关于节奏和氛围的！"
       },
       {
-        "en": "We'll discuss our favorite artists, how music affects our mood, and our first concert experiences.",
-        "zh": "我们将讨论我们最喜欢的歌手、音乐如何影响我们的情绪，以及我们第一次看演唱会的经历。"
+        "en": "We're going to talk about music, live concerts, and how songs make us feel deeply nostalgic.",
+        "zh": "我们将谈论音乐、现场音乐会以及歌曲是如何让我们产生深深的怀旧感的。"
       },
       {
         "en": "Get ready to share the soundtrack of your life!",
@@ -22,82 +22,213 @@
     ],
     "questionsToThinkAbout": [
       {
-        "en": "Who are your favorite musical artists or bands right now?",
-        "zh": "你现在最喜欢的歌手或乐队是谁？"
+        "en": "Can you name a song that instantly reminds you of your childhood?",
+        "zh": "你能说出一首立刻让你想起童年的歌曲吗？"
       },
       {
-        "en": "How does music affect your mood when you are working, studying, or exercising?",
-        "zh": "当你在工作、学习或锻炼时，音乐如何影响你的情绪？"
+        "en": "Do you prefer going to a crowded, energetic concert or listening to music quietly at home?",
+        "zh": "你更喜欢去拥挤、充满活力的演唱会，还是在家安静地听音乐？"
       },
       {
-        "en": "Have you ever been to a live concert? What was the experience like?",
-        "zh": "你去过现场演唱会吗？那是一种怎样的体验？"
+        "en": "What kind of music helps you focus when you are working or studying?",
+        "zh": "在工作或学习时，什么样的音乐能帮你集中注意力？"
       },
       {
-        "en": "If you could learn to play any musical instrument perfectly, what would it be?",
-        "zh": "如果你能完美地学会演奏任何一种乐器，你会选择什么？"
+        "en": "Tell us about a time when you thought an experience would be bad, but it turns out it was actually great!",
+        "zh": "告诉我们一个你以为会很糟糕，但结果却很棒的经历！"
       },
       {
-        "en": "Do you prefer listening to upbeat pop music or relaxing classical music?",
-        "zh": "你更喜欢听节奏欢快的流行音乐还是令人放松的古典音乐？"
+        "en": "What is a trendy song right now that has lyrics you really enjoy (or lyrics you find difficult to understand)?",
+        "zh": "现在流行的一首歌中，哪首歌的歌词你非常喜欢（或者觉得很难懂）？"
       }
     ],
     "vocabulary": [
-      {
-        "word": "Concert",
-        "type": "Noun",
-        "definition": "A musical performance given in public, typically by several performers or of several separate compositions.",
-        "translation": "音乐会 / 演唱会",
-        "example": "I bought tickets to see my favorite band in concert next month."
-      },
-      {
-        "word": "Artist",
-        "type": "Noun",
-        "definition": "A person who creates music or art.",
-        "translation": "艺术家 / 歌手",
-        "example": "She is a very talented musical artist who writes her own songs."
-      },
-      {
-        "word": "Mood",
-        "type": "Noun",
-        "definition": "A temporary state of mind or feeling.",
-        "translation": "情绪 / 心情",
-        "example": "Listening to cheerful music always puts me in a good mood."
-      },
-      {
-        "word": "Upbeat",
-        "type": "Adjective",
-        "definition": "Cheerful, optimistic, or fast-paced.",
-        "translation": "节奏快的 / 令人愉快的",
-        "example": "They played an upbeat song that made everyone want to dance."
-      },
-      {
-        "word": "Instrument",
-        "type": "Noun",
-        "definition": "An object or device for producing musical sounds.",
-        "translation": "乐器",
-        "example": "The piano and the guitar are very popular musical instruments."
-      },
       {
         "word": "Lyrics",
         "type": "Noun",
         "definition": "The words of a song.",
         "translation": "歌词",
-        "example": "I love this song because the lyrics are very touching and meaningful."
+        "example": "The melody is beautiful, but the lyrics of this song are very sad."
       },
       {
-        "word": "Acoustic",
+        "word": "Difficult / Hard",
         "type": "Adjective",
-        "definition": "Not having electrical amplification.",
-        "translation": "原声的 / 未经电声放大的",
-        "example": "The singer performed a beautiful acoustic version of the song using only a guitar."
+        "definition": "Needing much effort or skill to accomplish, deal with, or understand.",
+        "translation": "困难的",
+        "example": "Rap songs are very difficult to sing because the words are so fast."
       },
       {
-        "word": "Headline",
-        "type": "Verb / Noun",
-        "definition": "To be the main performer at a concert or festival.",
-        "translation": "作为主要演员演出 / 头牌",
-        "example": "Coldplay will headline the main stage at the music festival this weekend."
+        "word": "Nostalgic",
+        "type": "Adjective",
+        "definition": "Feeling, evoking, or characterized by a sentimental longing for the past.",
+        "translation": "怀旧的 / 引起怀旧之情的",
+        "example": "Listening to 90s pop music makes me feel so nostalgic."
+      },
+      {
+        "word": "Trendy",
+        "type": "Adjective",
+        "definition": "Very fashionable or up to date.",
+        "translation": "时髦的 / 流行的",
+        "example": "K-pop and hip-hop are very trendy right now among young people."
+      },
+      {
+        "word": "Energetic",
+        "type": "Adjective",
+        "definition": "Showing or involving great activity or vitality.",
+        "translation": "精力充沛的 / 充满活力的",
+        "example": "I like to listen to energetic music when I am working out at the gym."
+      },
+      {
+        "word": "No matter (what/how/where)",
+        "type": "Phrase",
+        "definition": "Regardless of.",
+        "translation": "无论... / 不管...",
+        "example": "I will go to her concert, no matter how much the ticket costs."
+      },
+      {
+        "word": "Concert",
+        "type": "Noun",
+        "definition": "A musical performance given in public.",
+        "translation": "演唱会 / 音乐会",
+        "example": "We bought front-row tickets for the rock concert this weekend."
+      },
+      {
+        "word": "Crowded",
+        "type": "Adjective",
+        "definition": "Full of people, leaving little or no room for movement.",
+        "translation": "拥挤的",
+        "example": "The subway was so crowded after the concert that we couldn't even move."
+      },
+      {
+        "word": "Turns out",
+        "type": "Phrase",
+        "definition": "Prove to be the case.",
+        "translation": "结果是 / 原来是",
+        "example": "I thought I wouldn't like jazz music, but it turns out I love it!"
+      },
+      {
+        "word": "Vibe",
+        "type": "Noun",
+        "definition": "A person's emotional state or the atmosphere of a place as communicated to and felt by others.",
+        "translation": "氛围 / 气氛 / 感觉",
+        "example": "This coffee shop has a very relaxing and chill vibe."
+      },
+      {
+        "word": "Focus",
+        "type": "Verb",
+        "definition": "Adapt to the prevailing level of light and become able to see clearly. Pay particular attention to.",
+        "translation": "专注 / 集中注意力",
+        "example": "Listening to soft piano music helps me focus on my homework."
+      },
+      {
+        "word": "Instantly",
+        "type": "Adverb",
+        "definition": "At once; immediately.",
+        "translation": "立刻 / 瞬间",
+        "example": "Whenever I hear this song, I instantly feel happy."
+      },
+      {
+        "word": "Remind [someone] of [something]",
+        "type": "Phrase",
+        "definition": "Cause someone to think of (someone or something).",
+        "translation": "让某人想起某事/某人",
+        "example": "This classic song reminds me of my high school days."
+      },
+      {
+        "word": "Childhood",
+        "type": "Noun",
+        "definition": "The state of being a child.",
+        "translation": "童年",
+        "example": "I spent my childhood playing in the park with my neighborhood friends."
+      },
+      {
+        "word": "Upbeat",
+        "type": "Adjective",
+        "definition": "Cheerful; optimistic.",
+        "translation": "欢快的 / 节奏轻快的",
+        "example": "I need some upbeat music to wake me up in the morning."
+      }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Today's class was all about the rhythm and vibes! We discussed our favorite types of music, going to live events, and how different songs can instantly change our moods.",
+      "We talked about the excitement of going to a live concert. Even though stadiums can get incredibly crowded, everyone agreed that the energetic vibe makes it a fantastic and unforgettable experience.",
+      "We also explored how hearing an old song can remind us of our childhood, making us feel deeply nostalgic. It turns out that some of the trendy songs we used to listen to years ago actually have very difficult lyrics to memorize!",
+      "Finally, Kiki, Yating, and Peter shared how upbeat music helps them focus while working or studying, no matter what difficult task they are trying to complete."
+    ],
+    "keyVocabulary": [
+      { "word": "Lyrics", "spellOut": "Lyrics", "translation": "歌词", "example": "\"The melody is beautiful, but the lyrics of this song are very sad.\"" },
+      { "word": "Difficult / Hard", "spellOut": "Difficult, Hard", "translation": "困难的", "example": "\"Rap songs are very difficult to sing because the words are so fast.\"" },
+      { "word": "Nostalgic", "spellOut": "Nostalgic", "translation": "怀旧的 / 引起怀旧之情的", "example": "\"Listening to 90s pop music makes me feel so nostalgic.\"" },
+      { "word": "Trendy", "spellOut": "Trendy", "translation": "时髦的 / 流行的", "example": "\"K-pop and hip-hop are very trendy right now among young people.\"" },
+      { "word": "Energetic", "spellOut": "Energetic", "translation": "精力充沛的 / 充满活力的", "example": "\"I like to listen to energetic music when I am working out at the gym.\"" },
+      { "word": "No matter (what/how/where)", "spellOut": "No matter", "translation": "无论... / 不管...", "example": "\"I will go to her concert, no matter how much the ticket costs.\"" },
+      { "word": "Concert", "spellOut": "Concert", "translation": "演唱会 / 音乐会", "example": "\"We bought front-row tickets for the rock concert this weekend.\"" },
+      { "word": "Crowded", "spellOut": "Crowded", "translation": "拥挤的", "example": "\"The subway was so crowded after the concert that we couldn't even move.\"" },
+      { "word": "Turns out", "spellOut": "Turns out", "translation": "结果是 / 原来是", "example": "\"I thought I wouldn't like jazz music, but it turns out I love it!\"" },
+      { "word": "Vibe", "spellOut": "Vibe", "translation": "氛围 / 气氛 / 感觉", "example": "\"This coffee shop has a very relaxing and chill vibe.\"" },
+      { "word": "Focus", "spellOut": "Focus", "translation": "专注 / 集中注意力", "example": "\"Listening to soft piano music helps me focus on my homework.\"" },
+      { "word": "Instantly", "spellOut": "Instantly", "translation": "立刻 / 瞬间", "example": "\"Whenever I hear this song, I instantly feel happy.\"" },
+      { "word": "Remind [someone] of [something]", "spellOut": "Remind someone of something", "translation": "让某人想起某事/某人", "example": "\"This classic song reminds me of my high school days.\"" },
+      { "word": "Childhood", "spellOut": "Childhood", "translation": "童年", "example": "\"I spent my childhood playing in the park with my neighborhood friends.\"" },
+      { "word": "Upbeat", "spellOut": "Upbeat", "translation": "欢快的 / 节奏轻快的", "example": "\"I need some upbeat music to wake me up in the morning.\"" }
+    ],
+    "grammarTips": [
+      {
+        "title": "Grammar Correction: 'No matter' vs. 'Regardless of'",
+        "description": "It is a common mistake to say 'no matter of'. In English, you should use 'no matter' followed by a question word (what, how, who, where), OR you can say 'regardless of'. Never mix them together!",
+        "incorrect": "\"I will listen to music no matter of the time.\"",
+        "correct": "\"I will listen to music NO MATTER WHAT time it is. OR I will listen to music REGARDLESS OF the time.\""
+      },
+      {
+        "title": "Using 'Remind of'",
+        "description": "When a song or smell makes you think of a memory, we use the verb 'remind' followed by the object and the preposition 'of'. Don't forget the 'of'!",
+        "incorrect": "\"This song reminds me my childhood.\"",
+        "correct": "\"This song reminds me OF my childhood.\""
+      },
+      {
+        "title": "Native Slang: Vibe",
+        "description": "The word 'vibe' is short for vibration, but native speakers use it constantly as slang to describe the emotional atmosphere of a place, a song, or even a person.",
+        "incorrect": "\"The restaurant has a good emotion.\"",
+        "correct": "\"The restaurant has a really good vibe.\""
+      },
+      {
+        "title": "Using 'Turns out'",
+        "description": "This is a fantastic conversational phrase! Use it when the final result of a situation was different from what you originally expected.",
+        "incorrect": "\"I thought it would rain, but the end it was sunny.\"",
+        "correct": "\"I thought it would rain, but it TURNS OUT it was sunny.\""
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Ensure students stop using 'no matter of' and use 'regardless of' or 'no matter [question word]' correctly.",
+      "Help students correctly use 'vibe' to describe emotional atmospheres.",
+      "Make sure students don't forget the particle 'of' with 'remind'."
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Warm-up and Vocabulary (15 Minutes)",
+        "description": "Introduce the idea of 'vibes' and finding a song's mood.",
+        "questions": [
+          "What kind of music helps you focus? Is it upbeat or relaxing?"
+        ]
+      },
+      {
+        "title": "Phase 2: Nostalgia and Memory (25 Minutes)",
+        "description": "Practice the 'reminds me of' and 'turns out' phrasing by telling childhood stories related to songs.",
+        "questions": [
+          "Can you name a song that instantly reminds you of your childhood?",
+          "Tell us about a time when you thought an experience would be bad, but it turns out it was actually great!"
+        ]
+      },
+      {
+        "title": "Phase 3: Live Events (15 Minutes)",
+        "description": "Discuss the pros and cons of live concerts. Focus on 'crowded' and 'energetic'.",
+        "questions": [
+          "Do you prefer going to a crowded, energetic concert or listening to music quietly at home?"
+        ]
       }
     ]
   }

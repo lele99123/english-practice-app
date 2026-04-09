@@ -6,6 +6,7 @@ import day4Data from '../data/day4.json';
 import day5Data from '../data/day5.json';
 import day6Data from '../data/day6.json';
 import day7Data from '../data/day7.json';
+import day8Data from '../data/day8.json';
 
 const reviewDataMap = {
   1: day1Data,
@@ -14,7 +15,8 @@ const reviewDataMap = {
   4: day4Data,
   5: day5Data,
   6: day6Data,
-  7: day7Data
+  7: day7Data,
+  8: day8Data
 };
 
 const speakText = (text) => {
