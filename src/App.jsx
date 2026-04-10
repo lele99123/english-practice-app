@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState, useEffect, useRef } from 'react';
 import ClassReview from './components/ClassReview';
 import TopicPreview from './components/TopicPreview';
 import VocabApp from './components/VocabApp';
@@ -9,6 +9,19 @@ function App() {
   const [activeTab, setActiveTab] = useState('preview');
   const [selectedDay, setSelectedDay] = useState(1); // Default to Day 1
   const [isVocabAppOpen, setIsVocabAppOpen] = useState(false);
+  const scrollContainerRef = useRef(null);
+  
+  const scrollLeft = () => {
+    if (scrollContainerRef.current) {
+      scrollContainerRef.current.scrollBy({ left: -200, behavior: 'smooth' });
+    }
+  };
+
+  const scrollRight = () => {
+    if (scrollContainerRef.current) {
+      scrollContainerRef.current.scrollBy({ left: 200, behavior: 'smooth' });
+    }
+  };
   
   const [isDarkMode, setIsDarkMode] = useState(() => {
     return localStorage.getItem('theme') === 'dark';
@@ -37,12 +50,19 @@ function App() {
         borderBottom: '1px solid var(--gray-200)',
         display: 'flex',
         alignItems: 'center',
-        padding: '0.75rem 1rem',
+        padding: '0.75rem 0.5rem',
         paddingTop: 'max(0.75rem, env(safe-area-inset-top))',
         zIndex: 50,
         boxShadow: '0 1px 2px 0 rgba(0, 0, 0, 0.05)'
       }}>
-        <div className="no-scrollbar" style={{ flex: 1, display: 'flex', overflowX: 'auto', WebkitOverflowScrolling: 'touch', whiteSpace: 'nowrap' }}>
+        <button 
+          onClick={scrollLeft}
+          style={{ background: 'none', border: 'none', padding: '0 0.5rem', cursor: 'pointer', color: 'var(--text-muted)' }}
+        >
+          <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M15 19l-7-7 7-7"></path></svg>
+        </button>
+
+        <div ref={scrollContainerRef} className="no-scrollbar" style={{ flex: 1, display: 'flex', overflowX: 'auto', WebkitOverflowScrolling: 'touch', whiteSpace: 'nowrap', scrollBehavior: 'smooth' }}>
           {topicsData.map(topic => (
             <button
               key={topic.day}
@@ -65,6 +85,14 @@ function App() {
             </button>
           ))}
         </div>
+        
+        <button 
+          onClick={scrollRight}
+          style={{ background: 'none', border: 'none', padding: '0 0.5rem', cursor: 'pointer', color: 'var(--text-muted)' }}
+        >
+          <svg width="20" height="20" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M9 5l7 7-7 7"></path></svg>
+        </button>
+
         <button 
           onClick={() => setIsDarkMode(!isDarkMode)}
           style={{
