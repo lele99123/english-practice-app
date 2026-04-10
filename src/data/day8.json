@@ -1,6 +1,6 @@
 {
   "day": 8,
-  "title": "Memorable Life Milestones",
+  "title": "Dining Out & Restaurant Conversations",
   "studentGuide": {
     "welcomeMessage": [
       {
@@ -8,96 +8,96 @@
         "zh": "欢迎来到第八天！🌟"
       },
       {
-        "en": "Today begins Week 2! We are going to talk about Memorable Life Milestones.",
-        "zh": "今天开始第二周！我们将谈论令人难忘的人生里程碑。"
+        "en": "Today we are talking about Dining Out & Ordering Food.",
+        "zh": "今天我们将讨论外出就餐和点餐。"
       },
       {
-        "en": "We'll discuss graduations, big moves, and the special moments that completely changed our lives.",
-        "zh": "我们将讨论毕业、大搬家以及彻底改变我们生活的特殊时刻。"
+        "en": "We'll discuss your favorite dishes, how to order food, and common restaurant conversations.",
+        "zh": "我们将讨论你最喜欢的菜肴、如何点餐以及常见的餐厅对话。"
       },
       {
-        "en": "Get ready to share your biggest achievements and most cherished memories!",
-        "zh": "准备好分享你最大的成就和最珍贵的记忆吧！"
+        "en": "Get ready to share your foodie experiences and learn some yummy vocabulary!",
+        "zh": "准备好分享你的美食经历并学习一些美味的词汇吧！"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What is the most memorable milestone you have achieved so far? (e.g., graduation, first job, getting married)",
-        "zh": "到目前为止，你取得的最难忘的里程碑是什么？(比如毕业、第一份工作、结婚)"
+        "en": "What is your favorite dish to order when you eat out?",
+        "zh": "你外出就餐时最喜欢点什么菜？"
       },
       {
-        "en": "Have you ever made a big move to a new city or country? How did it change you?",
-        "zh": "你曾经大搬家去一个新的城市或国家吗？它是如何改变你的？"
+        "en": "Do you prefer fine dining or casual street food? Why?",
+        "zh": "你更喜欢高级餐厅还是休闲街头小吃？为什么？"
       },
       {
-        "en": "Who was the most important person to support you during a major life change?",
-        "zh": "在重大人生变故/转折期间，支持你的最重要的人是谁？"
+        "en": "Have you ever had a funny or embarrassing experience while dining out?",
+        "zh": "你外出就餐时有过有趣或尴尬的经历吗？"
       },
       {
-        "en": "Looking back, what advice would you give to your younger self during your university graduation?",
-        "zh": "回想起来，在大学毕业时你会给年轻的自己什么建议？"
+        "en": "How do you usually ask for the bill or recommendations in English?",
+        "zh": "你通常如何用英语买单或询问推荐菜？"
       },
       {
-        "en": "What is the next big milestone you are hoping to reach in the next 5 years?",
-        "zh": "在接下来的5年里，你希望达到的下一个大里程碑是什么？"
+        "en": "What is a signature dish from your hometown that you would recommend to a foreigner?",
+        "zh": "你会向外国人推荐家乡的什么招牌菜？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Milestone",
+        "word": "Appetizer",
         "type": "Noun",
-        "definition": "An action or event marking a significant change or stage in development.",
-        "translation": "里程碑",
-        "example": "Graduating from university was a major milestone in my life."
+        "definition": "A small dish of food or a drink taken before a meal to stimulate one's appetite.",
+        "translation": "开胃菜",
+        "example": "We ordered some garlic bread as an appetizer."
       },
       {
-        "word": "Memorable",
+        "word": "Main course / Entrée",
+        "type": "Noun",
+        "definition": "The most substantial course of a meal.",
+        "translation": "主菜",
+        "example": "For the main course, I will have the grilled salmon."
+      },
+      {
+        "word": "Signature dish",
+        "type": "Noun",
+        "definition": "A recipe that identifies an individual chef or restaurant.",
+        "translation": "招牌菜",
+        "example": "Their signature dish is the spicy beef noodles."
+      },
+      {
+        "word": "Recommendation",
+        "type": "Noun",
+        "definition": "A suggestion or proposal as to the best course of action.",
+        "translation": "推荐",
+        "example": "Could you give us some recommendations from the menu?"
+      },
+      {
+        "word": "Allergic",
         "type": "Adjective",
-        "definition": "Worth remembering or easily remembered, especially because of being special or unusual.",
-        "translation": "难忘的 / 值得纪念的",
-        "example": "My first trip abroad was a very memorable experience."
+        "definition": "Caused by or relating to an allergy.",
+        "translation": "过敏的",
+        "example": "I am allergic to peanuts, so please make sure the dish is nut-free."
       },
       {
-        "word": "Graduation",
+        "word": "Check / Bill",
         "type": "Noun",
-        "definition": "The receiving or conferring of an academic degree or diploma.",
-        "translation": "毕业",
-        "example": "Her whole family came to celebrate her college graduation."
+        "definition": "A written statement of the amount owed for food and drink.",
+        "translation": "账单 / 买单",
+        "example": "Could we have the bill, please?"
       },
       {
-        "word": "Achievement",
+        "word": "Split the bill",
+        "type": "Phrase",
+        "definition": "To divide the cost of the meal equally among the people eating.",
+        "translation": "AA制 / 平摊费用",
+        "example": "Let's just split the bill evenly since we almost ate the same amount."
+      },
+      {
+        "word": "Takeaway / Takeout",
         "type": "Noun",
-        "definition": "A thing done successfully, typically by effort, courage, or skill.",
-        "translation": "成就",
-        "example": "Winning the championship was his proudest achievement."
-      },
-      {
-        "word": "Life-changing",
-        "type": "Adjective",
-        "definition": "Having an effect that is strong enough to change someone's life.",
-        "translation": "改变人生的",
-        "example": "Moving to a foreign country by myself was a life-changing decision."
-      },
-      {
-        "word": "Cherish",
-        "type": "Verb",
-        "definition": "Protect and care for someone lovingly; hold something dear.",
-        "translation": "珍视 / 珍惜",
-        "example": "I will always cherish the memories we made together during high school."
-      },
-      {
-        "word": "Overcome",
-        "type": "Verb",
-        "definition": "Succeed in dealing with a problem or difficulty.",
-        "translation": "克服",
-        "example": "She had to overcome many challenges to get her dream job."
-      },
-      {
-        "word": "Look back",
-        "type": "Phrasal verb",
-        "definition": "To think about something that happened in the past.",
-        "translation": "回顾 / 回想",
-        "example": "When I look back on my childhood, I realize how carefree I was."
+        "definition": "Food that is cooked in a restaurant and taken away to be eaten at home.",
+        "translation": "外卖 / 打包",
+        "example": "Let's just get some Chinese takeout tonight."
       }
     ]
   }
