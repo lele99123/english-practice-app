@@ -1,0 +1,104 @@
+{
+  "day": 9,
+  "title": "School Days & Education",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 9! 📚",
+        "zh": "欢迎来到第九天！📚"
+      },
+      {
+        "en": "Today, we're taking a trip down memory lane back to our school days.",
+        "zh": "今天，我们将开启一段回忆之旅，回顾我们的学生时代。"
+      },
+      {
+        "en": "We'll talk about our favorite and least favorite subjects, funny school stories, and the real value of college education.",
+        "zh": "我们将谈论我们最喜欢和最不喜欢的科目，学校里的趣事，以及大学教育的真正价值。"
+      },
+      {
+        "en": "Get ready to share some nostalgic stories from your classroom!",
+        "zh": "准备好分享一些关于课堂的怀旧故事吧！"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "What was your absolute favorite subject in high school or university, and why?",
+        "zh": "在高中或大学里，你最喜欢的一门科目是什么？为什么？"
+      },
+      {
+        "en": "Was there a subject that you found extremely difficult or simply disliked?",
+        "zh": "有没有哪门课你觉得特别难或者就是不喜欢？"
+      },
+      {
+        "en": "Can you share a funny or embarrassing story from your school days?",
+        "zh": "你能分享一个你在学生时代的有趣或尴尬的故事吗？"
+      },
+      {
+        "en": "Do you think going to college is still necessary for achieving success today?",
+        "zh": "你认为今天上大学对于获得成功仍然是必要的吗？"
+      },
+      {
+        "en": "If you could go back and study a completely different major, what would you choose?",
+        "zh": "如果你能回到过去并学习一个完全不同的专业，你会选择什么？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Subject",
+        "type": "Noun",
+        "definition": "A branch of knowledge studied or taught in a school, college, or university.",
+        "translation": "科目 / 学科",
+        "example": "Math wasn't my best subject, but I loved history."
+      },
+      {
+        "word": "Major",
+        "type": "Noun",
+        "definition": "A student's principal subject or course of study.",
+        "translation": "专业 / 主修",
+        "example": "She decided to major in computer science in university."
+      },
+      {
+        "word": "Value",
+        "type": "Noun",
+        "definition": "The importance, worth, or usefulness of something.",
+        "translation": "价值",
+        "example": "We discussed the true value of getting a college degree."
+      },
+      {
+        "word": "Embarrassing",
+        "type": "Adjective",
+        "definition": "Causing a feeling of self-conscious confusion and distress.",
+        "translation": "令人尴尬的",
+        "example": "I had a very embarrassing moment when I tripped in the cafeteria."
+      },
+      {
+        "word": "Strict",
+        "type": "Adjective",
+        "definition": "Demanding that rules concerning behavior are obeyed and observed.",
+        "translation": "严格的",
+        "example": "My high school teacher was very strict about deadlines."
+      },
+      {
+        "word": "Campus",
+        "type": "Noun",
+        "definition": "The grounds and buildings of a university or college.",
+        "translation": "校园",
+        "example": "Living on campus made it easy to meet new friends."
+      },
+      {
+        "word": "Necessary",
+        "type": "Adjective",
+        "definition": "Required to be done, achieved, or present; needed; essential.",
+        "translation": "必需的 / 必要的",
+        "example": "Do you think a master's degree is necessary for this job?"
+      },
+      {
+        "word": "Nostalgic",
+        "type": "Adjective",
+        "definition": "Feeling, evoking, or characterized by a sentimental longing for the past.",
+        "translation": "怀旧的",
+        "example": "Looking at old school photos makes me feel very nostalgic."
+      }
+    ]
+  }
+}

@@ -1,6 +1,6 @@
 {
   "day": 8,
-  "title": "Dining Out & Restaurant Conversations",
+  "title": "Dining Out, Cuisines, and Restaurant Experiences",
   "studentGuide": {
     "welcomeMessage": [
       {
@@ -8,96 +8,220 @@
         "zh": "欢迎来到第八天！🌟"
       },
       {
-        "en": "Today we are talking about Dining Out & Ordering Food.",
-        "zh": "今天我们将讨论外出就餐和点餐。"
+        "en": "Today's class will make us all a little bit hungry!",
+        "zh": "今天的课程会让我们都有点饿！"
       },
       {
-        "en": "We'll discuss your favorite dishes, how to order food, and common restaurant conversations.",
-        "zh": "我们将讨论你最喜欢的菜肴、如何点餐以及常见的餐厅对话。"
+        "en": "We are going to have a wonderful discussion about dining out, exploring different international cuisines, and talking about what makes a restaurant great.",
+        "zh": "我们将探讨外出就餐、探索不同的国际美食，以及讨论是什么让一家餐厅变得很棒。"
       },
       {
-        "en": "Get ready to share your foodie experiences and learn some yummy vocabulary!",
-        "zh": "准备好分享你的美食经历并学习一些美味的词汇吧！"
+        "en": "Get ready to share your favorite meals and funniest restaurant stories!",
+        "zh": "准备好分享你最喜欢的饭菜和最有趣的餐厅故事吧！"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What is your favorite dish to order when you eat out?",
-        "zh": "你外出就餐时最喜欢点什么菜？"
+        "en": "Do you prefer eating out at a restaurant or cooking at home? Why?",
+        "zh": "你更喜欢在餐厅吃饭还是在家里做饭？为什么？"
       },
       {
-        "en": "Do you prefer fine dining or casual street food? Why?",
-        "zh": "你更喜欢高级餐厅还是休闲街头小吃？为什么？"
+        "en": "Have you ever had a terrible experience at a restaurant? What happened?",
+        "zh": "你曾经在餐厅有过糟糕的经历吗？发生了什么事？"
       },
       {
-        "en": "Have you ever had a funny or embarrassing experience while dining out?",
-        "zh": "你外出就餐时有过有趣或尴尬的经历吗？"
+        "en": "If you could eat any cuisine in the world right now, what would be your first choice?",
+        "zh": "如果你现在可以吃世界上任何一种美食，你的首选是什么？"
       },
       {
-        "en": "How do you usually ask for the bill or recommendations in English?",
-        "zh": "你通常如何用英语买单或询问推荐菜？"
+        "en": "When eating out with friends, what is the custom in your country? Do you usually split the bill or does one person pay?",
+        "zh": "和朋友出去吃饭时，你们国家的习俗是什么？你们通常是AA制（平分账单）还是一个人买单？"
       },
       {
-        "en": "What is a signature dish from your hometown that you would recommend to a foreigner?",
-        "zh": "你会向外国人推荐家乡的什么招牌菜？"
+        "en": "Are there any foods you absolutely cannot eat because of an allergy or a strong dislike (like raw fish or garlic)?",
+        "zh": "有没有因为过敏或非常不喜欢而绝对不能吃的食物（比如生鱼片或大蒜）？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Appetizer",
-        "type": "Noun",
-        "definition": "A small dish of food or a drink taken before a meal to stimulate one's appetite.",
-        "translation": "开胃菜",
-        "example": "We ordered some garlic bread as an appetizer."
-      },
-      {
-        "word": "Main course / Entrée",
-        "type": "Noun",
-        "definition": "The most substantial course of a meal.",
-        "translation": "主菜",
-        "example": "For the main course, I will have the grilled salmon."
-      },
-      {
-        "word": "Signature dish",
-        "type": "Noun",
-        "definition": "A recipe that identifies an individual chef or restaurant.",
-        "translation": "招牌菜",
-        "example": "Their signature dish is the spicy beef noodles."
-      },
-      {
-        "word": "Recommendation",
-        "type": "Noun",
-        "definition": "A suggestion or proposal as to the best course of action.",
-        "translation": "推荐",
-        "example": "Could you give us some recommendations from the menu?"
-      },
-      {
-        "word": "Allergic",
-        "type": "Adjective",
-        "definition": "Caused by or relating to an allergy.",
-        "translation": "过敏的",
-        "example": "I am allergic to peanuts, so please make sure the dish is nut-free."
-      },
-      {
-        "word": "Check / Bill",
-        "type": "Noun",
-        "definition": "A written statement of the amount owed for food and drink.",
-        "translation": "账单 / 买单",
-        "example": "Could we have the bill, please?"
-      },
-      {
-        "word": "Split the bill",
+        "word": "Once a week",
         "type": "Phrase",
-        "definition": "To divide the cost of the meal equally among the people eating.",
-        "translation": "AA制 / 平摊费用",
-        "example": "Let's just split the bill evenly since we almost ate the same amount."
+        "definition": "Happening one time during a seven-day period.",
+        "translation": "一周一次",
+        "example": "My friends and I usually go out for a big dinner once a week."
       },
       {
-        "word": "Takeaway / Takeout",
+        "word": "Cuisine",
         "type": "Noun",
-        "definition": "Food that is cooked in a restaurant and taken away to be eaten at home.",
-        "translation": "外卖 / 打包",
-        "example": "Let's just get some Chinese takeout tonight."
+        "definition": "A style or method of cooking, especially as characteristic of a particular country, region, or establishment.",
+        "translation": "菜系 / 烹饪风格",
+        "example": "I love Italian cuisine, especially pasta and pizza."
+      },
+      {
+        "word": "Quality",
+        "type": "Noun",
+        "definition": "The standard of something as measured against other things of a similar kind.",
+        "translation": "质量 / 品质",
+        "example": "The price is a little high, but the quality of the meat is excellent."
+      },
+      {
+        "word": "Split (the bill)",
+        "type": "Phrase",
+        "definition": "Divide the cost of a meal evenly among the people eating.",
+        "translation": "平分 (账单) / AA制",
+        "example": "When we eat out together, we always split the bill."
+      },
+      {
+        "word": "Terrible",
+        "type": "Adjective",
+        "definition": "Extremely bad or serious.",
+        "translation": "糟糕的 / 极差的",
+        "example": "The food was cold and the service was terrible. I will never go back!"
+      },
+      {
+        "word": "Experience",
+        "type": "Noun",
+        "definition": "An event or occurrence which leaves an impression on someone.",
+        "translation": "体验 / 经历",
+        "example": "Eating by the ocean as the sun goes down is a wonderful dining experience."
+      },
+      {
+        "word": "Beside",
+        "type": "Preposition",
+        "definition": "At the side of; next to.",
+        "translation": "在...旁边",
+        "example": "Could we please have the table beside the window?"
+      },
+      {
+        "word": "Decoration",
+        "type": "Noun",
+        "definition": "The furnishing and adorning of a room.",
+        "translation": "装饰 / 装潢",
+        "example": "The restaurant's interior decoration is very modern and beautiful."
+      },
+      {
+        "word": "View",
+        "type": "Noun",
+        "definition": "A sight or prospect, typically of attractive natural scenery.",
+        "translation": "风景 / 视野",
+        "example": "If you sit on the balcony, you get a great view of the city skyline."
+      },
+      {
+        "word": "Allergy",
+        "type": "Noun",
+        "definition": "A damaging immune response by the body to a substance.",
+        "translation": "过敏",
+        "example": "Please tell the chef that I have a severe peanut allergy."
+      },
+      {
+        "word": "Raw",
+        "type": "Adjective",
+        "definition": "Not cooked.",
+        "translation": "生的 / 未煮熟的",
+        "example": "Sushi and sashimi are made with fresh, raw fish."
+      },
+      {
+        "word": "Garlic",
+        "type": "Noun",
+        "definition": "A strong-smelling pungent-tasting bulb, used as a flavoring in cooking.",
+        "translation": "大蒜",
+        "example": "I love the taste of garlic, but it makes my breath smell strong!"
+      },
+      {
+        "word": "Custom",
+        "type": "Noun",
+        "definition": "A traditional and widely accepted way of behaving or doing something specific to a particular society.",
+        "translation": "风俗 / 习惯",
+        "example": "In America, giving a tip to the waiter is a very strict custom."
+      },
+      {
+        "word": "Choices",
+        "type": "Noun",
+        "definition": "An act of selecting or making a decision when faced with two or more possibilities.",
+        "translation": "选择",
+        "example": "The menu is so big; there are too many choices and I don't know what to order!"
+      }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Today's class made us all a little bit hungry! We had a wonderful and detailed discussion about dining out, exploring different international cuisines, and talking about what makes a restaurant great.",
+      "We talked about our habits, like treating ourselves to a nice meal once a week. We realized that a great restaurant isn't just about the quality of the food; the decoration and the view beside the window are also very important for a good experience.",
+      "The conversation got very practical when we discussed how to order food. We learned how to communicate specific dietary needs, such as having an allergy, asking for no garlic, or explaining that we can't eat raw food.",
+      "Finally, we talked about dining customs, such as how to split the bill with friends, and shared some funny stories about the most terrible restaurant experiences we have ever had!"
+    ],
+    "keyVocabulary": [
+      { "word": "Once a week", "spellOut": "Once a week", "translation": "一周一次", "example": "\"My friends and I usually go out for a big dinner once a week.\"" },
+      { "word": "Cuisine", "spellOut": "Cuisine", "translation": "菜系 / 烹饪风格", "example": "\"I love Italian cuisine, especially pasta and pizza.\"" },
+      { "word": "Quality", "spellOut": "Quality", "translation": "质量 / 品质", "example": "\"The price is a little high, but the quality of the meat is excellent.\"" },
+      { "word": "Split (the bill)", "spellOut": "Split the bill", "translation": "平分 (账单) / AA制", "example": "\"When we eat out together, we always split the bill.\"" },
+      { "word": "Terrible", "spellOut": "Terrible", "translation": "糟糕的 / 极差的", "example": "\"The food was cold and the service was terrible. I will never go back!\"" },
+      { "word": "Experience", "spellOut": "Experience", "translation": "体验 / 经历", "example": "\"Eating by the ocean as the sun goes down is a wonderful dining experience.\"" },
+      { "word": "Beside", "spellOut": "Beside", "translation": "在...旁边", "example": "\"Could we please have the table beside the window?\"" },
+      { "word": "Decoration", "spellOut": "Decoration", "translation": "装饰 / 装潢", "example": "\"The restaurant's interior decoration is very modern and beautiful.\"" },
+      { "word": "View", "spellOut": "View", "translation": "风景 / 视野", "example": "\"If you sit on the balcony, you get a great view of the city skyline.\"" },
+      { "word": "Allergy", "spellOut": "Allergy", "translation": "过敏", "example": "\"Please tell the chef that I have a severe peanut allergy.\"" },
+      { "word": "Raw", "spellOut": "Raw", "translation": "生的 / 未煮熟的", "example": "\"Sushi and sashimi are made with fresh, raw fish.\"" },
+      { "word": "Garlic", "spellOut": "Garlic", "translation": "大蒜", "example": "\"I love the taste of garlic, but it makes my breath smell strong!\"" },
+      { "word": "Custom", "spellOut": "Custom", "translation": "风俗 / 习惯", "example": "\"In America, giving a tip to the waiter is a very strict custom.\"" },
+      { "word": "Choices", "spellOut": "Choices", "translation": "选择", "example": "\"The menu is so big; there are too many choices and I don't know what to order!\"" }
+    ],
+    "grammarTips": [
+      {
+        "title": "Asking and Answering: Prefer A or B?",
+        "description": "When asking a question, we say 'Do you prefer A OR B?'. But when answering, we use the word 'TO'. We do not use 'than' with prefer.",
+        "incorrect": "\"I prefer Chinese food than Italian food.\"",
+        "correct": "Question: \"Do you prefer Chinese cuisine OR Italian cuisine?\" \nAnswer: \"I prefer Chinese cuisine TO Italian cuisine.\""
+      },
+      {
+        "title": "Expressing 'Neither': Neither A nor B",
+        "description": "If you want to say you do not like two things, you cannot say 'no A no B'. The correct English structure is 'Neither A nor B'.",
+        "incorrect": "\"I like no raw fish no garlic.\"",
+        "correct": "\"I like NEITHER raw fish NOR garlic.\""
+      },
+      {
+        "title": "Using 'Have you ever...?'",
+        "description": "When asking about someone's past life experiences, use 'Have you ever' followed by the Past Participle (V3) of the verb.",
+        "incorrect": "\"Did you ever have a terrible experience?\"",
+        "correct": "\"HAVE you ever HAD a terrible restaurant experience?\""
+      },
+      {
+        "title": "Beside vs. Besides",
+        "description": "Be careful with the 's'! 'Beside' means 'next to'. 'Besides' means 'in addition to' or 'anyway'.",
+        "incorrect": "\"I want to sit besides the window.\"",
+        "correct": "\"I want to sit BESIDE the window. (Next to the window)\""
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Ensure students correctly use 'prefer...to' and avoid using 'than'.",
+      "Help students correctly construct negative pairings with 'Neither...nor'.",
+      "Practice using present perfect 'Have you ever' for life experiences."
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: General Dining Preferences (15-20 Minutes)",
+        "description": "Warm-up with questions about dining out vs. cooking at home, and splitting the bill.",
+        "questions": [
+          "Do you prefer eating out at a restaurant or cooking at home? Why?",
+          "When eating out with friends, do you usually split the bill?"
+        ]
+      },
+      {
+        "title": "Phase 2: Specific Cuisines and Requirements (20-30 Minutes)",
+        "description": "Inquire about favorite cuisines and how to express dietary restrictions.",
+        "questions": [
+          "If you could eat any cuisine in the world right now, what would be your first choice?",
+          "Are there any foods you absolutely cannot eat (e.g., neither raw fish nor garlic)?"
+        ]
+      },
+      {
+        "title": "Phase 3: Best and Worst Experiences (15-20 Minutes)",
+        "description": "Encourage students to share memorable restaurant stories.",
+        "questions": [
+          "Have you ever had a terrible experience at a restaurant? What happened?"
+        ]
       }
     ]
   }
