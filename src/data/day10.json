@@ -1,0 +1,111 @@
+{
+  "day": 10,
+  "title": "Goals, Dreams, and Future Plans",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 10! 🚀",
+        "zh": "欢迎来到第十天！🚀"
+      },
+      {
+        "en": "Today, we are looking forward to the future.",
+        "zh": "今天，我们将展望未来。"
+      },
+      {
+        "en": "We'll discuss short-term vs long-term goals, our ultimate dream jobs, and how to overcome the fear of failure.",
+        "zh": "我们将讨论短期目标与长期目标、我们的终极理想工作，以及如何克服对失败的恐惧。"
+      },
+      {
+        "en": "Get ready to share your biggest ambitions and what inspires you!",
+        "zh": "准备好分享你最远大的抱负和激励你的事物吧！"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "What is one short-term goal you want to achieve this month?",
+        "zh": "这个月你想实现的一个短期目标是什么？"
+      },
+      {
+        "en": "When you were a child, what was your absolute dream job?",
+        "zh": "当你还是个孩子的时候，你绝对的理想工作是什么？"
+      },
+      {
+        "en": "Where do you see yourself in five years?",
+        "zh": "你觉得五年后的自己会在哪里、在做什么？"
+      },
+      {
+        "en": "Are you afraid of failure, or do you see it as a learning opportunity?",
+        "zh": "你是害怕失败，还是把它看作一个学习的机会？"
+      },
+      {
+        "en": "Who is someone that inspires you to keep following your dreams?",
+        "zh": "是谁在激励你不断追求梦想？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Goal",
+        "type": "Noun",
+        "definition": "The object of a person's ambition or effort; an aim or desired result.",
+        "translation": "目标",
+        "example": "My main goal this year is to improve my English fluency."
+      },
+      {
+        "word": "Dream",
+        "type": "Noun",
+        "definition": "A cherished aspiration, ambition, or ideal.",
+        "translation": "梦想",
+        "example": "It has always been my dream to travel around the world."
+      },
+      {
+        "word": "Future",
+        "type": "Noun",
+        "definition": "A period of time following the moment of speaking or writing.",
+        "translation": "未来",
+        "example": "I am very excited about what the future holds for us."
+      },
+      {
+        "word": "Short-term",
+        "type": "Adjective",
+        "definition": "Occurring in or relating to a relatively short period of time.",
+        "translation": "短期的",
+        "example": "My short-term plan is to finish this project by Friday."
+      },
+      {
+        "word": "Long-term",
+        "type": "Adjective",
+        "definition": "Occurring over or relating to a long period of time.",
+        "translation": "长期的",
+        "example": "Buying a house is a significant long-term investment."
+      },
+      {
+        "word": "Achieve",
+        "type": "Verb",
+        "definition": "Successfully bring about or reach a desired objective or result by effort, skill, or courage.",
+        "translation": "实现 / 达到",
+        "example": "You must work hard every day to achieve your goals."
+      },
+      {
+        "word": "Failure",
+        "type": "Noun",
+        "definition": "Lack of success.",
+        "translation": "失败",
+        "example": "Failure is not the opposite of success; it's part of the journey to success."
+      },
+      {
+        "word": "Overcome",
+        "type": "Verb",
+        "definition": "Succeed in dealing with a problem or difficulty.",
+        "translation": "克服",
+        "example": "She had to overcome her fear of public speaking to give the presentation."
+      },
+      {
+        "word": "Inspire",
+        "type": "Verb",
+        "definition": "Fill someone with the urge or ability to do or feel something, especially to do something creative.",
+        "translation": "启发 / 激励",
+        "example": "His incredible speech inspired me to start my own business."
+      }
+    ]
+  }
+}
