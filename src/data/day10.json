@@ -1,6 +1,6 @@
 {
   "day": 10,
-  "title": "Goals, Dreams, and Future Plans",
+  "title": "Goals, Resolutions, and Future Plans",
   "studentGuide": {
     "welcomeMessage": [
       {
@@ -12,99 +12,184 @@
         "zh": "今天，我们将展望未来。"
       },
       {
-        "en": "We'll discuss short-term vs long-term goals, our ultimate dream jobs, and how to overcome the fear of failure.",
-        "zh": "我们将讨论短期目标与长期目标、我们的终极理想工作，以及如何克服对失败的恐惧。"
+        "en": "We'll discuss personal goals, lifestyle changes, and New Year's resolutions.",
+        "zh": "我们将讨论个人目标、生活方式的改变以及新年决心。"
       },
       {
-        "en": "Get ready to share your biggest ambitions and what inspires you!",
-        "zh": "准备好分享你最远大的抱负和激励你的事物吧！"
+        "en": "Get ready to share your biggest ambitions and how you plan to achieve them!",
+        "zh": "准备好分享你最远大的抱负以及你打算如何实现它们吧！"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What is one short-term goal you want to achieve this month?",
-        "zh": "这个月你想实现的一个短期目标是什么？"
+        "en": "What is your resolution for this year? Have you been able to keep it?",
+        "zh": "你今年的决心/计划是什么？你能坚持下来吗？"
       },
       {
-        "en": "When you were a child, what was your absolute dream job?",
-        "zh": "当你还是个孩子的时候，你绝对的理想工作是什么？"
+        "en": "When it comes to studying or working, are you a very strict planner, or do you prefer to take things one day at a time?",
+        "zh": "在学习或工作方面，你是一个非常严格的计划者，还是更喜欢顺其自然/走一步看一步？"
       },
       {
-        "en": "Where do you see yourself in five years?",
-        "zh": "你觉得五年后的自己会在哪里、在做什么？"
+        "en": "Who is the most inspiring person you know, and why?",
+        "zh": "你认识的最鼓舞人心的人是谁？为什么？"
       },
       {
-        "en": "Are you afraid of failure, or do you see it as a learning opportunity?",
-        "zh": "你是害怕失败，还是把它看作一个学习的机会？"
+        "en": "At what age do people usually move out of their parents' house in your culture?",
+        "zh": "在你的文化中，人们通常在几岁搬出父母的家？"
       },
       {
-        "en": "Who is someone that inspires you to keep following your dreams?",
-        "zh": "是谁在激励你不断追求梦想？"
+        "en": "If you could go to any amusement park in the world right now, what is the first ride you would go on?",
+        "zh": "如果你现在可以去世界上任何一个游乐园，你会玩的第一个项目是什么？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Goal",
+        "word": "Resolution",
         "type": "Noun",
-        "definition": "The object of a person's ambition or effort; an aim or desired result.",
-        "translation": "目标",
-        "example": "My main goal this year is to improve my English fluency."
+        "definition": "A firm decision to do or not to do something.",
+        "translation": "决心 / (新年的)计划",
+        "example": "My New Year's resolution is to read one book every month."
       },
       {
-        "word": "Dream",
-        "type": "Noun",
-        "definition": "A cherished aspiration, ambition, or ideal.",
-        "translation": "梦想",
-        "example": "It has always been my dream to travel around the world."
+        "word": "Keep (a resolution/promise)",
+        "type": "Verb",
+        "definition": "To honor or fulfill a commitment.",
+        "translation": "保持 / 遵守",
+        "example": "It is easy to make a resolution, but it is very hard to keep it all year."
       },
       {
-        "word": "Future",
-        "type": "Noun",
-        "definition": "A period of time following the moment of speaking or writing.",
-        "translation": "未来",
-        "example": "I am very excited about what the future holds for us."
-      },
-      {
-        "word": "Short-term",
+        "word": "Strict",
         "type": "Adjective",
-        "definition": "Occurring in or relating to a relatively short period of time.",
-        "translation": "短期的",
-        "example": "My short-term plan is to finish this project by Friday."
+        "definition": "Demanding that rules concerning behavior are obeyed and observed.",
+        "translation": "严格的",
+        "example": "She has a very strict diet plan because she wants to get healthier."
       },
       {
-        "word": "Long-term",
+        "word": "Take things one day at a time",
+        "type": "Phrase",
+        "definition": "To deal with things as they happen, and not to make plans or to worry about the future.",
+        "translation": "一步一个脚印 / 顺其自然地过好每一天",
+        "example": "Don't worry too much about the future; just take things one day at a time."
+      },
+      {
+        "word": "Plan",
+        "type": "Noun / Verb",
+        "definition": "A detailed proposal for doing or achieving something.",
+        "translation": "计划",
+        "example": "We need to make a detailed plan before we go on our road trip."
+      },
+      {
+        "word": "Gain (weight)",
+        "type": "Verb",
+        "definition": "To increase in weight.",
+        "translation": "增加(体重) / 增重",
+        "example": "He goes to the gym and eats a lot of protein because he wants to gain weight."
+      },
+      {
+        "word": "Inspiring",
         "type": "Adjective",
-        "definition": "Occurring over or relating to a long period of time.",
-        "translation": "长期的",
-        "example": "Buying a house is a significant long-term investment."
+        "definition": "Having the effect of inspiring someone.",
+        "translation": "鼓舞人心的 / 启发人的",
+        "example": "Listening to his success story was deeply inspiring."
       },
       {
-        "word": "Achieve",
-        "type": "Verb",
-        "definition": "Successfully bring about or reach a desired objective or result by effort, skill, or courage.",
-        "translation": "实现 / 达到",
-        "example": "You must work hard every day to achieve your goals."
+        "word": "Move out",
+        "type": "Phrasal Verb",
+        "definition": "Leave one's previous home to live elsewhere.",
+        "translation": "搬出去 (住)",
+        "example": "After I graduate from university and get a job, I plan to move out."
       },
       {
-        "word": "Failure",
+        "word": "As long as",
+        "type": "Phrase",
+        "definition": "Provided that.",
+        "translation": "只要...",
+        "example": "You can go to the party as long as you finish your homework first."
+      },
+      {
+        "word": "Amusement park",
         "type": "Noun",
-        "definition": "Lack of success.",
-        "translation": "失败",
-        "example": "Failure is not the opposite of success; it's part of the journey to success."
+        "definition": "A large outdoor area with fairground rides, shows, and other entertainments.",
+        "translation": "游乐园",
+        "example": "Riding the rollercoasters at the amusement park is my favorite thing to do."
+      }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Today's class was incredibly inspiring! We focused our discussion on the future, sharing our personal goals, lifestyle changes, and New Year's resolutions.",
+      "We talked about the different ways people approach their goals. Some people like to make a very strict plan and follow it perfectly, while others prefer not to stress too much and just take things one day at a time.",
+      "Everyone shared some wonderful personal goals. We talked about health and fitness, like trying to gain weight and build muscle. We also discussed big life steps, such as planning to move out of our parents' homes to live independently.",
+      "Of course, we didn't forget about having fun! We agreed that working hard is great, as long as we also make time for fun experiences, like planning a trip to an amusement park together."
+    ],
+    "keyVocabulary": [
+      { "word": "Resolution", "spellOut": "Resolution", "translation": "决心 / (新年的)计划", "example": "\"My New Year's resolution is to read one book every month.\"" },
+      { "word": "Keep (a resolution/promise)", "spellOut": "Keep a resolution, Keep a promise", "translation": "保持 / 遵守", "example": "\"It is easy to make a resolution, but it is very hard to keep it all year.\"" },
+      { "word": "Strict", "spellOut": "Strict", "translation": "严格的", "example": "\"She has a very strict diet plan because she wants to get healthier.\"" },
+      { "word": "Take things one day at a time", "spellOut": "Take things one day at a time", "translation": "一步一个脚印 / 顺其自然地过好每一天", "example": "\"Don't worry too much about the future; just take things one day at a time.\"" },
+      { "word": "Plan", "spellOut": "Plan", "translation": "计划", "example": "\"We need to make a detailed plan before we go on our road trip.\"" },
+      { "word": "Gain (weight)", "spellOut": "Gain weight", "translation": "增加(体重) / 增重", "example": "\"He goes to the gym and eats a lot of protein because he wants to gain weight.\"" },
+      { "word": "Inspiring", "spellOut": "Inspiring", "translation": "鼓舞人心的 / 启发人的", "example": "\"Listening to his success story was deeply inspiring.\"" },
+      { "word": "Move out", "spellOut": "Move out", "translation": "搬出去 (住)", "example": "\"After I graduate from university and get a job, I plan to move out.\"" },
+      { "word": "As long as", "spellOut": "As long as", "translation": "只要...", "example": "\"You can go to the party as long as you finish your homework first.\"" },
+      { "word": "Amusement park", "spellOut": "Amusement park", "translation": "游乐园", "example": "\"Riding the rollercoasters at the amusement park is my favorite thing to do.\"" }
+    ],
+    "grammarTips": [
+      {
+        "title": "Idiom: Take things one day at a time",
+        "description": "Make sure to use the plural 'things'. This is a very natural native phrase used to comfort someone who is stressed about the future. It means to focus only on the present day without worrying about tomorrow.",
+        "incorrect": "\"I am so stressed, I will just take thing one day at a time.\"",
+        "correct": "\"I am so stressed, I will just take THINGS one day at a time.\""
       },
       {
-        "word": "Overcome",
-        "type": "Verb",
-        "definition": "Succeed in dealing with a problem or difficulty.",
-        "translation": "克服",
-        "example": "She had to overcome her fear of public speaking to give the presentation."
+        "title": "Collocation: Keep a resolution",
+        "description": "In English, we 'make' a resolution, and if we succeed, we 'keep' it. If we fail, we 'break' it. We do not 'do' a resolution.",
+        "incorrect": "\"I did my New Year's resolution.\"",
+        "correct": "\"I KEPT my New Year's resolution.\""
       },
       {
-        "word": "Inspire",
-        "type": "Verb",
-        "definition": "Fill someone with the urge or ability to do or feel something, especially to do something creative.",
-        "translation": "启发 / 激励",
-        "example": "His incredible speech inspired me to start my own business."
+        "title": "Grammar: As long as",
+        "description": "This is a great phrase to introduce a condition (similar to 'if'). It means 'on the condition that'.",
+        "incorrect": "\"I am happy if long as we are together.\"",
+        "correct": "\"I am happy AS LONG AS we are together.\""
+      },
+      {
+        "title": "Opposites: Gain weight vs. Lose weight",
+        "description": "When talking about body weight, use 'gain' for going up and 'lose' for going down. Do not use 'add' or 'reduce'.",
+        "incorrect": "\"I want to add weight and my friend wants to reduce weight.\"",
+        "correct": "\"I want to GAIN weight and my friend wants to LOSE weight.\""
+      }
+    ]
+  },
+  "teacherGuide": {
+    "goals": [
+      "Teach the difference between 'make', 'keep', and 'break' a resolution.",
+      "Ensure students correctly use 'gain weight' and 'lose weight' instead of add/reduce.",
+      "Practice using 'as long as' for conditionals in future plans."
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Resolutions & Planning (15-20 Minutes)",
+        "description": "Warm up by discussing New Year's resolutions and planning habits.",
+        "questions": [
+          "What is your resolution for this year? Have you been able to keep it?",
+          "Are you a very strict planner, or do you prefer to take things one day at a time?"
+        ]
+      },
+      {
+        "title": "Phase 2: Health & Independence (20-30 Minutes)",
+        "description": "Discuss health goals and big life steps like moving out.",
+        "questions": [
+          "Who is the most inspiring person you know, and why?",
+          "At what age do people usually move out of their parents' house in your culture?"
+        ]
+      },
+      {
+        "title": "Phase 3: Fun & Rewards (15-20 Minutes)",
+        "description": "Talk about balancing hard work with fun experiences, using 'as long as'.",
+        "questions": [
+          "If you could go to any amusement park in the world right now, what is the first ride you would go on?"
+        ]
       }
     ]
   }
