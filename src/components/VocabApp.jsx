@@ -140,11 +140,33 @@ const VocabApp = ({ onClose, selectedDay }) => {
     const target = targetPool[0];
     testedInSessionRef.current.add(target.word);
     
-    // Pick 3 distractors
-    const distractors = [...allVocabItems]
-      .filter(v => v.word !== target.word)
-      .sort(() => Math.random() - 0.5)
-      .slice(0, 3);
+    const targetWords = target.word.toLowerCase().split('/').map(s => s.trim());
+    const targetTranslations = target.translation.toLowerCase().split('/').map(s => s.trim());
+    
+    let distractors = [];
+    const shuffledPool = [...allVocabItems].sort(() => Math.random() - 0.5);
+    
+    for (const v of shuffledPool) {
+      if (distractors.length >= 3) break;
+      
+      const vWords = v.word.toLowerCase().split('/').map(s => s.trim());
+      const vTranslations = v.translation.toLowerCase().split('/').map(s => s.trim());
+      
+      // Check if this vocab item overlaps with the target
+      const isTargetOverlap = vWords.some(w => targetWords.includes(w)) || 
+                              vTranslations.some(t => targetTranslations.includes(t));
+                              
+      // Check if this vocab item overlaps with already chosen distractors
+      const isDistractorOverlap = distractors.some(d => {
+         const dWords = d.word.toLowerCase().split('/').map(s => s.trim());
+         const dTranslations = d.translation.toLowerCase().split('/').map(s => s.trim());
+         return vWords.some(w => dWords.includes(w)) || vTranslations.some(t => dTranslations.includes(t));
+      });
+      
+      if (!isTargetOverlap && !isDistractorOverlap) {
+         distractors.push(v);
+      }
+    }
 
     // Determine question type
     let types = ['en-zh', 'zh-en'];
