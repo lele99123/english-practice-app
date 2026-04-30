@@ -10,6 +10,7 @@ import day8Data from '../data/day8.json';
 import day9Data from '../data/day9.json';
 import day10Data from '../data/day10.json';
 import day11Data from '../data/day11.json';
+import day12Data from '../data/day12.json';
 
 const reviewDataMap = {
   1: day1Data,
@@ -22,7 +23,8 @@ const reviewDataMap = {
   8: day8Data,
   9: day9Data,
   10: day10Data,
-  11: day11Data
+  11: day11Data,
+  12: day12Data
 };
 
 const speakText = (text) => {
@@ -169,6 +171,43 @@ const ClassReview = ({ day, topic }) => {
                 </li>
               ))}
             </ul>
+          </section>
+        )}
+
+        {/* Homework Roleplay */}
+        {data.homeworkRoleplay && (
+          <section className="card">
+            <h2 className="flex items-center mb-4" style={{ fontSize: '1.25rem' }}>
+              <span className="section-icon-bg" style={{ backgroundColor: 'rgba(139, 92, 246, 0.1)', color: 'rgb(139, 92, 246)' }}>
+                <svg style={{ width: '1.25rem', height: '1.25rem' }} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M12 6.253v13m0-13C10.832 5.477 9.246 5 7.5 5S4.168 5.477 3 6.253v13C4.168 18.477 5.754 18 7.5 18s3.332.477 4.5 1.253m0-13C13.168 5.477 14.754 5 16.5 5c1.747 0 3.332.477 4.5 1.253v13C19.832 18.477 18.247 18 16.5 18c-1.746 0-3.332.477-4.5 1.253"></path></svg>
+              </span>
+              {data.homeworkRoleplay.title || "Homework Roleplay"}
+            </h2>
+            {data.homeworkRoleplay.description && <p style={{ color: 'var(--text-muted)', marginBottom: '1rem', fontStyle: 'italic' }}>{data.homeworkRoleplay.description}</p>}
+            
+            <div style={{ padding: '1rem', backgroundColor: 'var(--gray-50)', borderRadius: 'var(--radius-lg)', marginBottom: '1rem' }}>
+              <h3 style={{ fontSize: '1rem', fontWeight: 600, marginBottom: '0.5rem', color: 'var(--indigo-600)' }}>Scenario</h3>
+              <p style={{ color: 'var(--text-main)', fontSize: '0.95rem' }}>{data.homeworkRoleplay.scenario}</p>
+            </div>
+
+            {data.homeworkRoleplay.roles && (
+              <div className="space-y-3" style={{ marginBottom: '1rem' }}>
+                <h3 style={{ fontSize: '1rem', fontWeight: 600 }}>Roles:</h3>
+                {Object.entries(data.homeworkRoleplay.roles).map(([role, task], idx) => (
+                  <div key={idx} style={{ padding: '0.75rem 1rem', borderLeft: '4px solid var(--blue-500)', backgroundColor: 'var(--white)', border: '1px solid var(--gray-200)', borderRadius: 'var(--radius-md)' }}>
+                    <strong style={{ display: 'block', color: 'var(--gray-800)', marginBottom: '0.25rem' }}>{role}</strong>
+                    <span style={{ color: 'var(--text-muted)', fontSize: '0.9rem' }}>{task}</span>
+                  </div>
+                ))}
+              </div>
+            )}
+            
+            {data.homeworkRoleplay.preparationTip && (
+              <div style={{ marginTop: '1rem', padding: '0.75rem', backgroundColor: 'rgba(59, 130, 246, 0.1)', color: 'var(--blue-700)', borderRadius: 'var(--radius-md)', fontSize: '0.9rem', display: 'flex', alignItems: 'flex-start' }}>
+                <span style={{ marginRight: '0.5rem' }}>💡</span>
+                <span>{data.homeworkRoleplay.preparationTip}</span>
+              </div>
+            )}
           </section>
         )}
 

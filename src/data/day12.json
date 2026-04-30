@@ -1,0 +1,104 @@
+{
+  "day": 12,
+  "title": "Overcoming Challenges",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 12! 💪",
+        "zh": "欢迎来到第十二天！💪"
+      },
+      {
+        "en": "Today, we are discussing how we face and overcome difficult challenges in life.",
+        "zh": "今天，我们将讨论我们如何面对和克服生活中的艰难挑战。"
+      },
+      {
+        "en": "We'll talk about tough times we've faced, mistakes we've learned from, and the importance of resilience.",
+        "zh": "我们将谈论我们面临过的艰难时期、我们从中学到的错误以及韧性的重要性。"
+      },
+      {
+        "en": "Get ready to share your inspiring stories of strength and survival!",
+        "zh": "准备好分享你关于力量和生存的鼓舞人心的故事吧！"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "Can you describe a difficult time in your life that you successfully overcame?",
+        "zh": "你能描述一段你成功克服的生活中的困难时期吗？"
+      },
+      {
+        "en": "What is the biggest mistake you have ever made, and what did you learn from it?",
+        "zh": "你犯过的最大的错误是什么？你从中学到了什么？"
+      },
+      {
+        "en": "How do you usually handle stress when things don't go according to your plan?",
+        "zh": "当事情没有按照你的计划进行时，你通常如何处理压力？"
+      },
+      {
+        "en": "Do you think going through difficult times makes a person stronger? Why or why not?",
+        "zh": "你认为经历困难时期会使一个人变得更强大吗？为什么？"
+      },
+      {
+        "en": "Who do you usually turn to for advice when you are facing a tough decision?",
+        "zh": "当你面临艰难的决定时，你通常会向谁寻求建议？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Challenge",
+        "type": "Noun",
+        "definition": "A task or situation that tests someone's abilities.",
+        "translation": "挑战",
+        "example": "Learning a new language as an adult is a big challenge."
+      },
+      {
+        "word": "Overcome",
+        "type": "Verb",
+        "definition": "Succeed in dealing with a problem or difficulty.",
+        "translation": "克服",
+        "example": "With her family's support, she was able to overcome the illness."
+      },
+      {
+        "word": "Resilience",
+        "type": "Noun",
+        "definition": "The capacity to recover quickly from difficulties; toughness.",
+        "translation": "韧性 / 恢复力",
+        "example": "His resilience allowed him to bounce back quickly after losing his job."
+      },
+      {
+        "word": "Mistake",
+        "type": "Noun",
+        "definition": "An action or judgment that is misguided or wrong.",
+        "translation": "错误",
+        "example": "It's important to admit when you have made a mistake."
+      },
+      {
+        "word": "Advice",
+        "type": "Noun",
+        "definition": "Guidance or recommendations offered with regard to prudent future action.",
+        "translation": "建议",
+        "example": "My grandfather gave me some excellent advice about saving money."
+      },
+      {
+        "word": "Tough",
+        "type": "Adjective",
+        "definition": "Strong enough to withstand adverse conditions or rough handling; difficult.",
+        "translation": "艰难的 / 坚强的",
+        "example": "It was a tough decision, but it was the right one for my career."
+      },
+      {
+        "word": "Struggle",
+        "type": "Verb",
+        "definition": "Make forceful or violent efforts to get free of restraint; have difficulty handling something.",
+        "translation": "挣扎 / 努力",
+        "example": "Many students struggle with English grammar at first."
+      },
+      {
+        "word": "Support",
+        "type": "Noun / Verb",
+        "definition": "Bear all or part of the weight of; give assistance to.",
+        "translation": "支持",
+        "example": "I couldn't have done it without the love and support of my friends."
+      }
+    ]
+  }
+}
