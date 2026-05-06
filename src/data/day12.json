@@ -1,103 +1,103 @@
 {
   "day": 12,
-  "title": "Overcoming Challenges",
+  "title": "Careers & Work Culture",
   "studentGuide": {
     "welcomeMessage": [
       {
-        "en": "Welcome to Day 12! 💪",
-        "zh": "欢迎来到第十二天！💪"
+        "en": "Welcome to Day 12! 💼",
+        "zh": "欢迎来到第十二天！💼"
       },
       {
-        "en": "Today, we are discussing how we face and overcome difficult challenges in life.",
-        "zh": "今天，我们将讨论我们如何面对和克服生活中的艰难挑战。"
+        "en": "Today, we are talking all about careers and work culture.",
+        "zh": "今天，我们将讨论所有关于职业和工作文化的话题。"
       },
       {
-        "en": "We'll talk about tough times we've faced, mistakes we've learned from, and the importance of resilience.",
-        "zh": "我们将谈论我们面临过的艰难时期、我们从中学到的错误以及韧性的重要性。"
+        "en": "We'll discuss your first jobs, dream jobs, work-life balance, and maybe even a few terrible boss stories!",
+        "zh": "我们将讨论你的第一份工作、理想的工作、工作与生活的平衡，甚至可能还有一些关于糟糕老板的故事！"
       },
       {
-        "en": "Get ready to share your inspiring stories of strength and survival!",
-        "zh": "准备好分享你关于力量和生存的鼓舞人心的故事吧！"
+        "en": "Get ready to share your professional experiences and ambitions!",
+        "zh": "准备好分享你的专业经验和抱负吧！"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "Can you describe a difficult time in your life that you successfully overcame?",
-        "zh": "你能描述一段你成功克服的生活中的困难时期吗？"
+        "en": "What was your very first job? Did you enjoy it?",
+        "zh": "你的第一份工作是什么？你喜欢它吗？"
       },
       {
-        "en": "What is the biggest mistake you have ever made, and what did you learn from it?",
-        "zh": "你犯过的最大的错误是什么？你从中学到了什么？"
+        "en": "If money was not an issue, what would be your absolute dream job?",
+        "zh": "如果不用考虑钱的问题，你绝对理想的工作会是什么？"
       },
       {
-        "en": "How do you usually handle stress when things don't go according to your plan?",
-        "zh": "当事情没有按照你的计划进行时，你通常如何处理压力？"
+        "en": "How important is work-life balance to you? Do you often work overtime?",
+        "zh": "工作与生活的平衡对你来说有多重要？你经常加班吗？"
       },
       {
-        "en": "Do you think going through difficult times makes a person stronger? Why or why not?",
-        "zh": "你认为经历困难时期会使一个人变得更强大吗？为什么？"
+        "en": "Have you ever had a really great (or terrible) boss? What made them that way?",
+        "zh": "你遇到过非常棒（或非常糟糕）的老板吗？是什么让他们变成那样？"
       },
       {
-        "en": "Who do you usually turn to for advice when you are facing a tough decision?",
-        "zh": "当你面临艰难的决定时，你通常会向谁寻求建议？"
+        "en": "Do you prefer working from home or going into an office every day?",
+        "zh": "你更喜欢在家工作还是每天去办公室？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Challenge",
+        "word": "Career",
         "type": "Noun",
-        "definition": "A task or situation that tests someone's abilities.",
-        "translation": "挑战",
-        "example": "Learning a new language as an adult is a big challenge."
+        "definition": "An occupation undertaken for a significant period of a person's life and with opportunities for progress.",
+        "translation": "职业 / 事业",
+        "example": "She is pursuing a successful career in the medical field."
       },
       {
-        "word": "Overcome",
-        "type": "Verb",
-        "definition": "Succeed in dealing with a problem or difficulty.",
-        "translation": "克服",
-        "example": "With her family's support, she was able to overcome the illness."
-      },
-      {
-        "word": "Resilience",
+        "word": "Work-life balance",
         "type": "Noun",
-        "definition": "The capacity to recover quickly from difficulties; toughness.",
-        "translation": "韧性 / 恢复力",
-        "example": "His resilience allowed him to bounce back quickly after losing his job."
+        "definition": "The division of one's time and focus between working and family or leisure activities.",
+        "translation": "工作与生活的平衡",
+        "example": "My new company offers a much better work-life balance."
       },
       {
-        "word": "Mistake",
+        "word": "Overtime",
         "type": "Noun",
-        "definition": "An action or judgment that is misguided or wrong.",
-        "translation": "错误",
-        "example": "It's important to admit when you have made a mistake."
+        "definition": "Time worked in addition to one's normal working hours.",
+        "translation": "加班",
+        "example": "He has been working a lot of overtime to finish the project."
       },
       {
-        "word": "Advice",
+        "word": "Dream job",
         "type": "Noun",
-        "definition": "Guidance or recommendations offered with regard to prudent future action.",
-        "translation": "建议",
-        "example": "My grandfather gave me some excellent advice about saving money."
+        "definition": "The ideal job that one hopes to have.",
+        "translation": "理想的工作",
+        "example": "Getting paid to travel the world is my ultimate dream job."
       },
       {
-        "word": "Tough",
-        "type": "Adjective",
-        "definition": "Strong enough to withstand adverse conditions or rough handling; difficult.",
-        "translation": "艰难的 / 坚强的",
-        "example": "It was a tough decision, but it was the right one for my career."
+        "word": "Colleague",
+        "type": "Noun",
+        "definition": "A person with whom one works in a profession or business.",
+        "translation": "同事",
+        "example": "My colleagues are very supportive and helpful."
       },
       {
-        "word": "Struggle",
-        "type": "Verb",
-        "definition": "Make forceful or violent efforts to get free of restraint; have difficulty handling something.",
-        "translation": "挣扎 / 努力",
-        "example": "Many students struggle with English grammar at first."
+        "word": "Boss / Manager",
+        "type": "Noun",
+        "definition": "A person in charge of a worker or organization.",
+        "translation": "老板 / 经理",
+        "example": "My manager asked me to prepare a presentation for tomorrow."
       },
       {
-        "word": "Support",
-        "type": "Noun / Verb",
-        "definition": "Bear all or part of the weight of; give assistance to.",
-        "translation": "支持",
-        "example": "I couldn't have done it without the love and support of my friends."
+        "word": "Salary",
+        "type": "Noun",
+        "definition": "A fixed regular payment made by an employer to an employee.",
+        "translation": "薪水",
+        "example": "She accepted the job offer because the salary was very competitive."
+      },
+      {
+        "word": "Promotion",
+        "type": "Noun",
+        "definition": "The action of raising someone to a higher position or rank.",
+        "translation": "晋升 / 升职",
+        "example": "After three years of hard work, he finally got a promotion."
       }
     ]
   }
