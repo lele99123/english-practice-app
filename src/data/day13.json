@@ -1,0 +1,104 @@
+{
+  "day": 13,
+  "title": "Health, Fitness, & Wellness",
+  "studentGuide": {
+    "welcomeMessage": [
+      {
+        "en": "Welcome to Day 13! 🏃‍♀️",
+        "zh": "欢迎来到第十三天！🏃‍♀️"
+      },
+      {
+        "en": "Today, we are talking all about health, fitness, and feeling your best.",
+        "zh": "今天，我们将讨论所有关于健康、健身以及如何保持最佳状态的话题。"
+      },
+      {
+        "en": "We'll discuss your daily exercise routines, healthy eating habits, and how to take care of your mental health.",
+        "zh": "我们将讨论你的日常锻炼习惯、健康的饮食习惯，以及如何照顾你的心理健康。"
+      },
+      {
+        "en": "Get ready to share your tips and tricks for living a healthy lifestyle!",
+        "zh": "准备好分享你过健康生活方式的秘诀和技巧吧！"
+      }
+    ],
+    "questionsToThinkAbout": [
+      {
+        "en": "How often do you exercise? What is your favorite way to stay active?",
+        "zh": "你多久锻炼一次？你最喜欢的保持活力的运动方式是什么？"
+      },
+      {
+        "en": "Do you think people today are generally healthier or less healthy than in the past?",
+        "zh": "你认为今天的人们普遍比过去更健康还是更不健康？"
+      },
+      {
+        "en": "What do you do to relax and take care of your mental health when you are feeling stressed?",
+        "zh": "当你感到压力时，你会做什么来放松和照顾你的心理健康？"
+      },
+      {
+        "en": "Have you ever tried a specific diet (like vegetarian, keto, or fasting)? Did it work?",
+        "zh": "你曾经尝试过特定的饮食方式吗（比如素食、生酮饮食或禁食）？它有效吗？"
+      },
+      {
+        "en": "How important is getting 8 hours of sleep to you? Do you usually sleep well?",
+        "zh": "保持8小时睡眠对你来说有多重要？你通常睡得好吗？"
+      }
+    ],
+    "vocabulary": [
+      {
+        "word": "Health",
+        "type": "Noun",
+        "definition": "The state of being free from illness or injury.",
+        "translation": "健康",
+        "example": "Eating lots of vegetables is very good for your health."
+      },
+      {
+        "word": "Fitness",
+        "type": "Noun",
+        "definition": "The condition of being physically fit and healthy.",
+        "translation": "健身 / 健康",
+        "example": "She goes to the gym every day to maintain her fitness."
+      },
+      {
+        "word": "Diet",
+        "type": "Noun / Verb",
+        "definition": "The kinds of food that a person, animal, or community habitually eats.",
+        "translation": "饮食 / 节食",
+        "example": "He decided to go on a strict diet to lose weight."
+      },
+      {
+        "word": "Mental health",
+        "type": "Noun",
+        "definition": "A person's condition with regard to their psychological and emotional well-being.",
+        "translation": "心理健康",
+        "example": "Taking a break from social media is great for your mental health."
+      },
+      {
+        "word": "Exercise",
+        "type": "Noun / Verb",
+        "definition": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+        "translation": "锻炼 / 运动",
+        "example": "Swimming is a fantastic full-body exercise."
+      },
+      {
+        "word": "Stress",
+        "type": "Noun",
+        "definition": "A state of mental or emotional strain or tension.",
+        "translation": "压力",
+        "example": "Working too many hours can cause a lot of stress."
+      },
+      {
+        "word": "Habit",
+        "type": "Noun",
+        "definition": "A settled or regular tendency or practice, especially one that is hard to give up.",
+        "translation": "习惯",
+        "example": "Drinking water first thing in the morning is a very healthy habit."
+      },
+      {
+        "word": "Lifestyle",
+        "type": "Noun",
+        "definition": "The way in which a person or group lives.",
+        "translation": "生活方式",
+        "example": "Moving to the countryside completely changed his lifestyle."
+      }
+    ]
+  }
+}

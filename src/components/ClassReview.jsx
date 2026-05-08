@@ -11,6 +11,7 @@ import day9Data from '../data/day9.json';
 import day10Data from '../data/day10.json';
 import day11Data from '../data/day11.json';
 import day12Data from '../data/day12.json';
+import day13Data from '../data/day13.json';
 
 const reviewDataMap = {
   1: day1Data,
@@ -24,7 +25,8 @@ const reviewDataMap = {
   9: day9Data,
   10: day10Data,
   11: day11Data,
-  12: day12Data
+  12: day12Data,
+  13: day13Data
 };
 
 const speakText = (text) => {
@@ -170,6 +172,33 @@ const ClassReview = ({ day, topic }) => {
                   <span style={{ color: 'var(--text-main)', fontWeight: 500 }}>{q}</span>
                 </li>
               ))}
+            </ul>
+          </section>
+        )}
+
+        {/* Homework Questions */}
+        {data.homeworkQuestions && (
+          <section className="card">
+            <h2 className="flex items-center mb-4" style={{ fontSize: '1.25rem' }}>
+              <span className="section-icon-bg" style={{ backgroundColor: 'rgba(236, 72, 153, 0.1)', color: 'rgb(236, 72, 153)' }}>
+                <svg style={{ width: '1.25rem', height: '1.25rem' }} fill="none" stroke="currentColor" viewBox="0 0 24 24"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M8 12h.01M12 12h.01M16 12h.01M21 12c0 4.418-4.03 8-9 8a9.863 9.863 0 01-4.255-.949L3 20l1.395-3.72C3.512 15.042 3 13.574 3 12c0-4.418 4.03-8 9-8s9 3.582 9 8z"></path></svg>
+              </span>
+              {data.homeworkQuestions.title || "Homework Questions"}
+            </h2>
+            {data.homeworkQuestions.description && <p style={{ color: 'var(--text-muted)', marginBottom: '1rem', fontStyle: 'italic' }}>{data.homeworkQuestions.description}</p>}
+            <ul className="space-y-3" style={{ color: 'var(--text-muted)' }}>
+              {data.homeworkQuestions.questions.map((q, i) => {
+                const [boldPart, rest] = q.includes(':') ? [q.split(':')[0] + ':', q.substring(q.indexOf(':') + 1)] : ['', q];
+                return (
+                <li key={i} className="flex" style={{ alignItems: 'flex-start' }}>
+                  <span style={{ color: 'rgb(236, 72, 153)', marginRight: '0.5rem', marginTop: '0.25rem' }}>•</span>
+                  <span style={{ color: 'var(--text-main)', fontWeight: 400 }}>
+                    {boldPart && <strong style={{ color: 'var(--gray-800)' }}>{boldPart}</strong>}
+                    {rest}
+                  </span>
+                </li>
+                );
+              })}
             </ul>
           </section>
         )}

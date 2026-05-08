@@ -11,6 +11,7 @@ import day9Data from '../data/day9.json';
 import day10Data from '../data/day10.json';
 import day11Data from '../data/day11.json';
 import day12Data from '../data/day12.json';
+import day13Data from '../data/day13.json';
 
 const daysData = {
   1: day1Data,
@@ -24,7 +25,8 @@ const daysData = {
   9: day9Data,
   10: day10Data,
   11: day11Data,
-  12: day12Data
+  12: day12Data,
+  13: day13Data
 };
 
 const speakText = (text) => {

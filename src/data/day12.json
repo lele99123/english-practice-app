@@ -43,61 +43,101 @@
       }
     ],
     "vocabulary": [
+      { "word": "Drift apart", "type": "Phrasal Verb", "definition": "To slowly become less close or friendly over time.", "translation": "渐渐疏远", "example": "We used to be best friends in high school, but we drifted apart after going to different universities." },
+      { "word": "Few", "type": "Adjective / Pronoun", "definition": "A small number of.", "translation": "很少 / 几个", "example": "I don't have a lot of friends; I just have a few very close friends." },
+      { "word": "Close (friend)", "type": "Adjective", "definition": "A friend who you know very well and can completely rely on.", "translation": "亲密的(朋友)", "example": "She is my close friend, so I trust her with all of my secrets." },
+      { "word": "Adult", "type": "Noun", "definition": "A person who is fully grown or developed.", "translation": "成年人", "example": "Do you think it is easy or hard to make new friends as an adult?" },
+      { "word": "Grown-up", "type": "Noun", "definition": "An adult (often used by or to children).", "translation": "成年人 / 大人的", "example": "A grown-up is a person who is not a child anymore." },
+      { "word": "Neighbor", "type": "Noun", "definition": "A person living next door to or very near to the speaker or person referred to.", "translation": "邻居", "example": "My next-door neighbor is very friendly and always says hello." },
+      { "word": "Neighborhood", "type": "Noun", "definition": "A district, especially one forming a community within a town or city.", "translation": "街区 / 社区 / 附近", "example": "There are a lot of great coffee shops and parks in my neighborhood." },
+      { "word": "Colleague", "type": "Noun", "definition": "A person with whom one works in a profession or business.", "translation": "同事", "example": "After work, I sometimes go out for dinner with my colleagues." },
+      { "word": "Tactful", "type": "Adjective", "definition": "Having or showing tact; careful not to offend or upset other people.", "translation": "得体的 / 圆滑的 / 委婉的", "example": "When telling a friend they made a bad choice, you need to be very tactful so you don't hurt their feelings." }
+    ]
+  },
+  "classReview": {
+    "sessionSummary": [
+      "Today's class was a very happy and simple conversation about the people we love and trust: our friends! We answered some deep dive questions about our best friends, how often we see them, and what we do for fun.",
+      "We discussed the challenges of making friends as we get older. Everyone shared their thoughts on whether it is easy or hard to make new friends as an adult. We realized that sometimes we drift apart from our childhood friends, but we can always make new connections with neighbors or colleagues at work.",
+      "We also learned some important communication skills, like how to be tactful when giving advice to a close friend. Finally, we prepared a fun roleplay and some great homework questions to think about for next time!"
+    ],
+    "keyVocabulary": [
+      { "word": "Drift apart", "spellOut": "Drift apart", "translation": "渐渐疏远", "example": "\"We used to be best friends in high school, but we drifted apart after going to different universities.\"" },
+      { "word": "Few", "spellOut": "Few", "translation": "很少 / 几个", "example": "\"I don't have a lot of friends; I just have a few very close friends.\"" },
+      { "word": "Close (friend)", "spellOut": "Close friend", "translation": "亲密的(朋友)", "example": "\"She is my close friend, so I trust her with all of my secrets.\"" },
+      { "word": "Adult", "spellOut": "Adult", "translation": "成年人", "example": "\"Do you think it is easy or hard to make new friends as an adult?\"" },
+      { "word": "Grown-up", "spellOut": "Grown-up", "translation": "成年人 / 大人的", "example": "\"A grown-up is a person who is not a child anymore.\"" },
+      { "word": "Neighbor", "spellOut": "Neighbor", "translation": "邻居", "example": "\"My next-door neighbor is very friendly and always says hello.\"" },
+      { "word": "Neighborhood", "spellOut": "Neighborhood", "translation": "街区 / 社区 / 附近", "example": "\"There are a lot of great coffee shops and parks in my neighborhood.\"" },
+      { "word": "Colleague", "spellOut": "Colleague", "translation": "同事", "example": "\"After work, I sometimes go out for dinner with my colleagues.\"" },
+      { "word": "Tactful", "spellOut": "Tactful", "translation": "得体的 / 圆滑的 / 委婉的", "example": "\"When telling a friend they made a bad choice, you need to be very tactful so you don't hurt their feelings.\"" }
+    ],
+    "grammarTips": [
       {
-        "word": "Friendship",
-        "type": "Noun",
-        "definition": "The emotions or conduct of friends; the state of being friends.",
-        "translation": "友谊",
-        "example": "Our friendship has lasted for over ten years."
+        "title": "Grammar Structure: 'It is [adjective] to [verb]'",
+        "description": "In English, it is very natural to start a sentence with 'It is' when describing an action. This is called a 'dummy subject'. Use this structure instead of putting the verb at the beginning of the sentence.",
+        "incorrect": "\"Make new friends as an adult is hard.\"",
+        "correct": "\"IT IS hard TO make new friends as an adult. / IT IS wonderful TO see you!\""
       },
       {
-        "word": "Quality",
-        "type": "Noun",
-        "definition": "A distinctive attribute or characteristic possessed by someone or something.",
-        "translation": "品质 / 质量",
-        "example": "Honesty is the most important quality in a friend."
+        "title": "Adult vs. Grown-up",
+        "description": "These two words mean the exact same thing (a person who is no longer a child). 'Adult' is more formal and common in writing. 'Grown-up' is slightly more casual and is often used by children or when talking to children.",
+        "incorrect": "N/A",
+        "correct": "\"When I become a grown-up, I want to be a doctor! / Ticket prices are $10 for adults.\""
       },
       {
-        "word": "Trust",
-        "type": "Noun / Verb",
-        "definition": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
-        "translation": "信任",
-        "example": "You have to trust your friends completely."
+        "title": "Spelling Check: Neighbor",
+        "description": "Be careful with the spelling of 'neighbor'! (It is spelled 'neighbour' in British English and 'neighbor' in American English, but never 'neighber').",
+        "incorrect": "\"He is my neighber.\"",
+        "correct": "\"He is my NEIGHBOR.\""
+      }
+    ],
+    "homeworkQuestions": {
+      "title": "Homework Questions for Next Class",
+      "description": "Please think about these questions and be ready to discuss them in our next session:",
+      "questions": [
+        "Giving Advice: If your friend makes a bad choice, do you tell them they are wrong, or do you stay quiet?",
+        "Online Friends: Do you have friends that you only talk to on the internet? Do you think internet friends are 'real' friends?"
+      ]
+    },
+    "homeworkRoleplay": {
+      "title": "Day 12 Homework: Fun Roleplay",
+      "description": "A very simple, happy scenario about seeing an old friend.",
+      "scenario": "Imagine I am your old friend. We have not seen each other for five years! We just saw each other on the street.",
+      "roles": {
+        "Step 1: Say hello": "Say hi loudly and tell me you are surprised and happy to see me!",
+        "Step 2: Ask questions": "Ask me how I am doing and what my job is now.",
+        "Step 3: Make a plan": "Ask me to get coffee or lunch with you next week to catch up."
+      },
+      "preparationTip": "Try using the structure 'It is wonderful to see you!' during your roleplay."
+    }
+  },
+  "teacherGuide": {
+    "goals": [
+      "Help students correctly use 'It is [adjective] to [verb]'.",
+      "Practice using 'tactful' when talking about giving advice.",
+      "Successfully review the roleplay structure."
+    ],
+    "phases": [
+      {
+        "title": "Phase 1: Old Friends (15-20 Minutes)",
+        "description": "Discuss childhood friends and how relationships change over time.",
+        "questions": [
+          "Who is your oldest friend? How did you first meet them?",
+          "Have your friendships changed since you graduated from school and started working?"
+        ]
       },
       {
-        "word": "Argument",
-        "type": "Noun",
-        "definition": "An exchange of diverging or opposite views, typically a heated or angry one.",
-        "translation": "争论 / 争吵",
-        "example": "We had a big argument, but we apologized to each other the next day."
+        "title": "Phase 2: Making New Friends (20-30 Minutes)",
+        "description": "Talk about the difficulty of making friends as adults.",
+        "questions": [
+          "Do you think it is easy or hard to make new friends as an adult?",
+          "How can you be tactful when giving a friend bad news?"
+        ]
       },
       {
-        "word": "Resolve",
-        "type": "Verb",
-        "definition": "Settle or find a solution to a problem, dispute, or contentious matter.",
-        "translation": "解决 / 化解",
-        "example": "It is important to resolve your conflicts quickly."
-      },
-      {
-        "word": "Platonic",
-        "type": "Adjective",
-        "definition": "Intimate and affectionate but not sexual.",
-        "translation": "柏拉图式的 / 纯精神的",
-        "example": "They have a purely platonic relationship and are just best friends."
-      },
-      {
-        "word": "Close friend",
-        "type": "Noun",
-        "definition": "A friend who you know very well and can completely rely on.",
-        "translation": "密友 / 好朋友",
-        "example": "I only have a few close friends, but that is all I need."
-      },
-      {
-        "word": "Drift apart",
-        "type": "Phrasal Verb",
-        "definition": "To slowly become less close or friendly over time.",
-        "translation": "逐渐疏远",
-        "example": "After high school, we went to different universities and drifted apart."
+        "title": "Phase 3: Fun Roleplay (5-10 Minutes)",
+        "description": "A very simple, happy scenario about seeing an old friend.",
+        "questions": []
       }
     ]
   }
