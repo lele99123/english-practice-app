@@ -1,103 +1,103 @@
 {
   "day": 12,
-  "title": "Careers & Work Culture",
+  "title": "Friendship & Relationships",
   "studentGuide": {
     "welcomeMessage": [
       {
-        "en": "Welcome to Day 12! 💼",
-        "zh": "欢迎来到第十二天！💼"
+        "en": "Welcome to Day 12! 🤝",
+        "zh": "欢迎来到第十二天！🤝"
       },
       {
-        "en": "Today, we are talking all about careers and work culture.",
-        "zh": "今天，我们将讨论所有关于职业和工作文化的话题。"
+        "en": "Today, we are diving into the topic of friendship and relationships.",
+        "zh": "今天，我们将深入探讨友谊和人际关系的话题。"
       },
       {
-        "en": "We'll discuss your first jobs, dream jobs, work-life balance, and maybe even a few terrible boss stories!",
-        "zh": "我们将讨论你的第一份工作、理想的工作、工作与生活的平衡，甚至可能还有一些关于糟糕老板的故事！"
+        "en": "We'll discuss what makes a good friend, how friendships change as we get older, and the importance of trust.",
+        "zh": "我们将讨论什么造就了真正的好朋友，随着年龄的增长友谊是如何改变的，以及信任的重要性。"
       },
       {
-        "en": "Get ready to share your professional experiences and ambitions!",
-        "zh": "准备好分享你的专业经验和抱负吧！"
+        "en": "Get ready to share stories about your closest friends and favorite memories together!",
+        "zh": "准备好分享关于你最亲密的朋友以及你们一起最美好回忆的故事吧！"
       }
     ],
     "questionsToThinkAbout": [
       {
-        "en": "What was your very first job? Did you enjoy it?",
-        "zh": "你的第一份工作是什么？你喜欢它吗？"
+        "en": "Who is your oldest friend? How did you first meet them?",
+        "zh": "谁是你最老的朋友？你们是怎么认识的？"
       },
       {
-        "en": "If money was not an issue, what would be your absolute dream job?",
-        "zh": "如果不用考虑钱的问题，你绝对理想的工作会是什么？"
+        "en": "In your opinion, what are the three most important qualities of a good friend?",
+        "zh": "在你看来，一个好朋友最重要的三个品质是什么？"
       },
       {
-        "en": "How important is work-life balance to you? Do you often work overtime?",
-        "zh": "工作与生活的平衡对你来说有多重要？你经常加班吗？"
+        "en": "Have your friendships changed since you graduated from school and started working?",
+        "zh": "自从你毕业开始工作后，你的友谊发生了改变吗？"
       },
       {
-        "en": "Have you ever had a really great (or terrible) boss? What made them that way?",
-        "zh": "你遇到过非常棒（或非常糟糕）的老板吗？是什么让他们变成那样？"
+        "en": "Have you ever had an argument with a close friend? How did you resolve it?",
+        "zh": "你曾经和一个亲密的朋友发生过争吵吗？你是怎么解决的？"
       },
       {
-        "en": "Do you prefer working from home or going into an office every day?",
-        "zh": "你更喜欢在家工作还是每天去办公室？"
+        "en": "Is it possible for men and women to be just completely platonic friends? Why or why not?",
+        "zh": "男人和女人之间有可能仅仅是完全纯洁的（柏拉图式的）朋友吗？为什么有可能或为什么不可能？"
       }
     ],
     "vocabulary": [
       {
-        "word": "Career",
+        "word": "Friendship",
         "type": "Noun",
-        "definition": "An occupation undertaken for a significant period of a person's life and with opportunities for progress.",
-        "translation": "职业 / 事业",
-        "example": "She is pursuing a successful career in the medical field."
+        "definition": "The emotions or conduct of friends; the state of being friends.",
+        "translation": "友谊",
+        "example": "Our friendship has lasted for over ten years."
       },
       {
-        "word": "Work-life balance",
+        "word": "Quality",
         "type": "Noun",
-        "definition": "The division of one's time and focus between working and family or leisure activities.",
-        "translation": "工作与生活的平衡",
-        "example": "My new company offers a much better work-life balance."
+        "definition": "A distinctive attribute or characteristic possessed by someone or something.",
+        "translation": "品质 / 质量",
+        "example": "Honesty is the most important quality in a friend."
       },
       {
-        "word": "Overtime",
-        "type": "Noun",
-        "definition": "Time worked in addition to one's normal working hours.",
-        "translation": "加班",
-        "example": "He has been working a lot of overtime to finish the project."
+        "word": "Trust",
+        "type": "Noun / Verb",
+        "definition": "Firm belief in the reliability, truth, ability, or strength of someone or something.",
+        "translation": "信任",
+        "example": "You have to trust your friends completely."
       },
       {
-        "word": "Dream job",
+        "word": "Argument",
         "type": "Noun",
-        "definition": "The ideal job that one hopes to have.",
-        "translation": "理想的工作",
-        "example": "Getting paid to travel the world is my ultimate dream job."
+        "definition": "An exchange of diverging or opposite views, typically a heated or angry one.",
+        "translation": "争论 / 争吵",
+        "example": "We had a big argument, but we apologized to each other the next day."
       },
       {
-        "word": "Colleague",
-        "type": "Noun",
-        "definition": "A person with whom one works in a profession or business.",
-        "translation": "同事",
-        "example": "My colleagues are very supportive and helpful."
+        "word": "Resolve",
+        "type": "Verb",
+        "definition": "Settle or find a solution to a problem, dispute, or contentious matter.",
+        "translation": "解决 / 化解",
+        "example": "It is important to resolve your conflicts quickly."
       },
       {
-        "word": "Boss / Manager",
-        "type": "Noun",
-        "definition": "A person in charge of a worker or organization.",
-        "translation": "老板 / 经理",
-        "example": "My manager asked me to prepare a presentation for tomorrow."
+        "word": "Platonic",
+        "type": "Adjective",
+        "definition": "Intimate and affectionate but not sexual.",
+        "translation": "柏拉图式的 / 纯精神的",
+        "example": "They have a purely platonic relationship and are just best friends."
       },
       {
-        "word": "Salary",
+        "word": "Close friend",
         "type": "Noun",
-        "definition": "A fixed regular payment made by an employer to an employee.",
-        "translation": "薪水",
-        "example": "She accepted the job offer because the salary was very competitive."
+        "definition": "A friend who you know very well and can completely rely on.",
+        "translation": "密友 / 好朋友",
+        "example": "I only have a few close friends, but that is all I need."
       },
       {
-        "word": "Promotion",
-        "type": "Noun",
-        "definition": "The action of raising someone to a higher position or rank.",
-        "translation": "晋升 / 升职",
-        "example": "After three years of hard work, he finally got a promotion."
+        "word": "Drift apart",
+        "type": "Phrasal Verb",
+        "definition": "To slowly become less close or friendly over time.",
+        "translation": "逐渐疏远",
+        "example": "After high school, we went to different universities and drifted apart."
       }
     ]
   }
